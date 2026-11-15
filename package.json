@@ -1,0 +1,10 @@
+{
+  "name": "kept",
+  "version": "0.1.0",
+  "description": "A guard that lets a rewrite of official text onto a page only if it keeps every figure and limit word, and a labelled set to measure rewrites with.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "exports": { ".": "./guard/index.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}

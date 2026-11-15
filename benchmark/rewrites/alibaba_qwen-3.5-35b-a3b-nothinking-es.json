@@ -1,0 +1,1087 @@
+[
+ {
+  "id": "self-assessment-tax-returns/deadlines#0",
+  "text": "HM Revenue and Customs (HMRC) debe recibir tu declaración de impuestos y cualquier dinero que debas pagar antes de la fecha límite.\n\nSi no conoces tu beneficio para todo el año fiscal, aún debes enviar una declaración de impuestos. Consulta cómo enviar una declaración si no conoces tu beneficio para todo el año.\n\nEl último año fiscal comenzó el 6 de abril de 2025 y terminó el 5 de abril de 2026. La fecha límite para las declaraciones de impuestos anteriores ha pasado y es posible que tengas que pagar una penalización. Envía tu declaración de impuestos o tu pago lo antes posible para evitar más penalizaciones.",
+  "seconds": 2.1,
+  "tokens_out": 137,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#1",
+  "text": "## Informar a HMRC de que debe presentar una declaración\n\nDebe informar a HMRC antes del 5 de octubre si necesita presentar una declaración de impuestos para el año anterior y cumple alguna de las siguientes condiciones:\n\n- no ha enviado una declaración de impuestos antes\n\n- se ha registrado anteriormente pero no necesitó enviar una declaración de impuestos para el año fiscal 2024 a 2025\n\nPuede informar a HMRC registrándose para Self Assessment. Consulte cómo registrarse para Self Assessment.\n\n### Si se registra después del 5 de octubre de 2026\n\nHMRC le enviará una carta o un correo electrónico con un plazo distinto para presentar su declaración de impuestos: será de 3 meses desde la fecha de la carta o el correo electrónico.\n\nAún debe pagar el impuesto que debe antes de las 11:59 p. m. del 31 de enero de 2027 o recibirá una sanción.",
+  "seconds": 2.07,
+  "tokens_out": 202,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#2",
+  "text": "## Enviar una declaración de impuestos en papel\n\nHMRC debe recibir su declaración de impuestos en papel antes de las 23:59 el 31 de octubre de 2026, o sufrirá una penalización por presentación tardía.\n\nPuede enviarla en cualquier momento a partir del 6 de abril de 2026, siempre que HMRC la reciba antes del plazo límite.",
+  "seconds": 1.57,
+  "tokens_out": 87,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#3",
+  "text": "## Presentar una declaración de impuestos en línea\n\nDebes presentar tu declaración de impuestos en línea antes de las 23:59 del 31 de enero de 2027, o recibirás una penalización por presentación tardía.\n\nSi quieres pagar tu factura de Self Assessment a través de tu código fiscal, debes presentarla antes de las 23:59 del 30 de diciembre de 2026. Si falta a este plazo, tendrás que pagar de otra manera.\n\nPuedes presentar tu declaración en cualquier momento el 6 de abril de 2026 o después, hasta el plazo límite.",
+  "seconds": 2.12,
+  "tokens_out": 136,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#4",
+  "text": "## Pagar el impuesto que debes\n\nDebes pagar tu impuesto de Declaración de la Renta Autoevaluación (Self Assessment) antes de las 23:59 del 31 de enero de 2027, de lo contrario recibirás una sanción.\n\nExiste una segunda fecha límite de pago el 31 de julio si realizas pagos por adelantado hacia tu factura; estos se conocen como 'pagos por cuenta'.\n\nPuedes estimar tu factura de impuesto de Autoevaluación (Self Assessment) antes de enviar tu declaración fiscal para:\n\n- darte una idea de cuál será probablemente tu factura\n- permitirte hacer un presupuesto y pagar a tiempo\n\nEncuentra ayuda para entender el impuesto que debes.",
+  "seconds": 1.62,
+  "tokens_out": 156,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#5",
+  "text": "## Administradores de un scheme de pensiones registrado o empresas no residentes\n\nHMRC debe recibir la declaración tributaria en papel antes del 31 de enero de 2027. No puede enviar la declaración en línea.\n\nPuede enviarla en cualquier momento a partir del 6 de abril de 2026, siempre que HMRC la reciba antes del plazo límite.",
+  "seconds": 1.27,
+  "tokens_out": 82,
+  "reader": "changed"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#6",
+  "text": "## Devoluciones de sociedades si tienes una empresa como socio\n\nSi la fecha de cierre de cuentas de tu sociedad está entre el 1 de febrero y el 5 de abril y uno de tus socios es una sociedad limitada, los plazos para:\n\n- las devoluciones en línea son de 12 meses desde la fecha de cierre de cuentas\n\n- las devoluciones en papel son de 9 meses desde la fecha de cierre de cuentas",
+  "seconds": 2.14,
+  "tokens_out": 89,
+  "reader": "changed"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#0",
+  "text": "Recibirá una penalización si necesita presentar una declaración de impuestos y:\n\n- presenta su declaración con retraso\n- paga su factura de impuestos con retraso\n\nPuede estimar su penalización por presentaciones y pagos de la Declaración de Impuestos de Autoevaluación (Self Assessment) con retraso.",
+  "seconds": 2.01,
+  "tokens_out": 65,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#1",
+  "text": "## Si te registras para la Autodeclaración (Self Assessment) con retraso\n\nSi te registras después del 5 de octubre y no pagas todo tu importe de impuestos para el 31 de enero, es posible que recibas una penalización por «falta de notificación».\n\nEsta penalización se basa en la cantidad que aún queda por pagar y la recibirás dentro de los 12 meses siguientes a que la HMRC reciba tu declaración de impuestos Self Assessment.\n\nPuedes encontrar más información sobre las penalizaciones por «falta de notificación».",
+  "seconds": 1.55,
+  "tokens_out": 123,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#2",
+  "text": "## Si envías tu declaración de impuestos con retraso\n\nRecibirás las siguientes sanciones por presentación tardía:\n\n- una sanción inicial de £100\n- después de 3 meses, sanciones diarias adicionales de £10 por día, con un máximo de £900\n- después de 6 meses, otra sanción del 5% del impuesto adeudado o £300, el que sea mayor\n- después de 12 meses, otra carga del 5% o £300, el que sea mayor\n\nPara evitarlo, envía tu declaración Self Assessment tax return lo antes posible.\n\nTodos los socios recibirán una sanción si la partnership tax return se envía con retraso.",
+  "seconds": 1.58,
+  "tokens_out": 155,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#3",
+  "text": "## Si paga su impuesto con retraso\n\nRecibirá recargos del 5% del impuesto no pagado en:\n\n- 30 días\n- 6 meses\n- 12 meses\n\nTambién se le cobrará interés sobre la cantidad adeudada. Para evitarlo, pague su factura de impuestos de Self Assessment lo antes posible.\n\nObtenga información sobre lo que sucede si no paga su factura de impuestos.",
+  "seconds": 1.45,
+  "tokens_out": 94,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#0",
+  "text": "Tu importe de Pension de Estado depende de tu registro de Contribuciones de Seguros Nacionales.\n\nConsulta tu previsión de Pension de Estado para saber cuánto podrías recibir al alcanzar la edad de la Pension de Estado. También muestra tu registro de Contribuciones de Seguros Nacionales.\n\nLa tasa completa de la nueva Pension de Estado es £241.30 a la semana. Tu importe podría ser diferente dependiendo de:\n\n- si fuiste contratado al margen antes de 2016\n\n- el número de años de calificación de Contribuciones de Seguros Nacionales que tienes\n\n- si pagaste a la Pension de Estado Adicional antes de 2016\n\nDescubre qué impuestos podrías pagar sobre tus ingresos de jubilación, incluido si te jubilas en el extranjero.",
+  "seconds": 2.15,
+  "tokens_out": 165,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#1",
+  "text": "## Si recibes menos de £241,30 a la semana\n\nEs posible que necesites más años de cualificación de Seguro Nacional para aumentar tu pensión estatal.\n\n### Si tu registro de Seguro Nacional comenzó antes de abril de 2016\n\nEs posible que estuvieras excluido del sistema. Mientras estabas excluido, tú o tu empleador ingresaste más en tu pensiones laboral o privada y menos en tu pensión estatal.\n\nSi estabas excluido del sistema, normalmente necesitarás más de 35 años de cualificación para obtener la tasa completa de nueva pensión estatal.\n\n### Si tu registro de Seguro Nacional comenzó después de abril de 2016\n\nSi tu registro de Seguro Nacional comenzó después de abril de 2016, necesitarás 35 años de cualificación para obtener la tasa completa de nueva pensión estatal.",
+  "seconds": 2.27,
+  "tokens_out": 184,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#2",
+  "text": "## Si recibes más de £241.30 a la semana\n\nSi contribuiste a la Pension Estatal Adicional antes de 2016 y habrías recibido una pensión estatal mayor según las normas antiguas, recibirás un «pago protegido». Este se paga además de la tasa completa de la nueva Pension Estatal.",
+  "seconds": 1.21,
+  "tokens_out": 73,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#3",
+  "text": "## Aumentos anuales\n\nLa nueva pensión estatal aumenta cada año según el valor más alto de entre:\n\n- ingresos: el crecimiento medio porcentual de los salarios (en Gran Bretaña)\n\n- precios: el crecimiento porcentual de los precios en el Reino Unido medido por el Índice de Precios al Consumo (CPI)\n\n- 2.5%\n\nSi tiene un pago protegido, este aumenta cada año en línea con el CPI.",
+  "seconds": 1.38,
+  "tokens_out": 95,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#0",
+  "text": "Hay 2 tipos de prestación de Child Benefit.\n\n| Para quién es la prestación | Tasa (semanal) |\n\n| Hijo mayor o único | £27.05 |\n\n| Hijos adicionales | £17.90 por hijo |\n\nDebes contactar a la Child Benefit Office si te han pagado de más o de menos.\n\nTodos los pagos de Child Benefit que recibes se tendrán en cuenta para el límite de prestaciones (benefit cap). Si te afecta el límite, seguirás recibiendo la cantidad completa por tus pagos de Child Benefit, pero otras prestaciones podrían reducirse.",
+  "seconds": 1.7,
+  "tokens_out": 128,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#1",
+  "text": "## Si una familia se separa\n\nSi una familia se separa, obtendrás 27,05 £ a la semana por el hijo mayor.\n\nSi tienes 2 hijos y uno vive contigo y el otro vive con otra persona (por ejemplo, tu expareja), cada uno de ustedes recibirá 27,05 £ a la semana.\n\nSi ambos reclaman por el mismo hijo, solo uno de ustedes recibirá Child Benefit por él.\n\nSi tienes derecho a Child Benefit por otros hijos, recibirás 17,90 £ por cada hijo.",
+  "seconds": 1.57,
+  "tokens_out": 122,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#2",
+  "text": "## Si las familias se unen\n\nSi se muda con una pareja que también solicita Child Benefit, recibe £27.05 por el hijo mayor del hogar. Recibe £17.90 por cualquier hijo menor.\n\nUsted y su pareja pueden solicitar Child Benefit por hijos diferentes. Si viven juntos, no pueden solicitar ambos a la tarifa superior; puede que tenga que devolver parte del dinero si lo hace.\n\nDebe notificar el cambio en su situación familiar.",
+  "seconds": 1.57,
+  "tokens_out": 98,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#3",
+  "text": "## Si tú o tu pareja ganáis más del umbral\n\nSi el 'ingreso neto ajustado' de tú o de tu pareja es superior al umbral, es posible que debas pagar el Impuesto a los Ingresos Elevados por Prestación Infantil.\n\nTu ingreso neto ajustado es tu ingreso total imponible antes de cualquier deducción personal y menos cosas como la Donación de Caridad. Tu ingreso total imponible incluye intereses de ahorros y dividendos.\n\nSi tienes que pagar este impuesto, todavía puedes obtener las otras ventajas de la Prestación Infantil como créditos de Seguro Nacional. El impuesto no será superior a la cantidad que recibes de los pagos de la Prestación Infantil.\n\nCalcula si tu ingreso neto ajustado supera el umbral utilizando la calculadora fiscal de la Prestación Infantil. Si es así, la calculadora también te indicará cuánto tendrás que pagar.\n\nSi tú y tu pareja tenéis un ingreso individual superior al umbral, quien tenga el ingreso neto ajustado más alto será el responsable de pagar el impuesto.\n\nSi tú o tu pareja tenéis un ingreso individual de £20,000 o más por encima del umbral (£10,000 o más antes de abril de 2024), se os cobrará la misma cantidad que percibís por los pagos de la Prestación Infantil. Acabaréis sin obtener dinero extra de la Prestación Infantil.\n\nPuedes presentar una solicitud y renunciar a recibir los pagos si no deseas pagar el impuesto. Aún puedes obtener las otras ventajas que proporciona la Prestación Infantil, como los créditos de Seguro Nacional.",
+  "seconds": 3.35,
+  "tokens_out": 342,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#4",
+  "text": "## Si tienes menos de 16 años\n\nPuedes solicitarlo para tu hijo o para que alguien responsable de ti lo solicite en tu nombre. Por lo general, obtendrás más cantidad si tú lo solicitas.",
+  "seconds": 1.03,
+  "tokens_out": 48,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#0",
+  "text": "Universal Credit se paga mensualmente. La cantidad que recibes depende de:\n\n- tu prestación estándar\n\n- cualquier importe adicional que te corresponda\n\n- cualquier dinero que se descuenta de tu pago\n\n- si trabajas, cuánto ganas\n\nConsulta cuánto podrías recibir utilizando una calculadora de prestaciones.\n\nSi recibes Universal Credit, ganarás créditos de Seguridad Social de Clase 3, que se tienen en cuenta para tu Pensión del Estado.",
+  "seconds": 1.2,
+  "tokens_out": 93,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#1",
+  "text": "## Propósito estándar\n\nUsted recibirá un único propósito estándar para su hogar.\n\n| Cantidad que recibirá | Propósito estándar mensual |\n\n| Si es soltero y tiene menos de 25 años | £338.58 |\n\n| Si es soltero y tiene 25 años o más | £424.90 |\n\n| Si vive con su pareja y ambos tienen menos de 25 años | £528.34 (para ambos) |\n\n| Si vive con su pareja y alguno de los dos tiene 25 años o más | £666.97 (para ambos) |",
+  "seconds": 1.61,
+  "tokens_out": 137,
+  "reader": "changed"
+ },
+ {
+  "id": "universal-credit/what-youll-get#2",
+  "text": "## Cantidades adicionales\n\nPuede recibir más dinero además de su cantidad estándar si cumple los requisitos.\n\nDeberá comunicar cualquier cambio cuando sea elegible para una cantidad adicional. No se añaden automáticamente. Por ejemplo, si se convierte en cuidador, debe notificarlo al DWP. El elemento de cuidador de la Prestación Universal no se aplica automáticamente si empieza a recibir la Prestación de Cuidador (Carer's Allowance).\n\n### Si tiene hijos\n\nRecibirá 303,94 £ al mes por cada niño que viva con usted.\n\nSi su primer hijo nació antes del 6 de abril de 2017, recibirá 47,94 £ adicionales al mes por ese niño.\n\nRecibe dinero por cada niño hasta el 31 de agosto posterior a su:\n\n- décimo sexto cumpleaños\n\n- décimo noveno cumpleaños, si están en educación o formación elegible, por ejemplo, si estudian para GCSEs, A levels, BTECs, Scottish Highers y SVQs o NVQs hasta el nivel 3\n\n### Si su hijo tiene una discapacidad\n\nPodría recibir una cantidad mensual adicional si alguno de sus hijos tiene una discapacidad.\n\nRecibirá bien:\n\n- 164,79 £, la cantidad inferior\n\n- 514,71 £, la cantidad superior\n\nLa cantidad superior es para un niño que:\n\n- recibe la tarifa más alta del componente de cuidados de la Prestación de Movilidad y Cuidados para Niños (DLA for children)\n\n- recibe la tarifa más alta de la parte de cuidado personal del Pago de Independencia Personal (PIP)\n\n- es ciego o tiene una visión gravemente mermada\n\nLa cantidad inferior es para un niño que recibe cualquier otra tarifa de DLA para niños o de PIP.\n\n### Gastos de guarda infantil\n\nPuede solicitar el reembolso de hasta el 85 % de sus gastos de guarda infantil si está trabajando. Si vive con su pareja, ambos deben estar trabajando, a menos que uno de ustedes no pueda trabajar debido a una discapacidad o afección de salud.\n\nLa guarda debe ser prestada por un proveedor registrado. Puede recibir ayuda para pagar la guarda infantil, incluidas guarderías, cuidadores infantiles, clubes matutinos, cuidado después del colegio y clubes vacacionales.\n\nEl máximo que puede recibir al mes es:\n\n- 1,071.09 £ para un niño\n\n- 1,836.16 £ para 2 o más niños\n\nDeberá pagar sus gastos de guarda infantil por adelantado y solicitar el reembolso como parte de su pago. Puede recibir apoyo para ayudarle a pagar sus gastos de guarda infantil por adelantado. Hable con su coach de trabajo después de haber presentado su solicitud.\n\nLea más sobre los gastos de guarda infantil y la Prestación Universal.\n\n### Si tiene una discapacidad o afección de salud\n\nPodría recibir una cantidad mensual adicional si no puede trabajar debido a una afección de salud, una discapacidad o una enfermedad de larga duración.\n\n| Cuánto recibirá | Cantidad mensual adicional |\n\n| Si tiene una afección de salud o discapacidad grave que es poco probable que cambie o está cerca del final de su vida | 429,80 £ |\n\n| Si su afección de salud o discapacidad se evalúa como menos grave o su condición puede mejorar con el tiempo | 217,26 £ |\n\nExisten normas diferentes si notificó una afección de salud antes del 6 de abril de 2026.\n\nSi vive con su pareja y ambos tienen capacidad limitada para el trabajo y la actividad relacionada con el trabajo, solo recibirá una cantidad mensual adicional. Recibirá la cantidad más alta si uno de ustedes es elegible para ella.\n\nSi recibe la prima de discapacidad severa y se traslada a la Prestación Universal, también podría tener derecho a un pago de \"protección transitoria\" (transitional protection).\n\nLea más sobre afecciones de salud, discapacidad y la Prestación Universal.\n\n### Si cuida a alguien que recibe un beneficio relacionado con la salud o la discapacidad\n\nPodría recibir una cantidad adicional conocida como \"elemento de cuidador\" (carer's element). Esto se añade a su Prestación Universal si cuida a alguien que recibe uno de los siguientes beneficios:\n\n- Adult Disability Payment – premio estándar o mejorado\n\n- Armed Forces Independence Payment\n\n- Attendance Allowance\n\n- Child Disability Payment – premio de cuidados medio o más alto\n\n- Constant Attendance Allowance – tarifa de día completo, tarifa intermedia o tarifa excepcional con Industrial Injuries Disablement Benefit\n\n- Constant Attendance Allowance – tarifa de día completo con War Disablement Pension\n\n- Disability Living Allowance – tarifa de cuidados media o más alta\n\n- Personal Independence Payment – cualquiera de las tarifas de la parte de cuidado personal\n\nDebe proporcionarles cuidados durante al menos 35 horas a la semana.\n\nRecibirá una cantidad mensual adicional de 209,34 £. Si vive con su pareja y ambos cuidan de la misma persona, solo recibirá una cantidad mensual adicional.\n\nTambién podría ser elegible para la Prestación de Cuidador (Carer's Allowance).\n\nEsto es además de cualquier cantidad adicional que reciba si tiene un hijo con discapacidad.\n\nSi está recibiendo una cantidad adicional debido a que tiene capacidad limitada para el trabajo y la actividad relacionada con el trabajo (LCWRA), no puede recibir también el elemento de cuidador.\n\nSi la persona que cuida recibe la prima de discapacidad severa, esta dejará de pagarse cuando solicite el elemento de cuidador de la Prestación Universal.\n\n### Gastos de vivienda\n\nPodría recibir dinero para ayudar a pagar sus gastos de vivienda. El pago puede cubrir el alquiler y algunos cargos por servicios.\n\nSi es propietario, es posible que pueda solicitar un préstamo para ayudar con los pagos de intereses de su hipoteca.",
+  "seconds": 7.75,
+  "tokens_out": 1258,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#3",
+  "text": "## Dinero que se descuenta de tu pago\n\nEs posible que tus pagos se reduzcan si se aplica alguna de las siguientes circunstancias:\n\n- estás devolviendo un adelanto sobre un pago de Credit Universal\n- recibirías un importe superior al límite establecido por el techo de prestaciones\n- has recibido un exceso de prestaciones en el pasado\n- debes dinero por impuestos locales, multas judiciales, electricidad, gas, agua o manutención de hijos\n- pagas tu factura de gas o electricidad directamente desde tu pago de Credit Universal\n- tienes un trabajo remunerado\n- tienes otros ingresos; por ejemplo, dinero de pensiones o ciertas prestaciones adicionales\n- tienes más de £6,000 en dinero, ahorros e inversiones\n\nSi tienes más de £6,000 en dinero, ahorros e inversiones, tu pago se reducirá en £4.35 por cada £250 que tengas entre £6,000 y £16,000. Se deduce otro £4.35 por cualquier cantidad restante que no sea un £250 completo.\n\nConsulta más información sobre el dinero que se descuenta de tu pago de Credit Universal.\n\n### Prestaciones que afectan a la cuantía de Credit Universal que recibes\n\nPuedes recibir Credit Universal al mismo tiempo que otras prestaciones. Tu pago de Credit Universal se reducirá en un importe igual al pago de la otra prestación. Esto se aplica cuando recibes Credit Universal y alguna de las siguientes prestaciones:\n\n- Armed Forces Pensions\n- Carer’s Allowance\n- Carer Support Payment (Scotland)\n- Incapacity Benefit\n- Industrial Injuries Disablement Benefit (con exclusión de cualquier incremento cuando se necesite asistencia constante y para una discapacidad excepcionalmente grave)\n- Maternity Allowance\n- Severe Disablement Allowance\n- State Pension\n- Widowed Mother’s Allowance\n- Widowed Parent’s Allowance\n- New Style Employment and Support Allowance (ESA)\n- New Style Jobseeker’s Allowance (JSA)",
+  "seconds": 3.46,
+  "tokens_out": 430,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#4",
+  "text": "## Solicitar la Contribución Universal y la Prestación de Emicisión o la Subvención de Desempleo de Nueva Formación\n\nEs posible que recibas la Contribución Universal al mismo tiempo que la Prestación de Emicisión de Nueva Formación o la Subvención de Desempleo de Nueva Formación. Si es así, tu pago de Contribución Universal se reduce en la cantidad que recibas por la Prestación de Emicisión de Nueva Formación o la Subvención de Desempleo de Nueva Formación.\n\nLa Prestación de Emicisión de Nueva Formación y la Subvención de Desempleo de Nueva Formación se pagan con más frecuencia que la Contribución Universal.\n\nTambién recibirás créditos de Seguro Nacional diferentes que se cuentan hacia tu Pensión de Estado y pueden ayudarte a calificar para otras prestaciones.\n\nPodrías seguir recibiendo la Prestación de Emicisión de Nueva Formación o la Subvención de Desempleo de Nueva Formación si cambian tus circunstancias y tu pago de Contribución Universal se reduce o se detiene. Por ejemplo, esto podría ocurrir si:\n\n- los ingresos de tu pareja aumentan\n- tienes más de £16,000 en ahorros\n\nVerifica si eres elegible para:\n\n- New Style Jobseeker's Allowance\n- New Style Employment and Support Allowance",
+  "seconds": 2.87,
+  "tokens_out": 279,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#5",
+  "text": "## Cambiarse de otras prestaciones a la Prestación Universal\n\nSi ha solicitado la Prestación Universal, seguirá percibiendo su prestación actual durante 2 semanas más. Aún debe cumplir los requisitos para su prestación actual.\n\nEsto solo se aplica si está percibiendo Employment and Support Allowance de carácter relacionado con los ingresos o Housing Benefit.\n\nNo tendrá que devolver los pagos adicionales y estos no afectarán a la Prestación Universal que podría percibir.\n\nSi ha recibido una carta de aviso de Traslado (Migration Notice) que le indica que debe solicitar la Prestación Universal, también podría recibir un pago de «protección transitória» (transitional protection).",
+  "seconds": 1.54,
+  "tokens_out": 138,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#7",
+  "text": "## Si su reclamación de Crédito Universal es revisada\n\nSu reclamación puede ser revisada para garantizar que recibe el pago y el apoyo adecuados. Obtenga más información sobre las revisiones del Crédito Universal.",
+  "seconds": 0.99,
+  "tokens_out": 44,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#0",
+  "text": "Puede tener derecho a la Carer's Allowance si usted, la persona a la que cuida y el tipo de cuidado que proporciona cumplen ciertos criterios.",
+  "seconds": 1.01,
+  "tokens_out": 33,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#1",
+  "text": "## La persona a la que cuida\n\nLa persona a la que cuida debe recibir ya una de estas prestaciones:\n\n- Personal Independence Payment - componente de vida diaria\n- Disability Living Allowance - tasa de cuidado media o más alta\n- Scottish Adult Disability Living Allowance - tasa de cuidado media o más alta\n- Attendance Allowance\n- Pension Age Disability Payment\n- Constant Attendance Allowance al menos en la tasa máxima normal con un Industrial Injuries Disablement Benefit\n- Constant Attendance Allowance en la tasa básica (día completo) con un War Disablement Pension\n- Armed Forces Independence Payment\n- Child Disability Payment - tasa de cuidado media o más alta\n- Adult Disability Payment - componente de vida diaria en la tasa estándar o mejorada\n\n### Si cuida a la persona con otras personas\n\nNo puede recibir Carer's Allowance si comparte el cuidado de alguien y el otro cuidador ya reclama:\n\n- Carer's Allowance para esa persona\n- Carer Support Payment para esa persona\n- la cantidad extra de Universal Credit por cuidar a alguien que recibe una prestación relacionada con la discapacidad para esa persona\n\nSi desea recibir Carer's Allowance, hable con el otro cuidador sobre cambiar sus prestaciones.\n\nSi el otro cuidador no desea hacer eso, aún puede solicitar Carer's Allowance. El Department for Work and Pensions (DWP) decidirá quién debería recibir la prestación.",
+  "seconds": 2.2,
+  "tokens_out": 291,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#2",
+  "text": "## El tipo de cuidado que proporcionas\n\nDebe dedicar al menos 35 horas a la semana a cuidar a una persona. Esto puede incluir:\n\n- ayudar con el lavado y la cocina\n\n- acompañar a la persona que cuida a una cita con el médico\n\n- ayudar con tareas del hogar, como gestionar facturas y hacer la compra",
+  "seconds": 1.08,
+  "tokens_out": 72,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#3",
+  "text": "## Tu elegibilidad\n\nDeben cumplirse todas las condiciones siguientes:\n\n- tienes 16 años o más\n\n- dedicas al menos 35 horas a la semana a cuidar de una persona\n\n- has estado en Inglaterra, Escocia o Gales durante al menos 2 de los últimos 3 años (esto no se aplica si eres un refugiado o tienes estatus de protección humanitaria)\n\n- sueles vivir en Inglaterra o Gales, o vives en el extranjero como miembro de las fuerzas armadas (es posible que sigas siendo elegible si te mudas a o ya vives en un país del EEE o en Suiza)\n\n- no estás en educación a tiempo completo\n\n- no estás estudiando 21 horas a la semana o más\n\n- no estás sujeto a control de inmigración\n\n- tus ingresos son de £204 o menos a la semana después de impuestos, National Insurance y gastos\n\nSi vives en Escocia, debes solicitar Carer Support Payment en lugar de Carer’s Allowance.\n\nSi eres de la UE, Suiza, Noruega, Islandia o Liechtenstein, tú y tu familia normalmente también necesitáis tener un estatus establecido o preestablecido en virtud del EU Settlement Scheme para obtener Carer’s Allowance. El plazo límite para solicitar el scheme fue el 30 June 2021 para la mayoría de las personas, pero todavía es posible que puedas solicitarlo. Consulta si todavía puedes solicitarlo en el EU Settlement Scheme.\n\n### Cálculo de tus ingresos\n\nTus ingresos son cualquier dinero percibido por empleo o trabajo por cuenta propia, después de impuestos, National Insurance y gastos.\n\nLos gastos pueden incluir:\n\n- el 50% de tus aportaciones a la pensión\n\n- el equipo que necesitas para tu trabajo, por ejemplo, ropa especializada\n\n- los gastos de desplazamiento entre diferentes lugares de trabajo que no paga tu empleador, por ejemplo, combustible o billetes de tren\n\n- los gastos de empresa si trabajas por cuenta propia, por ejemplo, un ordenador que solo usas para el trabajo\n\nSi pagas a un cuidador para que mire a la persona con discapacidad o a tus hijos mientras trabajas, puedes considerar los gastos de cuidado que sean inferiores o iguales al 50% de tus ingresos como un gasto. El cuidador no puede ser tu cónyuge, pareja, padre, hijo o hermano.\n\nEjemplo\n\nGanas £100 a la semana (después de impuestos, National Insurance y otros gastos) y gastas £60 a la semana en cuidados mientras trabajas. Puedes considerar £50 de este importe como un gasto.\n\nLos pagos que no cuentan como ingresos incluyen:\n\n- dinero recibido de una pensión ocupacional o privada\n\n- contribuciones hacia tus gastos de vivienda o alojamiento de alguien con quien vives (no pueden ser un inquilino o alojamiento parcial)\n\n- los primeros £20 a la semana y el 50% del resto de cualquier ingreso que obtengas de alguien que se hospeda en tu hogar\n\n- un préstamo o pago anticipado de tu empleador",
+  "seconds": 4.07,
+  "tokens_out": 659,
+  "reader": "changed"
+ },
+ {
+  "id": "carers-allowance/eligibility#4",
+  "text": "## Si recibes la pensión de vejez\n\nNo puedes recibir el importe completo de Carer's Allowance y tu State Pension al mismo tiempo.\n\nSi tu pensión es de £86,45 o más a la semana, no recibirás ningún pago de Carer's Allowance.\n\nSi tu pensión es inferior a £86,45 a la semana, recibirás un pago de Carer's Allowance para cubrir la diferencia.",
+  "seconds": 1.12,
+  "tokens_out": 97,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#5",
+  "text": "## Si obtiene Pension Credit\n\nSi su State Pension es superior a £86.45 por semana, no recibirá un pago de Carer’s Allowance, sino que sus pagos de Pension Credit aumentarán en su lugar.",
+  "seconds": 0.94,
+  "tokens_out": 49,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#0",
+  "text": "### Complemento de la pensión:\n\n- incrementa su ingreso semanal a £238 si es soltero\n- incrementa su ingreso semanal conjunto a £363.25 si tiene pareja\n\nPuede recibir cantidades adicionales si tiene otras responsabilidades y gastos.\n\nEl complemento y las cantidades adicionales se denominan «Guarantee Credit».",
+  "seconds": 1.21,
+  "tokens_out": 74,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#1",
+  "text": "## Si tienes una discapacidad grave\n\nPodrías recibir un extra de £86.05 a la semana si recibes alguna de las siguientes ayudas:\n\n- Attendance Allowance\n\n- la tasa media o más alta del componente de cuidados de Disability Living Allowance (DLA)\n\n- el componente de cuidado personal de Personal Independence Payment (PIP)\n\n- Armed Forces Independence Payment\n\n- el componente de cuidado personal de Adult Disability Payment\n\n- Pension Age Disability Payment\n\n- la tasa media o más alta del componente de cuidados de Scottish Adult Disability Living Allowance",
+  "seconds": 1.92,
+  "tokens_out": 115,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#2",
+  "text": "## Si cuida a otro adulto\n\nPodría recibir £48.15 semanales extra si:\n\n- recibe Carer’s Allowance\n- recibe Carer Support Payment\n- ha solicitado Carer’s Allowance pero no lo cobra porque ya percibe otra prestación que paga una cantidad mayor\n\nSi usted y su pareja han solicitado o están recibiendo Carer’s Allowance, ambos pueden recibir esta cantidad adicional.",
+  "seconds": 1.17,
+  "tokens_out": 87,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#3",
+  "text": "## Si eres responsable de niños o jóvenes\n\nPodrías recibir un importe adicional por cada niño o joven de los que eres responsable y que vive contigo.\n\nRecibirás £69.98 a la semana por cada niño o joven. Esto se incrementa a £81.07 a la semana para el primer niño si nació antes del 6 de abril de 2017.\n\nRecibirás el importe adicional hasta el 31 de agosto tras su:\n\n- 16º cumpleaños\n\n- 19º cumpleaños, si está en educación o formación elegible, por ejemplo, si estudia para obtener GCSEs, A levels, BTECs, Scottish Highers y SVQs o NVQs hasta el nivel 3\n\nSi está en educación, debe ser más de 12 horas a la semana de media.\n\n### Si el niño o joven es discapacitado\n\nSi el niño o joven es discapacitado, también podrías recibir un importe adicional.\n\nPodrías recibir un extra de £37.93 a la semana si el niño o joven recibe:\n\n- Disability Living Allowance (DLA) para niños - tasa baja o media del componente de cuidados o cualquier tasa del componente de movilidad\n\n- Child Disability Payment - tasa baja o media del componente de cuidados o cualquier tasa del componente de movilidad\n\n- Scottish Adult Disability Living Allowance - tasa baja o media del componente de cuidados o cualquier tasa del componente de movilidad\n\n- Personal Independence Payment (PIP) - tasa estándar del componente de vida diaria o cualquier tasa del componente de movilidad\n\n- Adult Disability Payment - tasa estándar del componente de vida diaria o cualquier tasa del componente de movilidad\n\nPodrías recibir un extra de £118.46 a la semana si el niño o joven recibe:\n\n- Disability Living Allowance (DLA) para niños - tasa más alta del componente de cuidados\n\n- Child Disability Payment - tasa más alta del componente de cuidados\n\n- Scottish Adult Disability Living Allowance - tasa más alta del componente de cuidados\n\n- Personal Independence Payment (PIP) - tasa mejorada del componente de vida diaria\n\n- Adult Disability Payment - tasa mejorada del componente de vida diaria\n\nTambién podrías ser elegible si son ciegos o tienen una visión severmente reducida.",
+  "seconds": 2.99,
+  "tokens_out": 476,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#4",
+  "text": "## Si tienes gastos de vivienda\n\nPodrías recibir una cantidad adicional para cubrir tus gastos de vivienda, como:\n\n- ground rent si tu propiedad es de leasehold\n\n- algunos service charges\n\n- cargos por tiendas de campaña y rents de sitio\n\nLa cantidad que podrías recibir depende de tus gastos de vivienda.\n\nSi recibes Pension Credit, también podrías ser elegible para:\n\n- Council Tax Reduction\n\n-\nHousing Benefit si alquilas la propiedad en la que vives\n\n-\nSupport for Mortgage Interest si eres propietario de la propiedad en la que vives",
+  "seconds": 1.47,
+  "tokens_out": 120,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#5",
+  "text": "## Si tiene ahorros o una segunda pensión\n\nPodría recibir la parte de 'Savings Credit' de la Pension Credit si se cumplen ambas de las siguientes condiciones:\n\n- alcanzó la edad de la pensión estatal antes del 6 de abril de 2016\n- ahorró algo de dinero para la jubilación, por ejemplo, una pensión personal o una pensión laboral\n\nRecibirá hasta £17.96 de Savings Credit a la semana si está soltero. Si tiene pareja, recibirá hasta £20.10 a la semana.\n\nEs posible que siga recibiendo algo de Savings Credit incluso si no recibe la parte de Guarantee Credit de la Pension Credit.",
+  "seconds": 1.39,
+  "tokens_out": 148,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#6",
+  "text": "## Otra ayuda si recibe Pension Credit\n\nSi recibe Pension Credit, obtendrá automáticamente los pagos por clima frío.\n\nTambién será elegible para:\n\n-\nsolicitar una licencia de televisión gratuita si tiene 75 años o más\n\n-\nobtener ayuda con los costes de NHS si recibe la parte de Guarantee Credit de Pension Credit\n\nLos costes de NHS pueden incluir cosas como recetas, tratamientos dentales, gafas y costes de transporte para citas hospitalarias.",
+  "seconds": 1.29,
+  "tokens_out": 97,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#7",
+  "text": "## Obtener ayuda con cantidades adicionales\n\nPóngase en contacto con la línea de atención del Pension Service si no está seguro de si tiene derecho a cantidades adicionales.\n\nLínea de atención del Pension Service\n\nTeléfono: 0800 99 1234\n\nRelay UK (si no puede oír o hablar por teléfono): marque 18001 y a continuación 0800 99 1234\n\nServicio de retransmisión de video British Sign Language (BSL) si está en un ordenador: descubra cómo utilizar el servicio en dispositivos móviles o tabletas\n\nDe lunes a viernes, de 8 a.m. a 6 p.m. (excepto días festivos)\n\nInfórmese sobre los cargos telefónicos",
+  "seconds": 1.61,
+  "tokens_out": 168,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#0",
+  "text": "El Pago por Maternidad Legal (SMP) se abona durante un máximo de 39 semanas. Se recibe:\n\n- 90% de los ingresos semanales medios (antes de impuestos) durante las primeras 6 semanas\n- £194.32 o el 90% de los ingresos semanales medios (lo que sea menor) durante las siguientes 33 semanas\n\nEl SMP se abona de la misma forma que los salarios (por ejemplo, mensualmente o semanalmente). Se deducirán el Impuesto y el National Insurance.\n\nUtilice el planificador de maternidad para ayudar a calcular cuánto pago de maternidad podría recibir.\n\nSi toma Permiso Parental Compartido (Shared Parental Leave), recibirá el Pago por Permiso Parental Compartido (ShPP). El ShPP es £194.32 a la semana o el 90% de los ingresos semanales medios, lo que sea menor.",
+  "seconds": 1.86,
+  "tokens_out": 204,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#1",
+  "text": "## Fecha de inicio\n\nEl SMP suele empezar cuando comienzas tu permiso de maternidad.\n\nEmpieza automáticamente si no estás trabajando por una enfermedad relacionada con el embarazo en las 4 semanas anteriores a la semana (domingo a sábado) en la que se espera tu bebé.",
+  "seconds": 0.94,
+  "tokens_out": 57,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#2",
+  "text": "## Problemas y disputas\n\nPida a su empleador que le explique su SIAP si cree que no es correcta. Si no está de acuerdo con la cantidad o si su empleador no puede pagar (por ejemplo, porque está en situación de insolvencia), póngase en contacto con el Equipo de Disputas de Pagos Estatales.",
+  "seconds": 1.17,
+  "tokens_out": 75,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#0",
+  "text": "Si eres elegible, puedes recibir £123.25 a semana de Statutory Sick Pay (SSP) o el 80% de tus ingresos semanales normales, el que sea menor. Se paga durante un máximo de 28 semanas.\n\nRecibirás SSP por todos los días completos que faltes al trabajo por enfermedad y que normalmente hubieras trabajado.\n\nTu empleador utilizará tus ingresos semanales medios en un periodo de 8 semanas para calcular cuánto recibirás. Sigues siendo elegible si empezaste tu trabajo recientemente y aún no has recibido 8 semanas de pago. Pide a tu empleador que te proporcione más información.",
+  "seconds": 1.54,
+  "tokens_out": 139,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#1",
+  "text": "## Cómo se le paga\n\nEl SSG se le paga a través de su empleador de la misma forma que sus salarios habituales, por ejemplo, semanalmente o mensualmente.\n\nSi tiene más de un trabajo, es posible que reciba el SSG de cada empleador.\n\nSe deducirán el Impuesto y el Seguro Nacional.\n\nSi cree que no está recibiendo la cantidad correcta de SSG, hable con su empleador. Si sigue sin estar satisfecho, contacte la línea de consultas de HM Revenue and Customs (HMRC).",
+  "seconds": 1.5,
+  "tokens_out": 119,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#0",
+  "text": "La tasa por hora del salario mínimo depende de tu edad y de si eres un becario.\n\nTambién hay una versión de esta página en galés (Cymraeg).\n\nDebes tener al menos:\n\n- la edad de abandono escolar para obtener el National Minimum Wage\n- 21 años para obtener el National Living Wage: el salario mínimo seguirá aplicándose a los trabajadores de 20 años o menos",
+  "seconds": 1.1,
+  "tokens_out": 87,
+  "reader": "changed"
+ },
+ {
+  "id": "national-minimum-wage-rates#1",
+  "text": "## Tipos actuales\n\nLos tipos cambian el 1 de abril de cada año.\n\n| | 21 años o más | De 18 a 20 años | Menos de 18 años | Aprendiz |\n\n| abril 2026 | £12.71 | £10.85 | £8 | £8 |\n\n| abril 2027 | £13.21 | £11.27 | £8.31 | £8.31 |\n\n### Aprendices\n\nLos aprendices tienen derecho al tipo de aprendiz si cumplen una de las siguientes condiciones:\n\n- tienen menos de 19 años\n\n- tienen 19 años o más y están en el primer año de su aprendizaje\n\nEjemplo\n\nUn aprendiz de 21 años en el primer año de su aprendizaje tiene derecho a una remuneración mínima por hora de £8.\n\nLos aprendices tienen derecho a la remuneración mínima según su edad si cumplen ambas condiciones:\n\n- tienen 19 años o más\n\n- han completado el primer año de su aprendizaje\n\nEjemplo\n\nUn aprendiz de 21 años que ha completado el primer año de su aprendizaje tiene derecho a una remuneración mínima por hora de £12.71.",
+  "seconds": 2.23,
+  "tokens_out": 271,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#2",
+  "text": "## Tasas anteriores\n\nLas siguientes tasas correspondían al Salario Vital Nacional y al Salario Mínimo Nacional desde abril de 2019.\n\n### Tasas entre el 1 de abril de 2024 y el 31 de marzo de 2026\n\nDesde el 1 de abril de 2024, el National Living Wage ha sido para personas de 21 años o más.\n\n| | 21 o más años | 18 a 20 | Menores de 18 | Aprendiz |\n\n| abril de 2025 a marzo de 2026 | £12.21 | £10 | £7.55 | £7.55 |\n\n| abril de 2024 a marzo de 2025 | £11.44 | £8.60 | £6.40 | £6.40 |\n\n### Tasas entre el 1 de abril de 2021 y el 31 de marzo de 2024\n\nEntre el 1 de abril de 2021 y el 31 de marzo de 2024, el National Living Wage era para personas de 23 años o más.\n\n| | 23 o más años | 21 a 22 | 18 a 20 | Menores de 18 | Aprendiz |\n\n| abril de 2023 a marzo de 2024 | £10.42 | £10.18 | £7.49 | £5.28 | £5.28 |\n\n| abril de 2022 a marzo de 2023 | £9.50 | £9.18 | £6.83 | £4.81 | £4.81 |\n\n| abril de 2021 a marzo de 2022 | £8.91 | £8.36 | £6.56 | £4.62 | £4.30 |\n\n### Tasas anteriores al 1 de abril de 2021\n\nAntes del 1 de abril de 2021, el National Living Wage era para personas de 25 años o más.\n\n| | 25 o más años | 21 a 24 | 18 a 20 | Menores de 18 | Aprendiz |\n\n| abril de 2020 a marzo de 2021 | £8.72 | £8.20 | £6.45 | £4.55 | £4.15 |\n\n| abril de 2019 a marzo de 2020 | £8.21 | £7.70 | £6.15 | £4.35 | £3.90 |",
+  "seconds": 3.91,
+  "tokens_out": 631,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#3",
+  "text": "## Quién tiene derecho al salario mínimo\n\nLea la información sobre quién tiene derecho al salario mínimo.\n\nPuede utilizar la calculadora del salario mínimo para comprobar si se le abona el Salario Mínimo Nacional o el Salario Vital Nacional.\n\nPóngase en contacto con Acas si no está recibiendo el Salario Mínimo Nacional y considera que debería recibirlo.",
+  "seconds": 1.24,
+  "tokens_out": 79,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#0",
+  "text": "Recibirás una carta en octubre o noviembre que te indicará cuánto recibirás de la Winter Fuel Payment si cumples los requisitos.\n\nSi no recibes una carta pero crees que tienes derecho, comprueba si necesitas presentar una solicitud.\n\nLa cantidad que recibes depende de tu fecha de nacimiento y de tu situación entre el 21 y el 27 de septiembre de 2026. Esto se denomina la 'semana de calificación'.\n\nCualquier dinero que recibas no afectará a tus otras prestaciones.",
+  "seconds": 1.25,
+  "tokens_out": 114,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#1",
+  "text": "## Si tus ingresos superan los £35,000\n\nHMRC recuperará tu Winter Fuel Payment de una de las siguientes formas:\n\n- modificando tu código fiscal\n\n- añadiendo la cantidad a tu Self Assessment tax return\n\nPuedes comprobar si tus ingresos totales superan el umbral y cómo HMRC recuperará el dinero.",
+  "seconds": 1.2,
+  "tokens_out": 74,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#2",
+  "text": "## Si vive solo o ninguna persona con la que conviva es elegible para el Winter Fuel Payment\n\nRecibirá:\n\n- £200 si nació entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £300 si nació antes del 28 de septiembre de 1946",
+  "seconds": 1.09,
+  "tokens_out": 81,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#3",
+  "text": "## Si convives con otra persona que también tiene derecho al pago de combustible de invierno\n\nTu pago puede ser diferente si recibes uno de los siguientes beneficios:\n\n- Pension Credit\n\n- Universal Credit\n\n- income-related Employment and Support Allowance (ESA)\n\n### Si no recibes ninguno de los beneficios\n\nRecibirás un pago de:\n\n- £100 si tú y la persona con la que vives nacisteis ambos entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £100 si tú naciste entre el 28 de septiembre de 1946 y el 27 de junio de 1960 pero la persona con la que vives nació antes del 28 de septiembre de 1946\n\n- £200 si tú naciste antes del 28 de septiembre de 1946 pero la persona con la que vives nació entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £150 si tú y la persona con la que vives nacisteis ambos antes del 28 de septiembre de 1946\n\n### Si tú y tu pareja reclamáis conjuntamente cualquiera de los beneficios\n\nUno de vosotros recibirá un pago de:\n\n- £200 si ambos nacisteis entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £300 si uno o ambos nacisteis antes del 28 de septiembre de 1946\n\nTe abonarán el pago en la cuenta bancaria en la que normalmente reciben los beneficios.\n\n### Si recibes cualquiera de los beneficios (no como parte de una reclamación conjunta)\n\nRecibirás un pago de:\n\n- £200 si naciste entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £300 si naciste antes del 28 de septiembre de 1946",
+  "seconds": 2.97,
+  "tokens_out": 456,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#4",
+  "text": "## Si vives en un hogar de ancianos\n\nSi cumples los requisitos, recibirás:\n\n- £100 si naciste entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £150 si naciste antes del 28 de septiembre de 1946",
+  "seconds": 1.86,
+  "tokens_out": 79,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#0",
+  "text": "Puede recibir los Cold Weather Payments si está percibiendo ciertas prestaciones o Support for Mortgage Interest.\n\nSi es elegible, recibirá estos pagos automáticamente. No necesita solicitarlos, pero puede tener que informar de un cambio en su situación si tiene un bebé o si un menor de 5 años pasa a vivir con usted.\n\nLos pagos no afectan a sus otras prestaciones.\n\nEsta guía también está disponible en galés (Cymraeg) y en un formato de lectura fácil.\n\nRecibirá un pago si la temperatura media en su zona se registra como, o se prevé que sea, de cero grados Celsius o menos durante 7 días consecutivos.\n\nRecibirá £25 por cada periodo de 7 días de tiempo muy frío entre el 1 de noviembre de 2026 y el 31 de marzo de 2027.\n\nDescubra si el tiempo donde vive significa que puede recibir un pago.\n\nComprobar un código postal en Inglaterra o Gales.\n\nComprobar un código postal en Irlanda del Norte.\n\nLos Cold Weather Payments son distintos a los Winter Fuel Payments.",
+  "seconds": 1.98,
+  "tokens_out": 235,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#1",
+  "text": "## Si resides en Escocia\n\nNo puedes recibir los Pagos por Frío Invernal.\n\nEs posible que recibas en su lugar un Pago Anual de Calefacción Invernal. Recibirás este pago independientemente de las condiciones meteorológicas en tu zona.",
+  "seconds": 0.88,
+  "tokens_out": 58,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#0",
+  "text": "La Ayuda por asistencia se paga semanalmente a 2 tarifas distintas: la que usted recibe depende del nivel de ayuda que necesite.\n\nLa Ayuda por asistencia no está sujeta a prueba de recursos: lo que gana o cuánto tiene ahorrado no afectará a lo que recibe.",
+  "seconds": 1.11,
+  "tokens_out": 61,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#1",
+  "text": "## Tasas de la Prestación por Discapacidad para Personas con Movilidad Reducida (Attendance Allowance)\n\n| Tasa | Nivel de ayuda que necesita |\n\n| Tasa inferior - £76,70 | Ayuda frecuente o supervisión constante durante el día, o supervisión por la noche |\n\n| Tasa superior - £114,60 | Ayuda o supervisión durante todo el día y por la noche, o un profesional médico ha indicado que se encuentra próximo al final de su vida |\n\nSi sus circunstancias cambian, podría recibir una tasa diferente. Debe informar sobre cualquier cambio de circunstancias.\n\nPodría recibir más Pension Credit, Housing Benefit o Council Tax Reduction si obtiene Attendance Allowance: consulte con la línea telefónica de ayuda o la oficina que gestiona su prestación.\n\nSi recibe Constant Attendance Allowance al mismo tiempo, su Attendance Allowance se reducirá en la cantidad de Constant Attendance Allowance que reciba.",
+  "seconds": 1.78,
+  "tokens_out": 201,
+  "reader": "changed"
+ },
+ {
+  "id": "pip/how-much-youll-get#0",
+  "text": "La cantidad de Prestación de Dependencia Personal (PIP) que recibes depende de la dificultad que encuentres en:\n\n- actividades diarias (tareas de 'vida diaria')\n\n- desplazamientos (tareas de 'movilidad')\n\nConsulta qué tareas cuentan como tareas de vida diaria y de movilidad.",
+  "seconds": 1.06,
+  "tokens_out": 64,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#1",
+  "text": "## Cantidades de la PIP\n\n| | Tarifa semanal inferior | Tarifa semanal superior |\n|---|---|---|\n| Parte de vida diaria | £76.70 | £114.60 |\n| Parte de movilidad | £30.30 | £80 |\n\nLa PIP es libre de impuestos. La cantidad que recibes no se ve afectada por tus ingresos ni tus ahorros.\n\nInforma inmediatamente al Department for Work and Pensions (DWP) si hay un cambio en tus circunstancias personales o en cómo tu condición te afecta.",
+  "seconds": 1.38,
+  "tokens_out": 126,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#2",
+  "text": "## Cómo se te abona\n\nLa PIP se suele abonar cada 4 semanas.\n\nEn tu carta de decisión se te indica:\n\n- la fecha de tu primer pago\n- el día de la semana en que normalmente se te abona\n- cuánto tiempo recibirás la PIP\n- cuándo y si se revisará tu solicitud\n\nSi la fecha de tu pago cae en un día festivo bancario, normalmente recibirás el pago antes del día festivo bancario. A partir de entonces continuarás recibiendo el pago como es habitual.\n\nTodos los beneficios, pensiones y complementos se abonan en tu cuenta bancaria, de sociedad de ahorro o de cooperativa de crédito.",
+  "seconds": 1.46,
+  "tokens_out": 141,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#3",
+  "text": "## Otras ayudas que puedes obtener\n\nSi recibes la parte de movilidad de la Prestación para Personas con Discapacidad (PIP), podrías ser elegible para:\n\n- Blue Badge\n\n- un descuento o exención en el impuesto a los vehículos\n\n- un vehículo del Motability Scheme, si recibes la tarifa más alta de movilidad de la PIP\n\nSi recibes la parte de cuidados diarios o la de movilidad de la PIP, eres elegible para una Disabled Persons Railcard.\n\nEs posible que puedas obtener un descuento en el Council Tax y en los viajes en autobús local. Contacta con tu consejo local para verificarlo.\n\nSi alguien te ayuda en tus cuidados, esa persona podría ser elegible para recibir Carer's Allowance o Carer's Credit.\n\nInfórmate sobre otras ayudas financieras para personas con discapacidades o condiciones de salud.",
+  "seconds": 1.54,
+  "tokens_out": 180,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#4",
+  "text": "## Si recibes otros beneficios y PIP\n\nPuede recibir un complemento (llamado prémio por discapacidad) si recibe:\n\n- Pensión por discapacidad relacionada con los ingresos (Income-related Employment and Support Allowance)\n- Pensión por alojamiento (Housing Benefit)\n\nSi recibe Constant Attendance Allowance, recibirá menos de la parte de cuidados diarios de PIP.\n\nSi recibe War Pensioners’ Mobility Supplement, no recibirá la parte de movilidad de PIP.",
+  "seconds": 1.27,
+  "tokens_out": 100,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#0",
+  "text": "El permiso de matrimonio permite transferir £1,260 de tu bonificación personal a tu esposo, esposa o pareja civil. Tu bonificación personal es la cantidad que puedes ganar antes de pagar impuestos.\n\nEsto reduce sus impuestos en hasta £252 en el año fiscal (6 de abril al 5 de abril del año siguiente).\n\nEsta guía también está disponible en galés (Cymraeg).\n\nPara beneficiarse como pareja, tú (como el que gana menos) normalmente debes tener ingresos inferiores a tu bonificación personal: este suele ser £12,570.\n\nPuedes calcular cuántos impuestos podrías ahorrar como pareja. Deberías llamar a la línea de ayuda del impuesto sobre la renta si recibes otros ingresos como dividendos, ahorros o beneficios de tu trabajo. También puedes llamar si no sabes cuál es tu ingreso gravable.\n\nCuando transfieres parte de tu bonificación personal a tu esposo, esposa o pareja civil, es posible que tengas que pagar más impuestos tú mismo, pero aún podrías pagar menos como pareja.\n\nEjemplo\n\nTus ingresos son £11,500 y tu bonificación personal es £12,570, por lo que no pagas impuestos.\n\nLos ingresos de tu pareja son £20,000 y su bonificación personal es £12,570, por lo que pagan impuestos sobre £7,430 (su 'ingreso gravable'). Esto significa que como pareja estás pagando impuesto sobre la renta por £7,430.\n\nCuando reclamas el permiso de matrimonio, transfieres £1,260 de tu bonificación personal a tu pareja. Tu bonificación personal pasa a ser £11,310 y tu pareja recibe una reducción de £1,260 en su ingreso gravable.\n\nEsto significa que ahora pagarás impuestos por £190, pero tu pareja solo pagará impuestos por £6,170. Como pareja te beneficias, ya que solo pagas impuesto sobre la renta por £6,360 en lugar de £7,430, lo que te ahorra £214 en impuestos.",
+  "seconds": 2.89,
+  "tokens_out": 458,
+  "reader": "changed"
+ },
+ {
+  "id": "marriage-allowance#1",
+  "text": "## Quiénes pueden solicitarlo\n\nPodrás beneficiarte del Permiso de Bienes Matrimoniales si se cumplen todas las siguientes condiciones:\n\n- estás casado o en una pareja de hecho\n\n- no pagas Impuesto sobre la Renta o tu renta está por debajo de tu Permisión Personal (generalmente 12.570 £)\n\n- tu pareja paga el Impuesto sobre la Renta a la tasa básica, lo que generalmente significa que su renta está entre 12.571 £ y 50.270 £ antes de recibir el Permiso de Bienes Matrimoniales\n\nNo podrás reclamar el Permiso de Bienes Matrimoniales si vivís juntos pero no estáis casados ni en pareja de hecho.\n\nSi estás en Escocia, tu pareja debe pagar el tipo básico, intermedio o inicial, lo que generalmente significa que su renta está entre 12.571 £ y 43.662 £.\n\nTu solicitud del Permiso de Bienes Matrimoniales no se verá afectada si tú o tu pareja:\n\n- están recibiendo actualmente una pensión\n\n- vivís en el extranjero - mientras recibáis un Permisión Personal\n\nSi tú o tu pareja nacisteis antes del 6 de abril de 1935, podríais beneficiaros más como pareja solicitando el Permiso para Parejas Casadas en su lugar.\n\nNo puedes obtener el Permiso de Bienes Matrimoniales y el Permiso para Parejas Casadas al mismo tiempo.",
+  "seconds": 2.38,
+  "tokens_out": 332,
+  "reader": "changed"
+ },
+ {
+  "id": "marriage-allowance#2",
+  "text": "## Fechas atrás de tu solicitud\n\nPuedes solicitar fechas atrás a partir del 6 de abril de 2022 (el año impositivo 2022 a 2023) para cualquier año por el que hayas sido elegible para el Marriage Allowance.\n\nLa factura de impuestos de tu pareja se reducirá en función de la tasa de la Personal Allowance de los años para los que solicites fechas atrás.\n\nSi tu pareja ha fallecido desde el 5 de abril de 2022 aún puedes solicitarlo; llama a la línea de asistencia de Income Tax. Si tu pareja era el que tenía salarios más bajos, la persona responsable de gestionar sus asuntos fiscales debe llamar.",
+  "seconds": 1.37,
+  "tokens_out": 152,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#3",
+  "text": "## Dejar de solicitar la Transferencia de Deducción\n\nTu Deducción Personal se transferirá automáticamente a tu pareja cada año hasta que canceles la Transferencia de Deducción, por ejemplo, si cambian tus ingresos o si termina tu relación.",
+  "seconds": 0.94,
+  "tokens_out": 52,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#0",
+  "text": "Normalmente tendrás derecho a recibir la indemnización legal por despido si eres empleado y has trabajado para tu actual empleador durante 2 años o más.\n\nRecibirás:\n\n- medio sueldo semanal por cada año completo en el que tuviste menos de 22 años\n\n- un sueldo semanal por cada año completo en el que tuviste 22 años o más, pero menos de 41\n\n- un sueldo y medio por cada año completo en el que tuviste 41 años o más\n\nLa antigüedad se limita a 20 años.\n\nTu sueldo semanal es el promedio que ganaste por semana durante las 12 semanas previas al día en que recibiste el aviso de tu despido.\n\nSi recibiste menos de lo habitual porque estuviste 'en furlough' debido al coronavirus, tu indemnización legal por despido se basa en lo que habrías ganado normalmente.\n\nSi te despidieron el 6 de abril de 2026 o después, tu sueldo semanal tiene un límite de £751 y la indemnización legal máxima por despido que puedes recibir es £22,530. Si te despidieron antes del 6 de abril de 2026, estos importes serán inferiores.\n\nCalcula tu indemnización por despido.\n\nTienes 6 meses desde la fecha en que finaliza tu empleo para solicitar la indemnización legal por despido.",
+  "seconds": 2.17,
+  "tokens_out": 306,
+  "reader": "changed"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#1",
+  "text": "## Excepciones\n\nNo tiene derecho a la indemnización legal por despido si:\n\n- su empleador le ofrece seguir trabajando\n- su empleador le ofrece un trabajo alternativo adecuado que usted rechaza sin una razón válida\n\nQue despida por falta de conducta no se considera un despido por reducción de plantilla, por lo que no obtendría una indemnización legal por despido en este caso.\n\nNo tiene derecho a la indemnización legal por despido si se encuentra en una o más de las siguientes categorías:\n\n- antiguos trabajadores registrados de muelles (cubiertos por otros acuerdos) y pescadores por acciones\n- servidores de la Corona, miembros de las fuerzas armadas o servicios policiales\n- aprendices que no son empleados al final de su formación\n- un sirviente doméstico que es miembro de la familia inmediata del empleador",
+  "seconds": 1.64,
+  "tokens_out": 177,
+  "reader": "changed"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#2",
+  "text": "## Despidos temporales y suspensiones temporales de corta duración\n\nPuedes solicitar una indemnización legal por despido si eres elegible y has estado temporalmente suspendido (sin paga o con menos de la mitad del salario de una semana) durante cualquiera de los siguientes periodos:\n\n- más de 4 semanas seguidas\n\n- más de 6 semanas no consecutivas en un periodo de 13 semanas\n\nEscribe a tu empleador indicándole que tienes intención de solicitar una indemnización legal por despido. Esto debe hacerse dentro de las 4 semanas posteriores a tu último día sin trabajar en el periodo de 4 o 6 semanas.\n\nSi tu empleador no rechaza tu solicitud dentro de los 7 días posteriores a recibirla, vuelve a escribir a tu empleador para enviarle tu preaviso.\n\nTu solicitud podría ser rechazada si es probable que tu trabajo habitual comience dentro de las 4 semanas y se extienda durante al menos 13 semanas.",
+  "seconds": 1.69,
+  "tokens_out": 209,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#0",
+  "text": "La cantidad de Impuesto sobre la Renta que paga en cada año fiscal depende de:\n\n- cuánta de su renta supera su Exención Personal\n\n- cuánta de su renta cae dentro de cada tramo fiscal\n\nAlguna renta está libre de impuestos.\n\nEl año fiscal actual va del 6 de abril de 2026 al 5 de abril de 2027.\n\nEsta guía también está disponible en galés (Cymraeg).",
+  "seconds": 1.22,
+  "tokens_out": 99,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#1",
+  "text": "## Tu deducción personal libre de impuestos\n\nLa deducción personal estándar es de £12,570, que es la cantidad de ingresos sobre la que no tienes que pagar impuestos.\n\n### Si ganas más de £100,000\n\nTu deducción personal disminuye en £1 por cada £2 que tus ingresos netos ajustados superen los £100,000. Esto significa que tu deducción es cero si tus ingresos son de £125,140 o más.\n\n### Deducción para personas ciegas (Blind Person’s Allowance)\n\nPuede que puedas ganar más antes de empezar a pagar Income Tax si reclamas Blind Person's Allowance. Esta deducción libre de impuestos se suma a tu deducción personal.",
+  "seconds": 1.54,
+  "tokens_out": 165,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#2",
+  "text": "## Tipos y tramos del Impuesto sobre la Renta\n\nLa tabla muestra los tipos impositivos que pagas en cada tramo si tienes una Exención Personal estándar de £12,570.\n\nLos tramos del Impuesto sobre la Renta son diferentes si vives en Escocia.\n\n| Tramo | Ingresos imponibles | Tipo impositivo |\n\n| Exención Personal | Hasta £12,570 | 0% |\n\n| Tipo básico | £12,571 a £50,270 | 20% |\n\n| Tipo superior | £50,271 a £125,140 | 40% |\n\n| Tipo adicional | más de £125,140 | 45% |\n\nTambién puedes ver los tipos y tramos sin la Exención Personal. No tienes derecho a una Exención Personal en los ingresos imponibles superiores a £125,140.\n\n### Si estás empleado o cobras una pensión\n\nConsulta tu Impuesto sobre la Renta para ver:\n\n- tu Exención Personal y tu código fiscal\n\n- cuánto impuesto has pagado en el año fiscal actual\n\n- cuánto es probable que pagues durante el resto del año",
+  "seconds": 1.98,
+  "tokens_out": 273,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#3",
+  "text": "## Otras deducciones\n\nTiene deducciones sin cargo fiscal para:\n\n- intereses de ahorro\n\n- ingresos por dividendos, si posee acciones en una empresa\n\nTambién puede tener deducciones sin cargo fiscal para:\n\n- sus primeros £1,000 de ingresos por trabajo autónomo – esta es su 'deducción comercial' (trading allowance)\n\n- sus primeros £1,000 de ingresos por propiedades que alquila (a menos que esté utilizando el Regimen de Alquiler de Habitaciones, Rent a Room Scheme)\n\nDescubra si es elegible para las deducciones comercial y de propiedad.\n\nPaga impuesto sobre cualquier interés, dividendos o ingresos superiores a sus deducciones.",
+  "seconds": 1.48,
+  "tokens_out": 151,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#4",
+  "text": "## Pagar menos Impuesto sobre la Renta\n\nLa cantidad de impuesto que pagas también puede reducirse mediante exenciones fiscales si cumples los requisitos, por ejemplo:\n\n- donaciones a organizaciones benéficas\n\n- gastos laborales\n\n- aportaciones a planes de pensiones privados\n\n- pagos de manutención\n\n### Si estás casado o en una pareja civil\n\nEs posible que puedas solicitar el Marriage Allowance para reducir el impuesto de tu pareja si tus ingresos son inferiores a la exención personal estándar.\n\nSi no solicitas el Marriage Allowance y tú o tu pareja nacieron antes del 6 de abril de 1935, es posible que puedas solicitar el Married Couple's Allowance.",
+  "seconds": 1.43,
+  "tokens_out": 149,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#0",
+  "text": "Puede pagar una cuota impositiva diferente sobre las ganancias de negocios que sobre otros activos.\n\nNormalmente no paga impuestos al vender su vivienda.\n\nEn cambio, a partir del 6 de abril de 2026, pagará Income Tax y National Insurance contributions sobre el carried interest que reciba.",
+  "seconds": 1.26,
+  "tokens_out": 65,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#1",
+  "text": "## Si pagas el Impuesto sobre la Renta a tipo superior\n\nSi eres contribuyente sujeto a tipo superior o adicional, pagarás el 24% por tus ganancias a partir del 6 de abril de 2026.\n\nPuedes ver las tipos y las deducciones para años anteriores.",
+  "seconds": 1.04,
+  "tokens_out": 67,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#2",
+  "text": "## Si pagas el tipo impositivo básico de IR\n\nSi eres contribuyente de tipo impositivo básico, el tipo al que estás sujeto sobre las ganancias que recibas desde el 6 de abril de 2026 depende del importe de tu ganancia y de tu renta sujeta a impuestos.\n\nPuedes consultar los tipos y las exenciones de años anteriores.\n\nPara calcular tu tipo:\n\n- Calcula cuál es tu renta sujeta a impuestos: es tu renta menos tu exención personal y cualquier otra deducción de IR a la que tengas derecho.\n- Calcula tus ganancias totales sujetas a impuestos.\n- Resta la exención libre de impuestos a tus ganancias totales sujetas a impuestos.\n- Suma este importe a tu renta sujeta a impuestos.\n- Si este importe se encuentra dentro del tramo impositivo básico de IR, pagarás un 18% sobre las ganancias obtenidas desde el 6 de abril de 2026.\n- Para cualquier importe superior al tramo impositivo básico de IR, pagarás un 24% sobre las ganancias obtenidas desde el 6 de abril de 2026.\n\n### Ejemplo 1\n\nObtienes una ganancia el 6 de abril de 2026 o después. Tu renta sujeta a impuestos (tu renta menos tu exención personal y cualquier deducción de IR) es de £20,000 y tus ganancias sujetas a impuestos son de £12,600.\n\nPrimero, resta la exención libre de impuestos de Capital Gains a tu ganancia sujeta a impuestos. Para el año fiscal 2026 a 2027, la exención es de £3,000, lo que deja £9,600 a los que aplicar impuesto.\n\nAñade esto a tu renta sujeta a impuestos. Dado que el importe combinado de £29,600 es inferior a £37,700 (el tramo impositivo básico para el año fiscal 2026 a 2027), pagarás un 18% de Capital Gains Tax.\n\nEsto significa que pagarás £1,728 en Capital Gains Tax.\n\n### Ejemplo 2\n\nObtienes una ganancia el 6 de abril de 2026 o después. Tu renta sujeta a impuestos (tu renta menos tu exención personal y cualquier deducción de IR) es de £20,000 y tus ganancias sujetas a impuestos son de £52,600.\n\nPrimero, resta la exención libre de impuestos de Capital Gains a tu ganancia sujeta a impuestos. Para el año fiscal 2026 a 2027, la exención es de £3,000, lo que deja £49,600 a los que aplicar impuesto.\n\nAñade esto a tu renta sujeta a impuestos. Dado que el importe combinado de £69,600 es superior a £37,700 (el tramo impositivo básico para el año fiscal 2026 a 2027), pagarás un 18% de Capital Gains Tax sobre £17,700 y luego un 24% sobre £31,900.\n\nEsto significa que pagarás £10,842.",
+  "seconds": 4.2,
+  "tokens_out": 739,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#3",
+  "text": "## Si eres fideicomisario, representante personal o una empresa\n\nLos fideicomisarios o representantes personales de una persona fallecida pagan impuestos al 24% desde el 6 de abril de 2026.\n\nPuedes consultar las tasas y laallowance para años anteriores.\n\n### Si cumples los requisitos para el Business Asset Disposal Relief\n\nA partir del 6 de abril de 2026, pagarás el 18% si eres un comerciante individual, una sociedad o un fideicomisario y tus beneficios califican para el Business Asset Disposal Relief.\n\nPuedes consultar las tasas y laallowance para años anteriores.\n\n### Si tienes ganancias gravadas a más de una tasa\n\nPuedes utilizar tu exención libre de impuestos contra las ganancias que estarían sujetas a las tasas más altas (por ejemplo, donde pagarías el 24% y el 18% de impuestos).\n\nPuedes consultar las tasas y laallowance para años anteriores.",
+  "seconds": 1.99,
+  "tokens_out": 218,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#0",
+  "text": "El Impuesto sobre Sucesiones (Inheritance Tax) es un impuesto sobre el patrimonio (los bienes, el dinero y las posesiones) de alguien que ha fallecido.\n\nNormalmente no hay que pagar Impuesto sobre Sucesiones si:\n\n- el valor de su patrimonio está por debajo del umbral de £325,000\n\n- deja todo lo que exceda el umbral de £325,000 a su cónyuge, pareja civil, una organización benéfica o un club de deportes amateur\n\nEs posible que aún tenga que declarar el valor del patrimonio aunque esté por debajo del umbral.\n\nSi dona su vivienda a sus hijos (incluidos hijos adoptados, acogidos o de pareja anterior) o nietos, su umbral puede aumentar hasta £500,000.\n\nSi está casado o en pareja civil y su patrimonio vale menos que su umbral, cualquier parte del umbral que no haya utilizado se puede sumar al umbral de su pareja cuando usted fallezca.\n\nEsta guía también está disponible en galés (Cymraeg).",
+  "seconds": 1.87,
+  "tokens_out": 234,
+  "reader": "changed"
+ },
+ {
+  "id": "inheritance-tax#1",
+  "text": "## Tasas del impuesto sobre sucesiones\n\nLa tasa estándar del impuesto sobre sucesiones es del 40%. Solo se aplica a la parte de tu patrimonio que supere el umbral.\n\n### Ejemplo\n\nTu patrimonio tiene un valor de £500,000 y tu umbral libre de impuestos es de £325,000. El impuesto sobre sucesiones que se cobrará será del 40% de £175,000 (menos £325,000 de £500,000).\n\nEl patrimonio puede pagar el impuesto sobre sucesiones a una tasa reducida del 36% en algunos activos si dejas el 10% o más del «valor neto» a una entidad benéfica en tu testamento. (El valor neto es el valor total del patrimonio menos cualquier deuda).\n\n### Exenciones y deducciones\n\nAlgunos regalos que haces mientras estás vivo pueden tributar después de tu fallecimiento. Dependiendo de cuándo se entregó el regalo, la «reducción progresiva» (taper relief) podría hacer que el impuesto sobre sucesiones aplicado a ese regalo sea inferior al 40%.\n\nOtras deducciones, como la Business Relief o la Agricultural Relief, permiten que algunos activos se transmitan sin pagar impuesto sobre sucesiones o con una factura reducida.",
+  "seconds": 2.1,
+  "tokens_out": 292,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#2",
+  "text": "## Quién paga el impuesto a la HMRC\n\nLos fondos de su patrimonio se utilizan para pagar el Impuesto Sucesorio (Inheritance Tax) a la HM Revenue and Customs (HMRC). Esto lo hace la persona que gestiona el patrimonio (llamada ‘executor’, si hay testamento).\n\nSus beneficiarios (las personas que heredan su patrimonio) normalmente no pagan impuestos sobre lo que heredan. Pueden tener impuestos relacionados que pagar, por ejemplo, si reciben ingresos por alquiler de una casa dejada a ellos en un testamento.\n\nLas personas a las que usted hace regalos pueden tener que pagar el Impuesto Sucesorio (Inheritance Tax), pero solo si dona más de £325,000 y fallece dentro de los 7 años.",
+  "seconds": 1.46,
+  "tokens_out": 163,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#0",
+  "text": "El importe de la tasa depende de si quieres:\n\n- obtener tu primera licencia de conducción británica completa o provisional\n\n- obtener un duplicado si la tuya ha sido perdida, robada, dañada o destruida\n\n- cambiar tu nombre, dirección o fotografía\n\n- renovar tu carnet de conducir\n\n- añadir, renovar o eliminar un derecho\n\n- cambiar un carnet de conducir, por ejemplo, cambiar un carnet en papel por uno con fotografía\n\n- recuperar tu carnet de conducir después de que te lo hayan retirado, por ejemplo, si te han suspendido\n\nEste servicio también está disponible en galés (Cymraeg).\n\nPara las solicitudes por correo, los cheques y los órdenes postales son a nombre del DVLA. La dirección depende de lo que estés solicitando.\n\nNo se aceptarán cheques dañados o alterados.\n\nExisten tasas diferentes para el carnet de conducir en Irlanda del Norte.",
+  "seconds": 1.77,
+  "tokens_out": 192,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#1",
+  "text": "## Obtenga su primera licencia de conducir de Gran Bretaña\n\n| | Solicite en línea | Solicite por correo |\n\n| Primera licencia provisional para coche, motocicleta o ciclomotor | £34 | £43 |\n\n| Primera licencia completa de conducir tras aprobar la prueba de conducir | N/A | Gratis - £17 por utilizar una fotografía diferente de la de su licencia provisional |\n\n| Primera licencia completa de GB en canje de una licencia completa de la Comunidad Europea, del Espacio Económico Europeo o de otro país designado | N/A | £43 |",
+  "seconds": 1.36,
+  "tokens_out": 122,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#3",
+  "text": "## Cambiar el nombre, la dirección o la fotografía de tu carnet de conducir con fotografía\n\nLa tasa depende de qué estés cambiando y de cómo lo hagas.\n\n| Qué estás cambiando | Cambiar en línea | Cambiar por correo |\n\n| Dirección | Gratis | Gratis |\n\n| Nombre | N/A | Gratis |\n\n| Fotografía | £14 | £17 |\n\n| Fotografía y nombre al mismo tiempo | N/A | £17 |\n\n| Fotografía y dirección al mismo tiempo | £14 | £17 |",
+  "seconds": 1.33,
+  "tokens_out": 116,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#4",
+  "text": "## Renovar el permiso de conducir\n\nLos permisos con foto son válidos por 10 años salvo indicación contraria. Recibirás un recordatorio para renovar tu foto antes de que finalice tu permiso actual.\n\n| | Solicitar en línea | Solicitar por correo |\n\n| Renovar un permiso de conducir caducado | £14 | £17 |\n\n| Renovar porque tienes 70 años o más | Gratis | Gratis |\n\nTambién puedes renovar tu permiso de conducir caducado en una oficina de correos Post Office; cuesta £21.50.",
+  "seconds": 1.27,
+  "tokens_out": 126,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#5",
+  "text": "## Renovar un permiso de conducción médico de corto plazo\n\nPuede renovar su permiso de conducción médico de corto plazo de forma gratuita.\n\nPuede renovar en línea si tiene diabetes, epilepsia, enfermedad de Parkinson, una discapacidad visual, una alteración del sueño o una enfermedad cardíaca.",
+  "seconds": 1.15,
+  "tokens_out": 61,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#6",
+  "text": "## Añade, renueva o elimina un derecho\n\n| | Aplica en línea | Aplica por correo |\n|---|---|---|\n| Añadir un derecho a una licencia plena o provisional, por ejemplo, para conducir un autobús o un camión | N/A | Gratis |\n| Renovar un derecho para conducir un autobús o un camión | N/A | Gratis |\n| Rinunciar a un derecho para conducir un autobús o un camión | N/A | Gratis |\n\nTambién puedes cambiar una foto al mismo tiempo. Cuesta £17.",
+  "seconds": 1.27,
+  "tokens_out": 121,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#7",
+  "text": "## Cambiar un permiso de conducir en papel o no británico (GB)\n\n| Lo que estás canjeando | Tramitación online | Tramitación postal |\n\n| Permiso en papel por tarjeta con cambio de domicilio | Gratis | Gratis |\n\n| Permiso en papel por tarjeta con cambio de nombre | N/A | Gratis |\n\n| Permiso en papel por tarjeta sin cambio de datos | £20 | £20 |\n\n| Permiso de Irlanda del Norte completo canjeado por un permiso de Gran Bretaña | N/A | Gratis |\n\n| Permiso completo de la Comunidad Europea, del Espacio Económico Europeo o de otro extranjero designado, si se ha poseído previamente un permiso de Gran Bretaña | N/A | Gratis |\n\n| Permiso completo de la Comunidad Europea, del Espacio Económico Europeo o de otro extranjero designado, si nunca se ha poseído un permiso de Gran Bretaña | N/A | £43 |",
+  "seconds": 1.55,
+  "tokens_out": 199,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#8",
+  "text": "## Recupera tu licencia tras haber sido retirada\n\nLa tasa depende de por qué se te retiró la licencia y de cómo la recuperaste.\n\n| Cómo recuperaste tu licencia | Solicitar en línea | Solicitar por correo |\n| --- | --- | --- |\n| Fuiste inhabilitado por cualquier motivo excepto por conducir bajo la influencia del alcohol | N/A | £65 |\n| Fuiste inhabilitado por conducir bajo la influencia del alcohol y necesitas pasar un reconocimiento médico con un médico de la DVLA | N/A | £90 |\n| Fuiste inhabilitado por conducir bajo la influencia del alcohol y no necesitas pasar un reconocimiento médico | N/A | £65 |\n| Has recuperado tu licencia tras ser revocada en virtud de la Ley de Conductores Nuevos | N/A | £50 |\n| Has recuperado tu licencia tras ser revocada por no entregarla a la DVLA o en el tribunal | N/A | Sin coste |",
+  "seconds": 1.83,
+  "tokens_out": 210,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#1",
+  "text": "## ¿Qué es la \"Ayuda Adicional\"?\n\n\"Extra Help\" es un programa de Medicare para ayudar a las personas con ingresos y recursos limitados a pagar las primas, deducibles, coinsurance y otros costos de la cobertura de medicamentos de Medicare (Parte D). ¿Qué son una prima, un deducible, una coinsurance o un copago?\n\nAdemás, mientras reciba \"Extra Help\", no tendrá que pagar una multa por inscripción tardía de la Parte D. ¿Qué es la multa de la Parte D?\n\nAlgunas personas califican para \"Extra Help\" automáticamente, y otras deben presentar una solicitud.\n\n\"Extra Help\" no está disponible en Puerto Rico, las Islas Vírgenes de EE. UU., Guam, las Islas Marianas del Norte ni Samoa Americana. Sin embargo, existen otros programas disponibles en esas zonas para ayudar a las personas con ingresos y recursos limitados. Los programas varían en estas áreas. Llame a su oficina estatal de Asistencia Médica (Medicaid) para obtener más información.",
+  "seconds": 2.12,
+  "tokens_in": 320,
+  "tokens_out": 221,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#2",
+  "text": "## ¿Quién recibe la Ayuda Extra automáticamente?\n\nRecibirá la Ayuda Extra automáticamente si recibe:\n\n- Cobertura total de Medicaid\n- Ayuda de su estado para pagar las primas de la Parte B (de un Programa de Ahorro de Medicare)\n- Pagos de Seguridad de Ingreso Suplementario (SSI) de la Seguridad Social\n\nRecibirá un aviso por correo sobre su Ayuda Extra. Este le informará cosas como cuánto deberá pagar y su nuevo plan de medicamentos de Medicare, si todavía no tiene uno.\n\nSi no recibe la Ayuda Extra automáticamente, puede solicitarla:\n\nSolicitar Ayuda Extra\n\nTambién puede contactar a su Programa Local de Asistencia de Seguros de Salud (SHIP) para recibir ayuda gratuita para realizar la solicitud.\n\nPuede solicitar la Ayuda Extra y los Programas de Ahorro de Medicare (MSP) al mismo tiempo. Estos programas estatales brindan ayuda con otros costos de Medicare. La Seguridad Social enviará información a su estado para iniciar una solicitud de MSP a menos que usted les indique lo contrario en la solicitud de Ayuda Extra. Obtenga más información sobre los Programas de Ahorro de Medicare.",
+  "seconds": 2.25,
+  "tokens_in": 355,
+  "tokens_out": 243,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#3",
+  "text": "### ¿Quién debería solicitar ayuda adicional?\n\nEn la mayoría de los casos, para calificar para Extra Help, debe tener ingresos y recursos por debajo de un cierto límite. Estos límites pueden aumentar cada año.\n\nLímites de ingresos y recursos en 2026:\n\n| Su situación: | Límite de ingresos: ¿Qué cuenta en los límites de ingresos? | Límite de recursos: ¿Qué cuenta en los límites de recursos? |\n| :--- | :--- | :--- |\n| Individuo | $23,940 | $18,090 |\n| Pareja casada | $32,460 | $36,100 |\n\n¿Cuáles son los límites de ingresos y recursos si vivo en Alaska o Hawái?",
+  "seconds": 1.82,
+  "tokens_in": 287,
+  "tokens_out": 167,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#4",
+  "text": "## Si calificas para la Ayuda Extra\n\nTe inscribiremos automáticamente en un plan de medicamentos de Medicare (Parte D), si aún no tienes uno. Hacemos esto para que puedas obtener los ahorros de costos por los que calificas.\n\n- Recibirás un aviso que te informará:\n- Sobre tu nuevo plan. Puedes seleccionar un plan de medicamentos de Medicare diferente si así lo deseas.\n- Que obtienes la Ayuda Extra para el resto del año calendario. Incluso si tu ingreso cambia a mitad de año, continuarás recibiendo la Ayuda Extra hasta el 31 de diciembre.\n\n- Si cumples con los límites de ingresos y recursos para el próximo año, continuarás recibiendo la Ayuda Extra. Te enviaremos un aviso por correo solo si:\n- Ya no calificas para la Ayuda Extra.\n- Te asignan a un plan diferente para el próximo año.\n\n- Si no recibes un aviso de Medicare o de la Seguridad Social, continuarás recibiendo la Ayuda Extra y mantendrás el mismo plan para el próximo año.",
+  "seconds": 2.13,
+  "tokens_in": 349,
+  "tokens_out": 227,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#5",
+  "text": "## Lo que pagará con la Ayuda Adicional en 2027\n\n- Prima del plan: $0\n- Deducible del plan: $0\n\nMedicamentos que rellene en una de las farmacias participantes de su plan:\n\n- Hasta $5.80 por cada medicamento genérico\n- Hasta $14.40 por cada medicamento de marca\n\nUna vez que sus costos totales de medicamentos (incluyendo ciertos pagos hechos en su nombre, como a través del programa Extra Help) alcancen $2,400, pagará $0 por cada medicamento cubierto.\n\nSi también recibe cobertura completa de Medicaid y está en el programa Qualified Medicare Beneficiary (QMB), pagará no más de $4.90 por cada medicamento cubierto. Entienda si puede calificar para QMB u otros Programas de Ahorro de Medicare.\n\nObtenga más información sobre las cartas que recibe cuando califica para Extra Help.\n\nIncluso si no califica para Extra Help ahora, puede volver a solicitarlo en cualquier momento si cambian sus ingresos y recursos.",
+  "seconds": 2.24,
+  "tokens_in": 362,
+  "tokens_out": 231,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#6",
+  "text": "## ¿Cree que está pagando la cantidad incorrecta por sus receta(s)?\n\nSi califica para la Ayuda Extra y cree que está pagando la cantidad incorrecta, aquí tiene lo que puede hacer:\n\n- Contacte a su plan de medicamentos. Es posible que su plan le pida prueba de que recibe la Ayuda Extra para que puedan corregir sus costos. Obtenga ejemplos de prueba.\n\nDígale a su plan cuántos días de medicación le quedan. Su plan y Medicare intentarán solucionar su problema antes de que se le acabe su medicación.\n\n- Llame al 1-800-MEDICARE (1-800-633-4227). Los usuarios de TTY pueden llamar al 1-877-486-2048. Podemos indicarle su nivel de Ayuda Extra y ayudarle a corregir sus costos con el plan.\n\nEl Programa de Transición Limitada de Ingresos de Nueva Elegibilidad (LI NET) de Medicare brinda cobertura temporal de medicamentos de la Parte D de Medicare a personas que califican para la Ayuda Extra o Medicaid pero que aún no están inscritas en un plan de medicamentos de Medicare. Es posible que pueda recuperar algo de dinero si pagó por medicamentos de la Parte D cubiertos después de calificar para LI NET. Guarde sus recibos con los precios de sus medicamentos recetados y llame a LI NET al 1-800-783-1307. Los usuarios de TTY pueden llamar al 711. Alguien estará disponible para atender su llamada de las 8 a.m. a las 7 p.m. hora del Este (ET).\n\nLa mayoría de las personas con Medicare solo pueden cambiar de plan en ciertos momentos del año. Si tiene Medicaid o recibe la Ayuda Extra, es posible que pueda cambiar su cobertura de medicamentos una vez al mes.",
+  "seconds": 3.09,
+  "tokens_in": 495,
+  "tokens_out": 406,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#7",
+  "text": "## Otras formas de reducir los costos de sus medicamentos recetados:\n\n- Únase a la cobertura de medicamentos de Medicare (Parte D):\n\n- Compare los planes de medicamentos de Medicare para encontrar un plan con costos de medicamentos más bajos.\n- Verifique si la empresa que fabrica su medicamento ofrece ayuda para pagar por él.\n- Averigüe si su estado ofrece ayuda con los costos de los medicamentos.\n\n- Pregunte a su médico si puede tomar un medicamento genérico o una marca más económica (si está disponible).\n- Consulte los costos en farmacias de envío por correo. A veces, usar una farmacia de envío por correo es más económico.\n- Averigüe si el Medicare Prescription Payment Plan podría ayudarle a administrar sus costos.\n\n- Visite TrumpRx.gov:\n\n- Encuentre ofertas especiales y el precio de contado más bajo en medicamentos recetados. No puede comprar medicamentos directamente en TrumpRx.\n- Compare los precios de TrumpRx con lo que paga bajo su plan para asegurarse de obtener el mejor precio.\n- TrumpRx y otros tipos de tarjetas de descuento no se consideran cobertura crediticia. Cuando los utiliza (en lugar de su plan de Medicare) para comprar medicamentos, no cuenta para su deducible de Medicare ni para su máximo de gasto de bolsillo.",
+  "seconds": 2.33,
+  "tokens_in": 379,
+  "tokens_out": 271,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#0",
+  "text": "Obtenga ayuda de su estado para pagar las primas de su Medicare Part A (Seguro de Hospital) y Part B (Seguro Médico) a través de un Medicare Savings Program. Si cumple con los requisitos, los Medicare Savings Programs también podrían pagar los deducibles, coinsurance y copayments de su Part A y Part B.\n\nUsted aplicará para los Medicare Savings Programs a través de su estado. Cuando aplique, su estado determinará en qué programa(s) cumple con los requisitos. Incluso si no cree que cumple con los requisitos, aún debe aplicar.\n\n¿Qué es una premium, un deductible, una coinsurance o un copayment?",
+  "seconds": 1.55,
+  "tokens_in": 265,
+  "tokens_out": 138,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#1",
+  "text": "## Cómo calificar para los 4 programas de ahorro de Medicare\n\nEn la mayoría de los casos, sus ingresos y recursos deben estar por debajo de un límite determinado para calificar para un programa de ahorro de Medicare, como se describe a continuación. Estos límites aumentan cada año.\n\nUsted puede aún calificar para estos programas en su estado incluso si sus ingresos o recursos son más altos que los límites federales que se indican. Algunos estados no cuentan ciertos tipos o cantidades específicas de ingresos o recursos al determinar quién califica.\n\nContacte a su estado",
+  "seconds": 1.52,
+  "tokens_in": 247,
+  "tokens_out": 115,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#2",
+  "text": "## Programa de Beneficiarios Calificados de Medicare (QMB Program)\n\nAyuda a pagar: las primas de la Parte A (si no tienes la Parte A sin prima); las primas, deducibles, coseguros y pagos conjuntos de la Parte B (para servicios e artículos que cubre Medicare).\n\nLímites mensuales de ingresos y recursos para 2026:\n\n| Tu situación: | Límite de ingresos mensual:* | Límite de recursos: ¿Qué cuenta en los límites de recursos? |\n| --- | --- | --- |\n| Individual | $1,350 | $9,950 |\n| Pareja casada | $1,824 | $14,910 |\n\n*Los límites de ingresos son ligeramente más altos en Alaska y Hawái. Es posible que califiques en otros estados para estos programas incluso si tus ingresos o recursos son más altos que los límites federales que se muestran. Contacta a tu estado para más información.\n\nSi calificas para el programa QMB:\n\n- Los proveedores de Medicare no pueden cobrarte por servicios e artículos que cubre Medicare, incluidos los deducibles, los coseguros y los pagos conjuntos. ¿Qué debo hacer si recibo una factura?\n- Es posible que recibas una factura por un pequeño pago conjunto de Medicaid, si corresponde.\n- También obtendrás Ayuda Extra para pagar tus medicamentos recetados. No pagarás más de $12.65 en 2026 por cada medicamento cubierto por tu plan de medicamentos recetados de Medicare.\n\nMuestra tu tarjeta de Medicare y tu tarjeta de Medicaid (o tarjeta QMB) cada vez que recibas atención. Si tienes Medicare Original, también puedes mostrar uno de tus estados de cuentas, llamados avisos de reclamaciones de Medicare (Medicare Summary Notices). Estos estados de cuentas muestran que estás en el programa QMB. Obtiene una muestra de un Aviso de Reclamaciones de Medicare.",
+  "seconds": 4.94,
+  "tokens_in": 490,
+  "tokens_out": 424,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#3",
+  "text": "## Programa de Beneficiarios de Medicare de Ingresos Bajos Especificados (SLMB Program)\n\nAyuda a pagar: solo las primas de la Parte B (Debe tener tanto la Parte A como la Parte B para calificar).\n\nLímites mensuales de ingresos y recursos para 2026:\n\n| Su situación: | Límite de ingresos mensual:* | Límite de recursos: ¿Qué cuenta en los límites de recursos? |\n| Individual | $1,616 | $9,950 |\n| Pareja casada | $2,184 | $14,910 |\n\n* Los límites de ingresos son ligeramente más altos en Alaska y Hawái. Puede calificar en otros estados para estos programas incluso si sus ingresos o recursos son más altos que los límites federales listados. Contacte a su estado para obtener más información.\n\nSi califica para el SLMB Program:\n\n- También recibirá la Ayuda Adicional para pagar sus medicamentos recetados.\n- No pagará más de $12.65 en 2026 por cada medicamento que su plan de medicamentos de Medicare cubra.",
+  "seconds": 2.97,
+  "tokens_in": 357,
+  "tokens_out": 250,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#4",
+  "text": "## Programa de Individuo Calificado (QI)\n\nAyuda a pagar las primas de la Parte B (Debe tener tanto la Parte A como la Parte B para calificar).\n\nLímites mensuales de ingresos y recursos para 2026:\n\n| Su situación: | Límite mensual de ingresos:* | Límite de recursos: ¿Qué cuenta en los límites de recursos? |\n| Individual | $1,816 | $9,950 |\n| Pareja casada | $2,455 | $14,910 |\n\n*Los límites de ingresos son ligeramente más altos en Alaska y Hawaii. Es posible que califique en otros estados para estos programas incluso si sus ingresos o recursos son más altos que los límites federales que se muestran. Comuníquese con su estado para obtener más información.\n\nSi califica para el programa QI:\n\n- Debe solicitar todos los años para permanecer en el programa QI.\n- Los estados aprueban las solicitudes bajo el criterio de primero en llegar, primero en ser atendido, y se da prioridad a las personas que recibieron beneficios QI el año anterior.\n- También recibirá Ayuda Extra para pagar sus medicamentos recetados. No pagará más de $12.65 en 2026 por cada medicamento que cubra su plan de medicamentos Medicare.\n\nEl QI solo está disponible para personas que no califican para ninguna otra cobertura o beneficio de Medicaid, pero es posible que califique para ayuda de otro Programa de Ahorro de Medios del Medicare.",
+  "seconds": 4.1,
+  "tokens_in": 425,
+  "tokens_out": 332,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#5",
+  "text": "## Programa para Personas con Discapacidad Cualificada y Trabajadoras (QDWI)\n\nUsted podría calificar para el programa QDWI si:\n\n- Tiene una discapacidad\n- Está trabajando\n- Perdió sus beneficios de discapacidad de Social Security y la Parte A de Medicare sin prima porque volvió al trabajo\n\nAyuda a pagar: solo las primas de la Parte A\n\nLímites mensuales de ingresos y recursos para 2026:\n\n| Su situación: | Límite de ingresos mensual:* | Límite de recursos: ¿Qué cuenta en los límites de recursos? |\n| Individual | $5,405 | $4,000 |\n| Pareja casada | $7,299 | $6,000 |\n\n*Los límites de ingresos son ligeramente más altos en Alaska y Hawái. Es posible que califique para estos programas en otros estados incluso si sus ingresos o recursos son más altos que los límites federales que se indican. Contacte a su estado para averiguarlo.",
+  "seconds": 3.49,
+  "tokens_in": 329,
+  "tokens_out": 221,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#0",
+  "text": "Lo que usted paga por Medicare depende de la cobertura que tenga y de los servicios que utilice. Encuentre los costos de las diferentes partes de Medicare y entienda qué paga de su bolsillo.\n\n¿Qué son una prima, un deducible, un co-seguro o un pago fijo (copayment)?",
+  "seconds": 1.25,
+  "tokens_in": 203,
+  "tokens_out": 68,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#2",
+  "text": "## Costos de la Parte A (Seguro hospitalario)\n\n| Costos de la Parte A: | Lo que usted paga en 2026: |\n\n-\n-\n\n| Prima mensual | $0 para la mayoría de las personas (porque usted o su cónyuge pagaron impuestos de Medicare lo suficiente mientras trabajaba — generalmente por al menos 10 años). Si obtiene Medicare antes de los 65 años, no pagará una prima de la Parte A. Esto a veces se llama \"Parte A sin prima\". ¿Cumplo los requisitos para obtener la Parte A sin prima? Si no cumple los requisitos para la Parte A sin prima: Es posible que usted pueda comprarla. Usted pagará $311 o $565 cada mes por la Parte A, dependiendo de cuánto tiempo trabajó usted o su cónyuge y pagó impuestos de Medicare. Recuerde: También debe inscribirse en la Parte B para comprar la Parte A. Obtenga más información sobre cómo funciona Medicare. Si no compra la Parte A cuando califica por primera vez para Medicare (generalmente cuando cumple 65 años), es posible que tenga que pagar una penalización. Obtenga más información sobre cómo evitar la penalización de la Parte A. |\n\n| Deducible cada periodo de beneficio | $1,736 por cada periodo de beneficio de hospital de internación, antes de que el Seguro Médico Original (Original Medicare) comience a pagar. Usted paga el deducible de la Parte A cada vez que comienza un nuevo periodo de beneficio. No hay límite en la cantidad de periodos de beneficio que puede tener en un año. Esto significa que es posible que tenga que pagar el deducible más de una vez al año. ¿Cómo funcionan los periodos de beneficio? |\n\n-\n-\n-\n-\n\n| Estancia de internación diaria ¿Qué no está cubierto? | Durante un periodo de beneficio, lo que usted paga depende de cuánto tiempo recibe atención: Días 1-60: $0 cada día después de que pague su deducible de la Parte A. Días 61-90: $434 cada día. Días 91-150: $868 cada día mientras utiliza sus 60 días de reserva vitalicia. Después del día 150: Usted paga todos los costos. ¿Cuánto pagaré si recibo servicios de salud mental como paciente internado? |\n\n-\n-\n-\n\n| Estancia en instalación de enfermería calificada diaria | Durante un periodo de beneficio, lo que usted paga depende de cuánto tiempo recibe atención: Días 1-20: $0 cada día después de que pague el deducible de la Parte A. Días 21-100: $217 cada día. Días 101 y posteriores: Usted paga todos los costos. No tiene que pagar el deducible de la Parte A para la atención en una instalación de enfermería calificada si ya lo pagó por la atención que recibió en un hospital durante el mismo periodo de beneficio. |\n\n| Cuidados de salud en el hogar | $0 por los servicios de cuidado de salud en hogar cubiertos. 20% del monto aprobado por Medicare para equipo médico durable (como sillas de ruedas, andadores, camas de hospital y otros equipos). |\n\n-\n-\n\n-\n\n| Cuidados de hospicio | $0 por los servicios de cuidado de hospicio cubiertos. Un copago de hasta $5 por cada medicamento recetado y otros productos similares para aliviar el dolor y controlar los síntomas mientras usted está en su hogar. ¿Qué sucede si mi cuidado de hospicio no paga por mi medicamento? 5% del monto aprobado por Medicare para el cuidado de reposo de internación. ¿Qué no está cubierto? |\n\n| Límite de gastos de bolsillo anual | No hay un límite anual en lo que usted paga de su propio bolsillo, a menos que tenga un seguro complementario, como una póliza de Seguro de Suplemento de Medicare (Medigap) o se una a un Plan de Medicare Advantage (Parte C). |\n\nVolver arriba",
+  "seconds": 6.0,
+  "tokens_in": 866,
+  "tokens_out": 886,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#3",
+  "text": "## Costos de la Parte B (Seguro médico)\n\n| Costos de la Parte B: | Lo que paga en 2026: |\n\n| PrimaMensual | $202,90 cada mes (o más dependiendo de sus ingresos). La cantidad puede cambiar cada año. Pagará la prima cada mes, incluso si no recibe ningún servicio cubierto por la Parte B. ¿Quién paga una prima de la Parte B más alta debido a sus ingresos? Podría pagar una penalidad por inscripción tardía a la Parte B si no se inscribe en la Parte B cuando primero es elegible para el Medicare (usualmente al cumplir 65 años). Pagará la penalidad mientras tenga la Parte B. La penalidad aumenta mientras más tarde se inscribe. Averigüe cómo funciona la penalidad de la Parte B y cómo evitarla. |\n\n| DeducibleAnual | $283 antes de que el Original Medicare comience a pagar. Paga este deducible una vez cada año. |\n\n| Costos generales por servicios (coinsurance)Por servicio | Generalmente el 20% del costo de cada servicio o artículo cubierto por Medicare después de haber pagado su deducible (y siempre que su médico o proveedor de atención de salud acepte la cantidad aprobada por Medicare como pago completo: denominado “aceptar asignación”). Averigüe cómo afecta la asignación lo que usted paga. |\n\n| Servicios de laboratorio clínico | $0 por servicios de laboratorio clínico cubiertos. |\n\n| Atención de enfermería en el hogar | $0 por servicios de atención de enfermería en el hogar cubiertos. 20% de la cantidad aprobada por Medicare para equipo médico duradero (como sillas de ruedas, andadores, camas hospitalarias y otros equipos). |\n\n| Cuidado hospitalario de internaciónPor servicio | 20% de la cantidad aprobada por Medicare para la mayoría de los servicios de médicos mientras usted es paciente interno en un hospital. |\n\n| Atención de salud mental ambulatoria | $0 por su cribado anual de depresión. 20% de la cantidad aprobada por Medicare para visitas a su médico u otro proveedor de atención de salud para diagnosticar o tratar su condición. Si recibe sus servicios en una clínica de atención ambulatoria hospitalaria o en un departamento de atención ambulatoria hospitalaria, es posible que deba pagar una cantidad adicional al hospital. |\n\n| Atención hospitalaria parcial de salud mentalPor servicio | Después de cumplir el deducible de la Parte B: 20% de la cantidad aprobada por Medicare para cada servicio que reciba de un médico u otro profesional de la salud mental calificado. Coinsurance por cada día de servicios de atención hospitalaria parcial que reciba en un entorno de atención ambulatoria hospitalaria o en un centro comunitario de salud mental. |\n\n| Atención hospitalaria ambulatoriaPor servicio | Generalmente el 20% de la cantidad aprobada por Medicare para los servicios de un médico y otros proveedores de atención de salud. También paga un copago al hospital por cada servicio que reciba en un entorno de atención ambulatoria hospitalaria (excepto por ciertos servicios preventivos). En la mayoría de los casos, su copago no será más que el monto del deducible de la estancia hospitalaria de la Parte A. Este copago hospitalario adicional significa que es posible que pague más por un servicio ambulatorio que recibe en un hospital que si recibiera el mismo servicio en la oficina de un médico. Compare los costos de los procedimientos ambulatorios bajo el Original Medicare. |\n\n| Límite de gastos de bolsilloAnual | No hay un límite anual en lo que paga de su bolsillo, a menos que tenga cobertura complementaria, como una póliza de Seguro Suplementario de Medicare (Medigap) o se una a un Plan de Advancement Medicare (Parte C). |\n\nObtenga ayuda con los costos de la Parte A y la Parte B\nSi tiene ingresos y recursos limitados, es posible que pueda recibir ayuda de su estado para pagar sus primas y otros costos. Obtenga más información sobre la ayuda con los costos.\n\nVolver arriba",
+  "seconds": 5.85,
+  "tokens_in": 872,
+  "tokens_out": 883,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#4",
+  "text": "## Costos de los Planes de Ventaja de Medicare (Parte C)\n\n| Costos de los Planes de Ventaja de Medicare: | Lo que paga en 2026: |\n\n| Primas y otros costos (como deducibles, copagos y coinsurance) | Varía según el plan. Estos montos pueden cambiar cada año. Debe tener la Parte B y seguir pagando su prima de la Parte B para permanecer en su plan. ¿Me ayudará mi Plan de Ventaja de Medicare a pagar mi prima de la Parte B? Compare los costos de los planes de atención médica específicos. |\n\n| Límite de gastos de bolsilloAnual | Varía según el plan. Una vez que paga el límite del plan, el plan paga el 100% de sus servicios de salud cubiertos por el resto del año calendario. |\n\n¿Dónde puedo obtener más detalles sobre costos de mi plan?\n\nMás información sobre los Planes de Ventaja de Medicare.\n\nVolver arriba",
+  "seconds": 2.4,
+  "tokens_in": 320,
+  "tokens_out": 212,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#5",
+  "text": "## Costos de la cobertura de medicamentos de Medicare (Parte D)\n\n| Costos de la Parte D: | Lo que usted paga en 2026: |\n\n-\n-\n\n| Prima Mensual | Varía según el plan. Es posible que tenga que pagar más, dependiendo de sus ingresos. ¿Quién paga una prima de la Parte D más alta debido a los ingresos? 2 formas de evitar pagar la penalización por inscripción tardía de la Parte D: Obtenga cobertura de medicamentos de Medicare cuando obtenga por primera vez Medicare Parte A y/o Parte B, yNo pase 63 días o más sin cobertura de medicamentos creditable (cobertura que tenga un valor similar al de la Parte D). Obtenga más información sobre la penalización de la Parte D. |\n\n| Deductibles, copagos y coinsurance | Varía según el plan y la farmacia. Busque planes de medicamentos de Medicare en su área y compare sus costos y cobertura. |\n\n| Límite de gasto de bolsillo Anual | $2,100 (en 2026). Incluye su deducible, el gasto de bolsillo y ciertos pagos realizados en su nombre, como a través del programa de Ayuda Extra (Extra Help). |\n\nObtenga más información sobre la Parte D.\n\nObtenga ayuda con los costos de medicamentos\nSi tiene ingresos y recursos limitados, es posible que pueda obtener la Ayuda Extra (Extra Help) para pagar las primas de su plan y otros costos de medicamentos. Si califica, no tendrá que pagar la penalización por inscripción tardía de la Parte D. Obtenga más información sobre la ayuda con los costos.\n\nVolver arriba",
+  "seconds": 2.77,
+  "tokens_in": 435,
+  "tokens_out": 355,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#6",
+  "text": "## Costos del seguro complementario de Medicare (Medigap)\n\n| Costos de Medigap: | Lo que usted paga en 2026: |\n\n| Prima mensual | Varía según el plan Medigap que compre, su lugar de residencia y otros factores. El monto puede cambiar cada año. Debe tener la Parte B y seguir pagando su prima de la Parte B para mantener su póliza Medigap. |\n\n| Otros costos | Medigap generalmente ayuda a pagar su parte de los costos (como deducibles y coinsurance) de los servicios que la Parte A y la Parte B cubren en Medicare original. El monto que usted pagará por servicios de la Parte A y la Parte B si tiene una póliza Medigap varía según el plan que compre. Algunas pólizas Medigap incluyen beneficios adicionales para reducir sus costos, como cobertura cuando viaja fuera del país. |\n\nObtenga más información sobre Medigap y sus costos.\n\nVolver al principio",
+  "seconds": 2.26,
+  "tokens_in": 342,
+  "tokens_out": 215,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#0",
+  "text": "Es importante que se inscriba en la cobertura de Medicare durante su Período de Inscripción Inicial, a menos que tenga otra cobertura que tenga un valor similar al de Medicare (como la que ofrece un empleador). Si no lo hace, es posible que tenga que pagar un monto adicional, llamado penalización por inscripción tardía.\n\nPenalizaciones por inscripción tardía:\n\n- Se añaden a su prima mensual.\n- No son una cuota tardía única.\n- Por lo general, se cobran mientras tenga ese tipo de cobertura (para la mayoría de las personas, esto significa una penalización de por vida). La penalización de la Parte A es diferente.\n- Aumentan cuanto más tarde se inscriba: se basan en el tiempo que pasa sin tener una cobertura similar a Medicare. Consulte cuándo debe inscribirse para evitar las penalizaciones.",
+  "seconds": 1.74,
+  "tokens_in": 301,
+  "tokens_out": 180,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#1",
+  "text": "## Penalización por inscripción tardía de la Parte A\n\n- Algunas personas deben comprar la Parte A porque no califican para la Parte A sin prima.\n¿Califico para la Parte A sin prima?\n- Si debe comprar la Parte A y no la compra cuando es primero elegible para Medicare, su prima mensual puede aumentar 10%.\n- Deberá pagar la penalización durante el doble del número de años que no se inscribió.\n\nEjemplo:\nSi fue elegible para la Parte A durante 2 años pero no se inscribió, deberá pagar la prima más alta durante 4 años. Por lo general, no tiene que pagar una penalización si cumple con ciertas condiciones que le permiten inscribirse para la Parte A durante un Periodo de Inscripción Especial. Averigüe si es elegible para un Periodo de Inscripción Especial.",
+  "seconds": 1.85,
+  "tokens_in": 321,
+  "tokens_out": 181,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#2",
+  "text": "## Parte B: penalización por inscripción tardía\n\n- Por lo general, no tendrá que pagar una penalización por la Parte B si califica para un Período de Inscripción Especial o si se inscribe en un Programa de Ahorro de Medicare. Learn more about Special Enrollment Periods.\n- Pagará un 10% extra por cada año que pudo haberse inscrito en la Parte B pero no lo hizo.\n- También puede tener que pagar una prima más alta dependiendo de sus ingresos.\n\nEjemplo:\n\nSi esperó 2 años completos (24 meses) para inscribirse en la Parte B y no calificó para un Período de Inscripción Especial, tendrá que pagar una penalización por inscripción tardía del 20% (10% por cada período completo de 12 meses en el que pudo haberse inscrito), más la prima mensual estándar de la Parte B ($202.90 en 2026).\n\nCálculo para 2026:\n\n$202.90 (prima estándar de la Parte B de 2026)\n+ $40.58 (penalización por inscripción tardía del 20% [$202.90])\n\n$243.48\n\n$243.50 será su prima mensual de la Parte B para 2026. Este monto ($243.48) se redondea al centavo de dólar más cercano (.10) e incluye la penalización por inscripción tardía.",
+  "seconds": 2.52,
+  "tokens_in": 432,
+  "tokens_out": 332,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#3",
+  "text": "## Penalización por inscripción tardía en la Parte D\n\n- Generalmente, no tendrás que pagar una penalización de la Parte D si:\n\n- Tienes cobertura de medicamentos creditable (cobertura que tiene un valor similar al de la Parte D) O\n- Cumples los requisitos para recibir Ayuda Extra\n\n- Pagarás un 1% adicional por cada mes (esto equivale al 12% al año) si:\n\n- No te inscribes en un plan de medicamentos Medicare cuando te inscribes por primera vez en Medicare.\n- Estás sin cobertura de medicamentos creditable durante 63 días o más.\n\n- También podrías pagar una prima más alta dependiendo de tus ingresos.\n- Después de que te inscribas en un plan de medicamentos Medicare, el plan te informará si debes pagar una penalización y cuál será tu prima.\n¿Qué pasa si no estoy de acuerdo con la penalización por inscripción tardía de la Parte D?\n\nEjemplo:\nSi esperaste 14 meses después de ser elegible para Medicare para inscribirte en un plan de medicamentos Medicare, y no tenías cobertura de medicamentos creditable, tendrás que pagar una penalización por inscripción tardía del 14% además de tu prima mensual del plan.\n\n- El monto de la penalización se calcula a partir del \"nacional base beneficiary premium\" ($38.99 en 2026).\n- El national base beneficiary premium cambia cada año, por lo que el monto de tu penalización también puede cambiar cada año. Esta penalización mensual se agrega mientras tengas cobertura de medicamentos Medicare, incluso si cambias de planes.\n\nEn 2026:\n\n$38.99 (national base beneficiary premium de 2026)\nX   0.14 (penalización del 14%)\n\n$5.46 (redondeado al décimo de dólar más cercano = $5.50)\n$5.50 será tu penalización mensual para 2026. Este monto se suma a la prima mensual del plan para 2026.",
+  "seconds": 3.28,
+  "tokens_in": 540,
+  "tokens_out": 449,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/pay-premiums#0",
+  "text": "La mayoría de las personas reciben el pago de la prima de Medicare Part B (Seguro Médico) deducido automáticamente de su pago de beneficios de Social Security (o de beneficios de la Junta de Retiro de Ferrocarriles). ¿Qué sucede si estoy recibiendo pagos retroactivos de Social Security?\n\nSi no recibe beneficios de Social Security (o de la Junta de Retiro de Ferrocarriles), recibirá una factura de prima de Medicare. Obtenga un ejemplo de la factura de Medicare.\n\n| Si paga por: | Recibirá una factura: |\n| --- | --- |\n| Part B solamente (esto incluye su cantidad de ajuste mensual de ingresos relacionada con su Part B, si debe pagar una) | Cada 3 meses ¿Por qué mi primera factura es más alta de lo que esperaba? |\n| Part A (Seguro de Hospital) | Cada mes |\n| Cantidad de ajuste mensual de ingresos relacionada con su Part D (Part D IRMAA) | Cada mes |\n\n¿Qué sucede si recibo una factura de prima de la Junta de Retiro de Ferrocarriles?\n\nObtenga más detalles si es un retirado federal.\n\nObtenga ayuda para pagar primas y costos\nSi tiene ingresos y recursos limitados, es posible que pueda obtener ayuda de su estado para pagar sus primas y otros costos, como deducibles, coaseguro y copagos. Obtenga más información sobre la ayuda con los costos de Part A y Part B.",
+  "seconds": 2.56,
+  "tokens_in": 397,
+  "tokens_out": 313,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/pay-premiums#1",
+  "text": "## 4 formas de pagar su factura de la prima de Medicare\n\nPuede pagar su prima de Medicare utilizando cualquiera de las 4 formas que se detallan a continuación. Sin embargo, algunas opciones son más rápidas y fáciles.\n\n### A través de su cuenta de Medicare\n\n| Método de pago | Cómo usarlo | Por qué usarlo |\n\n-\n-\n-\n-\n\n-\n-\n\n| Pagar en línea a través de su cuenta de Medicare Pague mi prima ahora | Inicie sesión (o cree) su cuenta segura de Medicare Seleccione \"Pagar mi prima\". Elija su método de pago, como tarjeta de crédito/débito, tarjeta de cuenta de ahorro para la salud (HSA card), o cuenta de cheques o de ahorros, e ingrese el monto que desea pagar. Luego será redirigido al sitio seguro Pay.gov del Departamento del Tesoro de los EE. UU. para completar su pago. Utilice solo su cuenta de Medicare para pagar sus primas. No cree ni utilice una cuenta de Pay.gov para realizar su pago de Medicare. Recibirá un número de confirmación para su pago. Tarda aproximadamente 5 días hábiles en procesarse el pago con su cuenta de cheques o de ahorros; los pagos con tarjeta de crédito se procesan más rápido. | Esta es la forma más rápida de pagar su prima. Su pago es seguro y protegido. |\n\n-\n-\n\n-\n-\n-\n\n| Pagos recurrentes en línea (Medicare Easy Pay) Obtenga más detalles sobre cómo funciona Easy Pay. | 2 formas de inscribirse en Medicare Easy Pay: Inicie sesión (o cree) su cuenta segura de Medicare, seleccione \"Mis primas\" y luego \"Inscribirse\" para completar un formulario corto en línea. Complete, imprima y envíe por correo el formulario \"Acuerdo de autorización para pagos autorizados previamente\" (SF-5510) en inglés o en español. Los deducciones se realizan el día 20 de cada mes (o el siguiente día hábil). Puede tardar hasta 6-8 semanas en que comiencen sus deducciones automáticas. Hasta que comiencen las deducciones automáticas, deberá pagar sus primas de otra manera. Si no podemos configurar Medicare Easy Pay para usted, le enviaremos una carta que explica por qué. ¿Puedo inscribirme si recibo una factura de la Junta de Jubilaciones Ferroviarias (Railroad Retirement Board)? | Con este servicio gratuito, deduciremos automáticamente sus pagos de la prima de su cuenta de ahorros o de cheques cada mes. El monto que se deduce de su cuenta se actualizará automáticamente cuando cambie su prima. Su pago es seguro y protegido. |\n\n### A través de su banco\n\nPague directamente de su cuenta de ahorros o de cheques a través del servicio de pago de facturas en línea de su banco. Algunos bancos cobran una tarifa de servicio. Obtenga detalles para asegurar que su pago se procese a tiempo.\n\n### A través del correo\n\nPague mediante cheque, giro postal, tarjeta de crédito, tarjeta de débito o tarjeta de cuenta de ahorro para la salud (HSA card). Complete el cupón de pago que se encuentra en la parte inferior de su factura e inclúyalo con su pago. Los pagos realizados por correo tardan más en procesarse que los pagos realizados rápida y seguramente a través de su cuenta de Medicare en línea.\n\n- Si está pagando con tarjeta de crédito, tarjeta de débito o tarjeta HSA, asegúrese de completar y firmar el cupón de pago. Si no firma el cupón, no podemos procesar su pago y se lo devolveremos.\n- Utilice el sobre de retorno que vino con su factura y envíe por correo su cupón de pago de Medicare y su pago a:\nCentro de Cobro de Primas de Medicare\nPO Box 790355\nSt. Louis, MO 63179-0355\n\n¿Qué hago si recibo una factura de la prima de la Junta de Jubilaciones Ferroviarias (Railroad Retirement Board)?\n\nNo arriesgue perder su cobertura de Medicare\nSi está enviando su pago por correo, siempre incluya el cupón de pago con su remesa. Esto nos ayuda a aplicar su pago a su cuenta. No podemos procesar su pago a tiempo sin el cupón. Si no tiene su cupón de pago, escriba su número de Medicare en el cheque o giro postal.\n\nSi su pago no se procesa a tiempo, corre el riesgo de perder su cobertura. La forma más rápida de pagar su prima es en línea a través de su cuenta de Medicare o utilizando Medicare Easy Pay.",
+  "seconds": 9.13,
+  "tokens_in": 944,
+  "tokens_out": 999,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/pay-premiums#2",
+  "text": "## ¿Cuándo deben pagarse las primas de Medicare?\n\nTodas las facturas de Medicare están vencidas el día 25 de cada mes. En la mayoría de los casos, su prima vence el mismo mes en que recibe la factura. Ejemplo de nuestro cronograma de facturación.\n\nPara que su pago se haga a tiempo, debemos recibir su pago antes de la fecha de vencimiento indicada en su factura. Presente su pago al menos 5 días hábiles antes de la fecha de vencimiento, para que podamos recibirlo a tiempo.\n\n### ¿Qué pasa si su pago de la prima de Medicare se retrasa?\n\nSi no realiza un pago o si recibimos su pago con retraso, su próxima factura también incluirá un monto atrasado.\n\nSi recibe una factura de prima de Medicare que dice \"Factura morosa\" en la parte superior, pague el monto total adeudado, o perderá su cobertura de Medicare. Obtenga una muestra de la factura morosa en inglés. (En español.)",
+  "seconds": 3.22,
+  "tokens_in": 331,
+  "tokens_out": 215,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#0",
+  "text": "Una vez que tenga Medicare Parte A (Seguro Hospitalario) y/o Parte B (Seguro Médico), puede elegir un plan de salud o de medicamentos de Medicare que mejor se adapte a sus necesidades. Utilice esta página para comprender si puede inscribirse en un plan de salud o de medicamentos de Medicare, cuándo y cómo.",
+  "seconds": 2.17,
+  "tokens_in": 208,
+  "tokens_out": 68,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#2",
+  "text": "## ¿Cumplo los requisitos?\n\nPara unirse a un plan de salud de Medicare o a un plan de medicamentos, por lo general debe cumplir con lo siguiente:\n\nTener Medicare Part A y/o Part B.\n\nSer ciudadano de EE.UU. o nacional de EE.UU., residente permanente legal (titular de tarjeta verde), cubano-haitiano entrante o residente legalmente en EE.UU. como migrante bajo el Pacto de Libre Asociación (COFA).\n\nVivir en el área de servicios del plan al que desea unirse.\n\nTener su número de Medicare y las fechas de inicio de la cobertura de Part A y/o Part B. Encuentre esta información en su tarjeta de Medicare.",
+  "seconds": 3.41,
+  "tokens_in": 274,
+  "tokens_out": 152,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#3",
+  "text": "## ¿Cuándo puedo inscribirme?\n\nSolo puede inscribirse, cambiar o renunciar a un Plan de Medicare Advantage (Parte C) con o sin cobertura de medicamentos, otro plan de salud de Medicare o un plan de medicamentos de Medicare en momentos determinados, llamados períodos de inscripción.",
+  "seconds": 1.95,
+  "tokens_in": 201,
+  "tokens_out": 61,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#4",
+  "text": "## Periodo de inscripción inicial\n\nGeneralmente, cuando cumple 65 años.\n\nDura 7 meses: comienza 3 meses antes del mes en que cumple 65 y termina 3 meses después de ese mes. Es posible que sea elegible para obtener Medicare antes si tiene una discapacidad, enfermedad renal en etapa terminal (ESRD) oELA (también conocida como enfermedad de Lou Gehrig). Obtenga más información sobre cuándo puede inscribirse en estas situaciones.\n\nPuede inscribirse en cualquier plan, pero necesita:\n\n- Tanto Part A como Part B para unirse a un Plan de Medicare Advantage con o sin cobertura de medicamentos.\n- Ya sea Part A o Part B para unirse a un plan de medicamentos de Medicare.\n\nCuándo comienza su cobertura:\n\n- Si solicita unirse a un plan antes de que comience su Part A y/o Part B: la cobertura de su plan comienza el mismo día que comienza su Part A y/o Part B.\n- Si solicita unirse a un plan después de que comienza su Part A y/o Part B: la cobertura de su plan comienza el primer día del mes siguiente al que el plan recibe su solicitud.",
+  "seconds": 2.87,
+  "tokens_in": 371,
+  "tokens_out": 243,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#5",
+  "text": "## Periodo de Inscripción Inicial – Nuevo para la Parte B\n\nSi tiene la Parte A y está agregando la Parte B más tarde.\n\nComienza 3 meses antes del mes en que es elegible por primera vez para la Parte A y la Parte B. Tendrá 2 meses después de obtener la Parte A y la Parte B por primera vez para unirse a un plan.\n\nPuede:\n\nUnirse a cualquier Medicare Advantage Plan con o sin cobertura de medicamentos.\n\nInicio de la cobertura:\n\nGeneralmente, el primer día del mes después de que el plan recibe su solicitud para unirse.\n\nSi se unió a un Medicare Advantage Plan durante su Periodo de Inscripción Inicial, puede cambiar a otro Medicare Advantage Plan (con o sin cobertura de medicamentos) o volver al Original Medicare (con o sin un plan de medicamentos) dentro de los primeros 3 meses que tenga la Parte A y la Parte B de Medicare.\n\n### Otros periodos de inscripción\n\n| Periodo de inscripción: | Puede: | Inicio de la cobertura: |\n\n-\n-\n-\n\n| Periodo de Inscripción Abierta15 de octubre-7 de diciembre | Unirse, cancelar o cambiar a otro Medicare Advantage Plan con o sin cobertura de medicamentos (o agregar o cancelar cobertura de medicamentos).Cambiar del Original Medicare a un Medicare Advantage Plan o de un Medicare Advantage Plan al Original Medicare.Unirse, cancelar o cambiar a otro plan de medicamentos de Medicare si está en el Original Medicare. | 1 de enero del siguiente año (el plan debe recibir su solicitud para unirse antes del 7 de diciembre) |\n\n-\n-\n\n-\n-\n\n| Periodo de Inscripción Abierta del Medicare Advantage Plan(solo si ya está en un Medicare Advantage Plan)1 de enero-31 de marzoDentro de los primeros 3 meses que obtenga Medicare | Cambiar a otro Medicare Advantage Plan con o sin cobertura de medicamentos.Cancelar su plan de Medicare Advantage y volver al Original Medicare. También podrá unirse a un plan de medicamentos de Medicare separado. | Primer día del mes después de que el plan recibe su solicitud para unirse. |\n\n-\n-\n\n| Periodo de Inscripción EspecialVaría. Solo para ciertas situaciones que ocurren en su vida, como mudarse a una nueva dirección, perder o cambiar su cobertura actual, obtener Medicaid o obtener la Ayuda Extra para pagar los costos de medicamentos. Obtenga más información sobre los Periodos de Inscripción Especial. | Dependiendo de su situación:Unirse a un Medicare Advantage Plan (con o sin cobertura de medicamentos) o plan de medicamentos de Medicare.Cambiar a otro plan.Si se inscribe en la Parte A y/o la Parte B durante un Periodo de Inscripción Especial debido a una situación excepcional, tendrá 2 meses para unirse a un plan o cambiar a otro plan. ¿Qué cuenta como una situación excepcional? | Varía. Generalmente, el primer día del mes después de que el plan recibe su solicitud para unirse. |\n\nOtros momentos en los que puede unirse a un plan de salud o de medicamentos.\n\nPara obtener detalles sobre cuándo puede unirse a los Medicare Cost Plans, programas de demostración/prueba, o el Program of All-inclusive Care for the Elderly (PACE), contacte a los planes que ofrecen estas opciones.",
+  "seconds": 5.97,
+  "tokens_in": 734,
+  "tokens_out": 691,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#7",
+  "text": "## Averigüe qué planes están disponibles en su área:\n\n- Compare planes en su área: averigüe sus costos y los servicios que ofrecen. Agregue todos los medicamentos recetados que toma regularmente para obtener una estimación mensual y anual más precisa de los costos para cada plan.\n- Utilice su manual \"Medicare & You\" para encontrar planes: están listados al final del manual.\n- Hable con un agente o corredor de confianza: verifique las reglas que deben seguir.\n\nComuníquese con su Programa Local de Asistencia de Seguro de Salud del Estado (SHIP) para obtener asesoramiento gratuito sobre seguro de salud personalizado. Los SHIP no están vinculados a ninguna compañía de seguros ni plan de salud.\n\n2",
+  "seconds": 1.76,
+  "tokens_in": 284,
+  "tokens_out": 155,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#8",
+  "text": "## Asegúrese de que el plan cumpla con sus necesidades:\n\n- Verifique si el plan cubre sus recetas e incluye los beneficios que necesita.\n- Consulte con sus médicos y farmacias si están en la red del plan.\n- Revise los costos, como las primas mensuales, los deducibles y la estimación de sus costos anuales para los medicamentos que toma.\n- Si tiene otro seguro de salud o cobertura de medicamentos, hable con su administrador de beneficios o con otro proveedor de seguros antes de unirse a un plan o realizar cualquier cambio en su cobertura actual.\n- Si vive en otro estado durante parte del año, verifique si el plan lo cubre allí.\n\n3",
+  "seconds": 1.64,
+  "tokens_in": 279,
+  "tokens_out": 149,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#9",
+  "text": "## Únase al plan.\n\nUna vez que elija un plan, aquí hay 3 formas de unirse:\n\n- Seleccione \"Enroll\" para el plan al que desea unirse en Medicare.gov/plan-compare.\n- Póngase en contacto con el plan para unirse. Puede llamarles o visitar su sitio web. También puede solicitar un formulario en papel para completarlo y devolverlo por correo al plan, pero deben recibirlo antes de que finalice su período de inscripción.\n- Llámenos al 1-800-MEDICARE (1-800-633-4227). Los usuarios de TTY pueden llamar al 1-877-486-2048.\n\nObtenga información sobre cómo cambiar, eliminar o volver a unirse a la cobertura de medicamentos.\n\nObtenga más información sobre los planes de salud de Medicare y los planes de medicamentos.",
+  "seconds": 1.98,
+  "tokens_in": 322,
+  "tokens_out": 201,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#0",
+  "text": "Si usted (o su cónyuge) aún trabaja al cumplir 65, Medicare funciona un poco diferente. ¿Necesita un repaso de los conceptos básicos de Medicare?",
+  "seconds": 0.85,
+  "tokens_in": 185,
+  "tokens_out": 38,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#1",
+  "text": "## ¿Necesito inscribirme en Medicare cuando cumpla 65 años?\n\nPuede responder algunas preguntas para saber cuándo debe inscribirse o revise los escenarios a continuación.\n\n### Averigüe cuándo inscribirse\n\nSi no tiene que pagar una prima para la Parte A (Seguro de Hospitalización), puede elegir inscribirse cuando cumpla 65 años (o en cualquier momento posterior). ¿Tendré que pagar una prima para la Parte A?\n\n### Si usted (o su cónyuge) tiene seguro de salud por medio de un trabajo:\n\nSi usted o su cónyuge siguen trabajando, es posible que pueda esperar para inscribirse en Medicare sin pagar una multa por inscripción tardía, donde tiene un seguro de salud grupal que está disponible para todos en la empresa.\n\n- Si no tiene que pagar una prima para la Parte A (Seguro de Hospitalización), puede elegir inscribirse cuando cumpla 65 años (o en cualquier momento posterior). ¿Cumplo los requisitos?\n- Puede esperar hasta que usted (o su cónyuge) deje de trabajar (o pierda su seguro de salud, si eso ocurre primero) para inscribirse en la Parte B (Seguro Médico), y no pagará una multa por inscripción tardía.\n- Una vez que deje de trabajar (o pierda su seguro de salud, si eso ocurre primero), tiene un Período Especial de Inscripción (SEP) de 8 meses en el que puede inscribirse en Medicare (o agregar la Parte B a la cobertura existente de la Parte A). El SEP comienza cuando deja de trabajar (o pierde el seguro), incluso si elige COBRA u otra cobertura que no sea Medicare.\n\nPregúntele al empleador que le proporciona su seguro de salud si necesita inscribirse en la Parte A (Seguro de Hospitalización) y la Parte B (Seguro Médico) cuando cumpla 65 años. Si no se inscribe en la Parte A y la Parte B, su seguro basado en el trabajo puede no cubrir los costos de los servicios que recibe.\n\nDonde usted es autónomo o tiene un seguro de salud que no está disponible para todos en la empresa (como cobertura para jubilados).\n\nPregúntele a su proveedor de seguro si su cobertura es una cobertura de plan de seguro de salud grupal del empleador (según lo definido por el IRS). Si no lo es, inscribase en Medicare cuando cumpla 65 años para evitar una multa mensual por inscripción tardía de la Parte B.\n\nSi tiene cobertura para jubilados de un trabajo anterior, es posible que no pague por sus servicios de salud si no tiene tanto la Parte A (Seguro de Hospitalización) de Medicare como la Parte B (Seguro Médico). Pregúntele a su administrador de beneficios cómo funciona su cobertura para jubilados con Medicare.\n\nNo arriesgue perder su cobertura para jubilados: verifique antes de unirse a un plan.\n\nEl empleador puede ofrecerle cobertura cuando tenga Medicare, como un plan suplementario, cobertura de medicamentos o Medicare Advantage Plan. Si lo hacen, pregunte si usted o su familia perderán su cobertura para jubilados si se une a un plan que el empleador no ofrece. Obtenga más información sobre cobertura para jubilados y Medicare.\n\n### Si tiene un seguro de salud que no es de un trabajo: Como seguro de Medicaid, del Mercado o de otra empresa privada.\n\nResponda algunas preguntas para saber cuándo inscribirse en Medicare y obtener otra información importante, según el tipo de cobertura específica que tenga.\n\nLas reglas varían según el tipo de otro seguro de salud que tenga. Contacte a su plan de seguro de salud para obtener más información.\n\nComo seguro que usted compró con una subvención del trabajo.\n\nPregúntele a su compañía de seguro de salud si necesita inscribirse en la Parte A (Seguro de Hospitalización) y la Parte B (Seguro Médico) cuando cumpla 65 años. Algunas compañías de seguros privadas tienen reglas que reducen lo que pagan (o no pagan en absoluto) por los servicios que usted recibe si es elegible para otra cobertura, como Medicare. Una vez que se inscriba, Medicare paga primero.\n\n### Si tiene cobertura COBRA:\n\nSi su trabajo le ofreció cobertura COBRA después de que terminó su empleo, o después de que perdió la cobertura como dependiente del empleado cubierto, las reglas pueden variar. Y no se ha inscrito en Medicare aún.\n\n- Inscribase en Medicare cuando cumpla 65 años para evitar lagunas en la cobertura y una multa mensual por inscripción tardía de la Parte B.\n- Es probable que su cobertura COBRA termine una vez que se inscriba.\n\nNo espere a que termine su cobertura COBRA para inscribirse en la Parte B: la cobertura COBRA no extiende su tiempo limitado para inscribirse en Medicare.\n\nObtenga información importante sobre COBRA y Medicare. Y obtuvo COBRA después de inscribirse en Medicare.\n\nCOBRA paga después de Medicare (a menos que tenga Enfermedad Renal en Etapa Final).\n\nObtenga información importante sobre COBRA y Medicare.\n\n### Si no tiene seguro de salud: Y sigue trabajando.\n\n- Inscribase tanto en la Parte A (Seguro de Hospitalización) como en la Parte B (Seguro Médico) cuando sea elegible por primera vez (generalmente cuando cumpla 65 años). Si se inscribe más tarde, puede tener que pagar una multa.\n- Si no puede permitir el costo de un seguro, hay formas de obtener ayuda para pagar los gastos.",
+  "seconds": 9.42,
+  "tokens_in": 1144,
+  "tokens_out": 1173,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#2",
+  "text": "## ¿Cómo me inscribo en Medicare cuando esté listo?\n\nLa forma en que se inscribe depende de si ya tiene cobertura con la Parte A (Seguro hospitalario) o si se está inscribiendo tanto en la Parte A como en la Parte B (Seguro médico). Obtenga los formularios y las formas de inscribirse.\n\nSu cobertura comenzará el mes siguiente a que Social Security (o la Junta de Retiros de Ferrocarril) procese su formulario completado.\n\nAntes de inscribirse:\n\n- Si su cobertura de empleador está finalizando, verifique cuándo termina su cobertura actual e inscríbase en Medicare aproximadamente un mes antes. Incribirse en Medicare antes de que termine su cobertura actual puede ayudarle a evitar un lapso en la cobertura.\n- Si su cobertura de empleador está cambiando, consulte con su administrador de beneficios para ver lo que necesitará. Pregunte si necesitará inscribirse tanto en la Parte A de Medicare como en la Parte B.\n- Si tiene una Cuenta de Ahorros para Salud (HSA), usted y su empleador deben dejar de aportar a su HSA 6 meses antes de que se jubile o solicite beneficios a Social Security (o a la Junta de Retiros de Ferrocarril). Esto asegurará que evite una penalidad por impuestos.\n¿Por qué debo detener las contribuciones antes de jubilarme?",
+  "seconds": 2.96,
+  "tokens_in": 382,
+  "tokens_out": 295,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#3",
+  "text": "## ¿Necesito obtener más cobertura?\n\nDespués de inscribirse en la Parte A (Seguro Hospitalario) y la Parte B (Seguro Médico), puede elegir cómo obtener su cobertura.\n\nAntes de continuar: es importante que aprenda más sobre sus opciones de cobertura para entender sus elecciones.\n\nSi tiene cobertura de jubilación, no corra el riesgo de perderla. Verifique antes de unirse a un plan.\nSu empleador puede ofrecerle cobertura cuando tenga Medicare, como un plan suplementario, cobertura de medicamentos o un Plan Medicare Advantage. Si lo hacen, pregunte si usted o su familia perderán su cobertura de jubilación si se unen a un plan que el empleador no ofrece.\n\n### ¿Qué necesito saber sobre la cobertura de medicamentos?\n\nSiempre que tenga una cobertura de medicamentos recetados con crédito, puede esperar para unirse a un plan de medicamentos de Medicare o a un Plan Medicare Advantage con cobertura de medicamentos.\n\n- Si no está seguro de que su plan actual de medicamentos se considera con crédito, pregúntele a su plan; deben decírselo. Su plan también le enviará esta información todos los años.\n- Guarde la información que le envíe su plan actual de medicamentos; puede necesitarla cuando esté listo para unirse a un plan de medicamentos de Medicare. (No envíe esta información a Medicare.)\n\nNo tendrá que pagar la penalización por inscripción tardía de la Parte D siempre que no pase más de 63 días sin cobertura de medicamentos con crédito. Aprenda cómo evitar la penalización por inscripción tardía.\n\nObtenga más detalles sobre cómo la Parte D funciona con otros seguros.",
+  "seconds": 3.25,
+  "tokens_in": 452,
+  "tokens_out": 348,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#4",
+  "text": "## ¿Puedo obtener más ayuda?\n\n- Administración de la Seguridad Social (SSA): Si tiene preguntas sobre la inscripción en Medicare Parte A y Parte B, visite SSA.gov.\n- Programa de Asistencia para Seguros de Salud de los Estados (SHIP): Para obtener ayuda gratuita e individual para elegir un plan, revisar la cobertura, comprender los costos y más, busque su SHIP local.\n- Su plan de salud grupal u otro asegurador actual: Si tiene otro seguro de salud y es elegible para Medicare (o pronto lo será), hable con el administrador de sus beneficios o con el departamento de recursos humanos de su empleador para saber cómo funcionarán sus beneficios con Medicare. Si tiene cobertura para medicamentos recetados, pregunte si se considera crédito.\n- Medicare: Si desea encontrar proveedores de atención médica y proveedores en su área que participan en Medicare o los planes ofrecidos en su área, visite Medicare.gov o llame a Medicare al 1-800-MEDICARE (800-633-4227). Los usuarios de TTY pueden llamar al 1-877-486-2048.",
+  "seconds": 2.94,
+  "tokens_in": 372,
+  "tokens_out": 247,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#0",
+  "text": "Para inscribirse en la Parte A (Seguro de hospitalización) y/o la Parte B (Seguro médico), deberá contactar a la Administración de Seguridad Social. Dependiendo de su situación, podemos ayudarle a encontrar la forma más fácil de inscribirse. ¿Por qué no me inscribo en Medicare para la Parte A y la Parte B?",
+  "seconds": 1.33,
+  "tokens_in": 215,
+  "tokens_out": 72,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#2",
+  "text": "## Quiero inscribirme en la Parte A y la Parte B o solo en la Parte A cuando cumpla 65\n\n- Aplicar en línea (en Social Security): Esta es la forma más fácil y rápida de inscribirse.\n- Deberá crear su cuenta segura de my Social Security para inscribirse en Medicare o solicitar beneficios de Social Security en línea.\n\nSolo puede inscribirse en la Parte B (o en la Parte A si debe pagar una prima) en momentos específicos. Aprenda sobre los períodos de inscripción para la Parte A y la Parte B.\n\nAplicar en línea",
+  "seconds": 1.98,
+  "tokens_in": 263,
+  "tokens_out": 124,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#3",
+  "text": "## Ya tengo Parte A y quiero agregar Parte B porque estoy perdiendo mi cobertura de salud basada en el empleo\n\n- Solicite en línea para registrarse en Parte B si ya tiene Parte A.\n- Tenga a su empleador que llene el formulario CMS-L564.\n- Envíe el formulario completado a su oficina local de Seguridad Social por fax o por correo.\n\nSi el empleador no puede llenarlo, complete la Sección B del formulario CMS-L564 lo mejor que pueda, pero no lo firme. Necesitará presentar prueba de seguro de salud basado en el empleo. Aprenda sobre qué formas de prueba necesitará enviar.\n\nSolicite en línea",
+  "seconds": 1.95,
+  "tokens_in": 281,
+  "tokens_out": 146,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#4",
+  "text": "## Quiero inscribirme en la Parte A y la Parte B, pero perdí la oportunidad al cumplir 65 años\n\nSolo puedes inscribirte mediante uno de estos Períodos de Inscripción Especial en ciertas situaciones. ¿Qué situaciones califican para un Período de Inscripción Especial por condiciones excepcionales?\n\n- Completa el formulario CMS-10797.\n- Envía el formulario completado a tu oficina local de Social Security por fax o correo.\n\nDescargar formulario",
+  "seconds": 1.76,
+  "tokens_in": 240,
+  "tokens_out": 106,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#5",
+  "text": "### Ya tengo Parte A y quiero agregar Parte B (disponible solo del 1 de enero al 31 de marzo)\n\nInscríbase de esta manera únicamente si ninguna de las otras situaciones en esta página le aplica. Solo puede inscribirse en Parte B en ciertos momentos. Obtenga información sobre los períodos de inscripción para Parte A y Parte B.\n\n- Complete el formulario CMS-40B.\n- Envíe el formulario completado a su oficina local de Seguridad Social por fax o correo postal.\n\nDescargar formulario\n\nPara presentar sus formularios:\n\n- Envíe los formularios completados a su oficina local de Seguridad Social por fax o correo postal.\n- Si usted o su cónyuge trabajó para un ferrocarril, visite RRB.gov o llame a la Junta de Jubilación de Ferrocarriles al 1-877-772-5772. Los usuarios de TTY pueden llamar al 1-312-751-4701.\n\nSi vive fuera de EE. UU.: Es posible que desee obtener Parte B si planea regresar a EE. UU. para recibir servicios de atención médica. Obtenga ayuda para inscribirse en Parte B si vive en un país extranjero.",
+  "seconds": 2.57,
+  "tokens_in": 381,
+  "tokens_out": 267,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#6",
+  "text": "## Después de registrarse\n\nRecibirá un paquete de bienvenida con su tarjeta de Medicare, la cual incluye su número de Medicare. Necesitará su número de Medicare para crear su cuenta segura en Medicare.gov, afiliarse a un plan o comprar seguro suplementario.\n\nGeneralmente, solo puede cancelar Parte A (Seguro Hospitalario) si tiene que pagar una prima por ella, también llamada Premium-Part A. Puede elegir cancelar Parte B (Seguro Médico), pero hay algunos riesgos al cancelar la cobertura. ¿Cómo cancelo la Parte A y/o la Parte B?",
+  "seconds": 1.89,
+  "tokens_in": 264,
+  "tokens_out": 118,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#0",
+  "text": "La cobertura de Medicare comienza según el momento en que usted se inscriba y el período de inscripción en el que se encuentre.",
+  "seconds": 0.86,
+  "tokens_in": 173,
+  "tokens_out": 28,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#1",
+  "text": "## Su primera oportunidad para inscribirse (Periodo de inscripción inicial)\n\nGeneralmente, cuando cumple 65 años. Esto se llama su Periodo de inscripción inicial. Este periodo dura 7 meses, comenzando 3 meses antes de que cumpla 65 años y terminando 3 meses después del mes en que cumple 65.\n\nMi cumpleaños es el primer día del mes.\n\nEvitar la penalidad\nSi se pierde su Periodo de inscripción inicial de 7 meses, es posible que tenga que esperar para inscribirse y pagar una penalidad mensual por inscripción tardía durante todo el tiempo que tenga cobertura de Part B. La penalidad aumenta cuanto más tarde se inscribe. Es posible que también tenga que pagar una penalidad si debe pagar una prima de Part A, llamada también “Part A con prima”. Learn more about how to avoid late enrollment penalties.\n\n### Cuando comienza su cobertura\n\nLa fecha en que comienza su cobertura depende del mes en que se inscriba durante su Periodo de inscripción inicial. La cobertura siempre comienza el primer día del mes.\n\nSi califica para Part A sin prima: Su cobertura de Part A comienza el mes en que cumple 65 años. (Si su cumpleaños es el primer día del mes, la cobertura comienza el mes antes de que cumpla 65 años.)\n\nPart B (y Part A con prima): La cobertura comienza según el mes en que se inscriba:\n\n| Si se inscribe: | La cobertura comienza: |\n| Antes del mes en que cumple 65 | El mes en que cumple 65 |\n| El mes en que cumple 65, o durante los 3 meses siguientes | El siguiente mes |\n\n### Inscribirse para Part A sin prima más adelante\n\nPuede inscribirse para Part A en cualquier momento después de cumplir 65 años. Su cobertura de Part A comienza 6 meses antes de la fecha en que se inscriba o de cuando solicite beneficios a Social Security (o al Railroad Retirement Board). La cobertura no puede comenzar antes del mes en que cumplió 65.\n\nTengo una Health Savings Account (HSA).\n\nDespués de que finalice su Periodo de inscripción inicial, solo puede inscribirse para Part B y Part A con prima durante uno de los otros periodos de inscripción.",
+  "seconds": 8.73,
+  "tokens_in": 579,
+  "tokens_out": 483,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#2",
+  "text": "### Entre el 1 de enero y el 31 de marzo de cada año (Período de Inscripción General)\n\nPuede inscribirse entre el 1 de enero y el 31 de marzo de cada año. Esto se llama el Período de Inscripción General. Su cobertura comienza el mes siguiente a su inscripción. Podría tener que pagar una penalización por inscripción tardía mensual, si no califica para un Período de Inscripción Especial.\n\nObtenga más detalles sobre las penalizaciones por inscripción tardía.",
+  "seconds": 2.69,
+  "tokens_in": 235,
+  "tokens_out": 115,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#3",
+  "text": "## Situaciones especiales (Periodo de inscripción especial)\n\nDespués de tu primera oportunidad para inscribirte (Periodo de inscripción inicial), hay ciertas situaciones en las que puedes inscribirte en Part B (y Part A con prima) sin pagar una penalización por inscripción tardía. Un Periodo de inscripción especial está disponible solo durante un tiempo limitado. Si no te inscribes durante tu Periodo de inscripción especial, tendrás que esperar al siguiente Periodo de inscripción general y podrías tener que pagar una penalización mensual por inscripción tardía.\n\n### Periodos de inscripción especial para Part A y Part B\n\n| Si: | Tu Periodo de inscripción especial: | Cómo inscribirte: |\n\n| Perdiste la cobertura de Medicaid el 1/1/2023 o con posterioridadDescarga más información sobre tus opciones de Medicare si pierdes la cobertura de Medicaid. | Comienza: El día que se te notifica que tu cobertura de Medicaid está terminando. Finaliza: 6 meses después de que tu cobertura de Medicaid termine. Inicio de la cobertura: El mes siguiente a que te inscribes, o la fecha en que terminó tu cobertura de Medicaid, según elijas. | Completa el formulario CMS-10797 y envía el formulario completado a tu oficina local de Seguridad Social por fax o correo postal.Descarga el formulario |\n\n-\n-\n-\n\n| Perdiste la oportunidad de inscribirte porque te vio afectada una catástrofe natural o una emergencia declarada que comenzó el 1/1/2023 o con posterioridad (o si tu representante autorizado, tutor legal o cuidador vio afectada una catástrofe o emergencia) | Comienza: El día en que el gobierno federal, estatal o local declara la emergencia o catástrofe, o la fecha en esa declaración (lo que ocurra antes). Finaliza: 6 meses después de lo siguiente que ocurra más tarde: La fecha final en la declaración original. El último día de cualquier extensión de la declaración. La fecha en que el gobierno revoca o anuncia el fin de la declaración. Inicio de la cobertura: El mes siguiente a que te inscribes. | Completa el formulario CMS-10797 y envía el formulario completado a tu oficina local de Seguridad Social por fax o correo postal.Descarga el formulario |\n\n| Perdiste la oportunidad de inscribirte porque tu plan de salud o tu empleador te proporcionó información inexacta o engañosa el 1/1/2023 o con posterioridad | Comienza: El día en que notificas a la Administración de Seguridad Social que tu plan de salud o tu empleador proporcionó información incorrecta. Finaliza: 6 meses después. Inicio de la cobertura: El mes siguiente a que te inscribes. | Completa el formulario CMS-10797 y envía el formulario completado a tu oficina local de Seguridad Social por fax o correo postal.Descarga el formulario |\n\n| Fuiste liberado de la detención el 1/1/2023 o con posterioridad (y perdiste la oportunidad de inscribirte mientras estabas encarcelado) | Comienza: El día en que eres liberado de la custodia. Finaliza: El último día del 12º mes después del mes en que eres liberado. Inicio de la cobertura: El mes siguiente a que te inscribes, o puedes seleccionar cobertura retroactiva hasta tu fecha de liberación (pero no una fecha anterior a tu fecha de liberación). Solo puedes solicitar cobertura retroactiva hasta 6 meses hacia atrás. ¿Qué sucede si elijo una fecha de inicio de cobertura en el pasado? | Completa el formulario CMS-10797 y envía el formulario completado a tu oficina local de Seguridad Social por fax o correo postal.Descarga el formulario |\n\n| Perdiste la oportunidad de inscribirte porque experimentaste otras condiciones excepcionalesNota: Debes contactarte con la Seguridad Social para solicitar este Periodo de inscripción especial | Comienza: Una vez que te contactas con la Seguridad Social. Finaliza: Al menos 6 meses después. Inicio de la cobertura: El mes siguiente a que te inscribes. | Completa el formulario CMS-10797 y envía el formulario completado a tu oficina local de Seguridad Social por fax o correo postal.Descarga el formulario |\n\n-\n-\n\n| Tienes o tuviste seguro de salud a través de tu trabajo, el trabajo de tu cónyuge (o el trabajo de un miembro de la familia si eres discapacitado*) * Si tienes una discapacidad y tu cobertura se basa en el empleo actual de un miembro de tu familia (no cónyuge), su empleador debe tener un plan de salud grande para que seas elegible para el Periodo de inscripción especial. | Comienza: El primer mes después de que finalice tu Periodo de inscripción inicial. Finaliza: 8 meses después de que termine la cobertura del plan de salud grupal o del empleo, lo que ocurra primero. Inicio de la cobertura: Generalmente, el primer mes después de que te inscribes. Si te inscribes en Part B mientras tú (o tu cónyuge) aún trabajas, o dentro del primer mes completo después de que termine la cobertura del empleador, puedes solicitar retrasar la fecha de inicio de tu Part B hasta 3 meses. Este Periodo de inscripción especial no se aplica si eres elegible para Medicare basado en Enfermedad Renal en Etapa Final (ERDF), o si aún estás en tu Periodo de inscripción inicial. COBRA no se considera cobertura de un plan de salud grupal. Obtener COBRA no cambia cuándo termina este Periodo de inscripción especial. | Si ya tienes Part A, ve a SSA.gov para inscribirte en Part B.Inscribe en líneaTambién puedes enviar los formularios completados a tu oficina local de Seguridad Social por fax o correo postal.Descarga los formularios:Quiero inscribirme en Part A y Part BTengo Part A y quiero inscribirme en Part B |\n\n-\n-\n-\n\n| Eres voluntario y sirves en un país extranjero | Comienza: El primer día del mes en que sucede cualquiera de lo siguiente: Ya no eres voluntario fuera de los Estados Unidos. La organización con la que haces voluntariado ya no tiene estatus de exención de impuestos. Ya no tienes seguro de salud que proporcione cobertura fuera de los Estados Unidos. Finaliza: 6 meses después. Inicio de la cobertura: El mes siguiente a que te inscribes. | Ve a SSA.gov para aplicar para Medicare en línea.Aplicar en líneaSi ya tienes Part A, completa el formulario CMS 40B para inscribirte en Part B.Envía el formulario completado a tu oficina local de Seguridad Social por fax o correo postal. |\n\n| Tienes TRICARE | Comienza: Cuando la Seguridad Social te notifica. Finaliza: 12 meses después. Inicio de la cobertura: El mes siguiente a que te inscribes, o puedes decidir que la cobertura comience después del final de tu Periodo de inscripción inicial. | Obtén más información sobre cómo funciona TRICARE con Medicare. |\n\nVerifica mi situación específica para saber cuándo inscribirte.\n\nSituaciones que no califican para un Periodo de inscripción especial:\n\n- Tu cobertura de COBRA o tu cobertura de jubilado termina.\n- Perdiste tu ventana de 8 meses para inscribirte cuando dejaste de trabajar o perdiste la cobertura basada en el empleo.\n- Tienes o pierdes tu cobertura de Marketplace.\n- Tienes una Enfermedad Renal en Etapa Final (ERDF). Obtén más información sobre la cobertura de Medicare para ERDF.",
+  "seconds": 15.46,
+  "tokens_in": 1488,
+  "tokens_out": 1632,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#4",
+  "text": "## Unirse a un plan\n\nUna vez que se inscribe en Medicare, puede unirse a un plan de salud o de medicamentos en ciertos momentos. Para unirse a un Medicare Advantage Plan (Part C), necesita tanto Part A como Part B. Para unirse a un Medicare drug plan (Part D), solo necesita Part A o Part B. averigüe cuándo puede unirse a un plan.",
+  "seconds": 2.05,
+  "tokens_in": 226,
+  "tokens_out": 83,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#0",
+  "text": "Tus costos totales para la cobertura de medicamentos de Medicare dependerán del plan que elijas. Dependiendo del plan, podrías pagar:\n\n- Premium: Una cantidad mensual que pagas por la cobertura, independientemente de si recibes los medicamentos o no.\n\n- Tu premium específica dependerá del plan que elijas. Podrías tener que pagar más, dependiendo de tus ingresos. ¿Quién paga una Parte D premium más alta debido a los ingresos?\n- Si tienes que pagar una penalización por no haberte inscrito antes en el Parte D, se añadirá a tu premium mensual.\n\nConsejo: Aunque no tomes muchos medicamentos ahora, o tus costos actuales de medicamentos de bolsillo sean bajos, considera obtener un plan de medicamentos con una premium mensual baja para evitar la penalización por no haberte inscrito antes. Todos los planes deben cubrir una amplia gama de medicamentos que toman las personas con Medicare.\n\n- Deductible: Una cantidad que pagas por medicamentos e ítems cubiertos cada año, antes de que tu plan comience a pagar. Tu deductible dependerá del plan que elijas. Ningún plan de medicamentos de Medicare puede tener un deductible superior a $700 en 2027 ($615 en 2026), y algunos planes no tienen deductible.\n- Copayment: Una cantidad fija que pagas por un medicamento en la farmacia.\n- Coinsurance: Un porcentaje que pagas por un medicamento en la farmacia.\n\n¿Cómo se manejan los copayments y la coinsurance si obtengo menos de un suministro de un mes de un medicamento?\n\nAprende por qué los costos de los medicamentos pueden cambiar.",
+  "seconds": 6.31,
+  "tokens_in": 452,
+  "tokens_out": 352,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#1",
+  "text": "## Etapas de la cobertura de medicamentos de Medicare\n\nPor lo general, los planes de medicamentos de Medicare y los planes de Medicare Advantage con cobertura de medicamentos tienen 3 etapas:\n\n- Etapa de deducible: Si su plan de Medicare tiene un deducible, usted paga todos los costos de bolsillo hasta que alcance el deducible completo. Ningún plan de medicamentos de Medicare puede tener un deducible mayor a $615 en 2026 ($700 en 2027). Algunos planes de medicamentos de Medicare no tienen deducible.\n- Etapa de cobertura inicial: Después de que alcance su deducible completo (si su plan tiene un deducible), usted pagará el 25% del costo como coaseguro para sus medicamentos genéricos y de marca hasta que sus gastos de bolsillo por medicamentos cubiertos de la Parte D alcancen $2,100 en 2026 ($2,400 en 2027) (incluidos ciertos pagos realizados en su nombre, como a través del programa Extra Help). Luego, obtendrá automáticamente la \"cobertura catastrófica\".\n- Etapa de cobertura catastrófica: No tendrá que pagar costos de bolsillo por medicamentos cubiertos de la Parte D por el resto del año calendario.\n\nCuando tenga cobertura de medicamentos de Medicare, recibirá una Explicación de Beneficios (EOB) el mes siguiente a que la farmacia facture su plan. Su EOB muestra las recetas que llenó, lo que pagó su plan, lo que usted y otros han pagado, su etapa de cobertura y lo que cuenta hacia sus gastos de bolsillo y sus costos totales de medicamentos.",
+  "seconds": 5.72,
+  "tokens_in": 450,
+  "tokens_out": 364,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#2",
+  "text": "## ¿Cómo pago la prima de mi plan?\n\nPuede elegir pagar su prima de la siguiente manera:\n\n- Que su plan la descargue de su cuenta de cheques o de ahorros.\n- Que la carguen a su tarjeta de crédito o de débito (puede haber cargos).\n- Que su plan le envíe una factura cada mes. Algunos planes facturan por adelantado la cobertura del próximo mes. Envíe su pago al plan, no a Medicare. Comuníquese con su plan para obtener su dirección de pago.\n- Que su prima se retenga de su pago de Seguridad Social. Comuníquese con su plan, no con la Seguridad Social, para solicitar esta opción de pago. Puede tardar hasta 3 meses en comenzar. En los casos en que las primas no se retuvieron de su pago de Seguridad Social hasta 1 o 2 meses después de unirse a un plan de medicamentos de Medicare, recibirá una factura por los meses en que las primas de su plan de medicamentos no se retuvieron. Deberá pagar la prima mensual de su plan de medicamentos directamente a su plan para esos meses. Su plan le dirá cuándo se configure la retención de su prima de su pago de Seguridad Social.\n\n¿Qué más necesito saber si tengo primas retenidas de mi pago de Seguridad Social?",
+  "seconds": 3.05,
+  "tokens_in": 381,
+  "tokens_out": 281,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#3",
+  "text": "## ¿Cómo puedo reducir mis costos de medicamentos?\n\nSi cumple con los requisitos, existen programas que pueden reducir sus costos de medicamentos:\n\n- **Medicaid**: Un programa conjunto federal y estatal que ayuda a cubrir los costos médicos para algunas personas con ingresos y recursos limitados. Cada estado tiene requisitos diferentes de ingresos y recursos que determinan quién es elegible. Comuníquese con su estado para saber si es elegible.\n- **Extra Help**: Un programa de Medicare que ayuda a pagar sus costos de medicamentos. Califica automáticamente para Extra Help si cumple con los requisitos para Medicaid, uno de los Medicare Savings Programs, o los beneficios de Supplemental Security Income (SSI) de Social Security. Si no califica automáticamente para Extra Help, puede presentar una solicitud.\n\n- **Medicare's Limited Income Newly Eligible Transition (LI NET)**: Un programa de Medicare que ofrece cobertura temporal de medicamentos de Medicare Part D a personas que califican para Extra Help o Medicaid pero que aún no están inscritos en un plan de medicamentos de Medicare. LI NET cubre todos los medicamentos cubiertos por Part D, y no hay restricciones de farmacia de red.\n\n- **State Pharmaceutical Assistance Programs (SPAP)**: Estos programas proporcionan cobertura de su estado (o de las Islas Vírgenes de EE. UU.) para ayudar a pagar las primas de su plan de medicamentos y/o la coparticipación. Las contribuciones de SPAP pueden contar hacia el límite de gastos de bolsillo de su cobertura de medicamentos de Medicare. La elegibilidad depende de las reglas específicas de cada programa.\n- **Pharmaceutical Assistance Programs (a veces llamados Patient Assistance Programs (PAPs))**: Algunas compañías farmacéuticas ofrecen programas para ayudar a pagar medicamentos para personas inscritas en cobertura de medicamentos de Medicare (Part D). Averigüe si existe un Pharmaceutical Assistance Program (PAP) que pueda reducir los costos de las recetas de los medicamentos que toma. Cada compañía tiene diferentes requisitos de elegibilidad para participar en su programa. Comuníquese con la compañía para saber si es elegible y comenzar a recibir ayuda.\n\nEl Medicare Prescription Payment Plan es una nueva opción de pago que funciona con su cobertura de medicamentos de Medicare actual para ayudarle a administrar sus gastos de bolsillo por los medicamentos cubiertos por su plan, extendiéndolos a lo largo del año calendario (enero–diciembre). Esta opción de pago podría ayudarlo a administrar sus gastos mensuales, pero no le ahorra dinero ni reduce sus costos de medicamentos.",
+  "seconds": 4.7,
+  "tokens_in": 572,
+  "tokens_out": 519,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#4",
+  "text": "## ¿Cuál es la penalización por inscripción tardía de la Parte D?\n\nLa penalización por inscripción tardía de la Parte D es una cantidad que se suma permanentemente a su prima de cobertura de medicamentos recetados de Medicare (Parte D). Puede deber una penalización por inscripción tardía si, en cualquier momento después de que termine su Periodo de Inscripción Inicial, hay un período de 63 o más días consecutivos sin cobertura de medicamentos de Medicare ni ninguna otra cobertura de medicamentos recetados que tenga el mismo nivel de protección. Una vez que se inscriba en un plan de medicamentos de Medicare, el plan le informará si debe pagar una penalización y cuál será su prima. Por lo general, deberá pagar la penalización mientras tenga cobertura de medicamentos de Medicare.\n\n### ¿Cuánto es la penalización por inscripción tardía de la Parte D?\n\nLa penalización por inscripción tardía de la Parte D se calcula multiplicando el 1% por la \"prima base nacional del beneficiario\" ($38.99 en 2026) por el número de meses completos durante los que tuvo derecho a inscribirse en la cobertura de medicamentos de Medicare pero no lo hizo (y no tenía otra cobertura de medicamentos recetados que tenga el mismo nivel de protección).\n\nEsa cantidad se redondea al décimo de dólar ($) más cercano y se suma a su prima mensual. La \"prima base nacional del beneficiario\" puede aumentar cada año, por lo que su monto de penalización también puede aumentar cada año.\n\nEjemplo: Si esperó 14 meses después de tener derecho a Medicare para inscribirse en un plan de medicamentos de Medicare, y no tenía cobertura de medicamentos con el mismo nivel de protección, tendrá que pagar una penalización por inscripción tardía del 14% además de su prima mensual del plan. A continuación se muestra el cálculo de la penalización mensual de inscripción de la Parte D.\n\nLa penalización por inscripción tardía de la Parte D se suma a su prima mientras tenga cobertura de medicamentos de Medicare, incluso si cambia de plan. Sin embargo, si obtiene Extra Help, no paga una penalización por inscripción tardía.\n\n¿Qué hago si no estoy de acuerdo con la penalización por inscripción tardía de la Parte D?",
+  "seconds": 3.89,
+  "tokens_in": 530,
+  "tokens_out": 479,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/providers-services/claims-appeals-complaints/appeals/original-medicare#1",
+  "text": "## Recurso cuando un hospital cambia tu estatus de \"paciente internado\" a \"paciente ambulatorio con servicios de observación\"\n\nComo resultado de una orden judicial, tienes derechos de recurso cuando un hospital cambia tu estatus de \"paciente internado\" a \"paciente ambulatorio\" si también cumples con ciertos criterios.\n\nPuedes solicitar un recurso si fuiste ingresado al hospital como paciente internado el 1 de enero de 2009 o después, y tu estatus cambió a \"paciente ambulatorio recibiendo servicios de observación\" (y cumples con otros criterios). Aprende cómo presentar este tipo de recurso.\n\nPuedes solicitar un recurso rápido mientras aún estés en el hospital si fuiste ingresado como paciente internado y el hospital cambió tu estatus a \"paciente ambulatorio recibiendo servicios de observación\". Aprende cómo presentar este tipo de recurso.\n\n### ¿Por qué importa el estatus del hospital?\n\nTu estatus hospitalario afecta cuánto pagas por los servicios del hospital. Tu estatus también puede afectar si Medicare cubrirá la atención que recibas en una instalación de enfermería especializada (SNF) después de tu estancia en el hospital.",
+  "seconds": 2.43,
+  "tokens_in": 369,
+  "tokens_out": 259,
+  "reader": "same"
+ }
+]

@@ -1,0 +1,1087 @@
+[
+ {
+  "id": "self-assessment-tax-returns/deadlines#0",
+  "text": "HM Revenue and Customs (HMRC) must receive your tax return and any money you owe by the deadline.\n\nIf you do not know your profit for the whole tax year, you still need to send a tax return. Check how to send a return if you do not know your profit for the whole year.\n\nThe last tax year started on 6 April 2025 and ended on 5 April 2026. The deadline for earlier tax returns has passed. You may have to pay a penalty. Send your tax return or payment as soon as possible to avoid further penalties.",
+  "seconds": 4.73,
+  "tokens_out": 123,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#1",
+  "text": "## Telling HMRC you need to complete a return\n\nYou must tell HMRC by 5 October if you need to complete a tax return for the previous year. You must tell them if you have either:\n\n- not sent a tax return before\n- registered before but did not need to send a tax return for the tax year 2024 to 2025\n\nYou can tell HMRC by registering for Self Assessment. Check how to register for Self Assessment.\n\n### If you register after 5 October 2026\n\nHMRC will send you a letter or email with a different deadline to send your tax return by. This deadline will be 3 months from the date on the letter or email.\n\nYou must still pay the tax you owe by 11:59pm on 31 January 2027. If you do not, you will get a penalty.",
+  "seconds": 4.86,
+  "tokens_out": 190,
+  "reader": "changed"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#2",
+  "text": "## Sending a paper tax return\n\nHMRC must get your paper tax return by 11:59pm on 31 October 2026.  \nIf you miss this, you will get a late filing penalty.\n\nYou can send it any time from 6 April 2026.  \nHMRC must still get it before the deadline.",
+  "seconds": 3.65,
+  "tokens_out": 77,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#3",
+  "text": "### Submitting an online tax return\n\nYou must submit your online tax return by 11:59pm on 31 January 2027.\nIf you do not, you will get a late filing penalty.\n\nIf you want to pay your Self Assessment bill through your tax code, you must submit it by 11:59pm on 30 December 2026.\nIf you miss this deadline, you will have to pay another way.\n\nYou can submit your return any time on or after 6 April 2026.\nYou must submit it by the deadline.",
+  "seconds": 3.69,
+  "tokens_out": 131,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#4",
+  "text": "## Paying the tax you owe\n\nYou must pay your Self Assessment tax by 11:59pm on 31 January 2027.  \nIf you do not pay by this time, you will get a penalty.  \nThere is a second payment deadline of 31 July.  \nYou only make payments on this date if you make payments towards your bill.  \nThese payments are called 'payments on account'.  \nYou can estimate your Self Assessment tax bill before you send your tax return.  \nEstimating the bill can give you an idea of what your bill is likely to be.  \nEstimating the bill can also allow you to budget and pay on time.  \nFind help on understanding the tax you owe.",
+  "seconds": 5.29,
+  "tokens_out": 151,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#5",
+  "text": "## Trustees of a registered pension scheme or non-resident companies\n\nHMRC must get a paper tax return. The deadline is 31 January 2027. You cannot send the return online. You can send it any time on or after 6 April 2026. HMRC must get it by the deadline.",
+  "seconds": 3.11,
+  "tokens_out": 70,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#6",
+  "text": "### Partnership returns if you have a company as a partner\n\nIf your partnership’s accounting date is between 1 February and 5 April and one of your partners is a limited company, the deadline is:\n\n- 12 months from the accounting date for online returns\n- 9 months from the accounting date for paper returns",
+  "seconds": 2.21,
+  "tokens_out": 67,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#0",
+  "text": "You will get a penalty if you need to file a tax return and you:\n\n- send your return late\n\n- pay your tax bill late\n\nYou can estimate your penalty for late Self Assessment tax returns and payments.",
+  "seconds": 1.57,
+  "tokens_out": 45,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#1",
+  "text": "## If you register for Self Assessment late\n\nIf you register after 5 October, you may get a penalty.\n\nDo not pay all your tax by 31 January.\n\nThis penalty is based on the amount left to pay.\n\nHMRC will send the penalty within 12 months.\n\nThis starts after HMRC gets your Self Assessment tax return.\n\nYou can find more information on ‘failure to notify’ penalties.",
+  "seconds": 2.79,
+  "tokens_out": 89,
+  "reader": "changed"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#2",
+  "text": "## If you send your tax return late\n\nYou will get late filing penalties.\n\n- You get an initial £100 penalty.\n- After 3 months, you get daily penalties of £10 per day.\n- These daily penalties can go up to a maximum of £900.\n- After 6 months, you pay another penalty.\n- This 6 months penalty is 5% of the tax due or £300.\n- You pay whichever amount is greater.\n- After 12 months, you pay another charge.\n- This charge is 5% or £300.\n- You pay whichever amount is greater.\n\nSend your Self Assessment tax return as soon as possible to avoid this.\n\nAll partners get charged a penalty if a partnership tax return is late.",
+  "seconds": 5.65,
+  "tokens_out": 172,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#3",
+  "text": "## If you pay your tax late\n\nYou get a penalty of 5% of the tax unpaid.\nYou get this penalty after 30 days.\nYou get this penalty after 6 months.\nYou get this penalty after 12 months.\nYou also pay interest on the amount you owe.\nPay your Self Assessment tax bill as soon as possible to avoid this.\nFind out what happens if you do not pay your tax bill.",
+  "seconds": 2.46,
+  "tokens_out": 94,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#0",
+  "text": "### Your State Pension\n\nYour State Pension amount depends on your National Insurance record.\n\nCheck your State Pension forecast. This tells you how much you could get at State Pension age. It also shows your National Insurance record.\n\nThe full rate of new State Pension is £241.30 a week. Your amount could be different depending on:\n\n- if you were contracted out before 2016\n- the number of National Insurance qualifying years you have\n- if you paid into the Additional State Pension before 2016\n\nFind out what tax you might pay on your retirement income. This includes if you retire abroad.",
+  "seconds": 3.1,
+  "tokens_out": 132,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#1",
+  "text": "## If you’re getting less than £241.30 a week\n\nYou might need more National Insurance qualifying years to increase your State Pension.\n\n### If your National Insurance record started before April 2016\n\nYou may have been contracted out. You or your employer paid more into your workplace or private pension while you were contracted out. You or your employer paid less into your State Pension while you were contracted out. If you were contracted out, you will usually need more than 35 qualifying years. You will need more than 35 qualifying years to get the full rate of new State Pension.\n\n### If your National Insurance record started after April 2016\n\nIf your National Insurance record started after April 2016, you will need 35 qualifying years. You will need 35 qualifying years to get the full rate of new State Pension.",
+  "seconds": 4.53,
+  "tokens_out": 184,
+  "reader": "changed"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#2",
+  "text": "### If you're getting more than £241.30 a week\n\nIf you paid into the Additional State Pension before 2016, you might get a 'protected payment'. You will get this if you would have got more State Pension under the old rules. This 'protected payment' is added on top of the full rate of new State Pension.",
+  "seconds": 2.52,
+  "tokens_out": 76,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#3",
+  "text": "### Annual increases\n\nYour new State Pension goes up every year.\n\nThe amount is the biggest of these three numbers:\n\n- earnings, which is the average rise in wages in Great Britain\n- prices, which is the rise in UK prices measured by the Consumer Prices Index (CPI)\n- 2.5%\n\nIf you have a protected payment, your pension rises every year with the CPI.",
+  "seconds": 2.75,
+  "tokens_out": 84,
+  "reader": "changed"
+ },
+ {
+  "id": "child-benefit/what-youll-get#0",
+  "text": "There are 2 Child Benefit rates.\n\n| Who the allowance is for | Rate (weekly) |\n| :--- | :--- |\n| Eldest or only child | £27.05 |\n| Additional children | £17.90 per child |\n\nYou must contact the Child Benefit Office if you are paid too much or too little.\n\nAny Child Benefit payments you get will count towards the benefit cap. If you are affected by the cap, you will still get the full amount for your Child Benefit payments. Your other benefits may be reduced.",
+  "seconds": 3.53,
+  "tokens_out": 119,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#1",
+  "text": "## If families split up\n\nIf a family splits up, you get £27.05 a week for the eldest child.\n\nIf you have 2 children, the math changes.\nOne child lives with you.\nThe other child lives with someone else.\nThis could be your ex-partner.\nYou get £27.05 a week for your child.\nThey get £27.05 a week for their child.\nOnly one person can claim Child Benefit for a child.\nIf you both claim, only one of you gets the money.\nYou get £17.90 for each other child.",
+  "seconds": 3.92,
+  "tokens_out": 135,
+  "reader": "changed"
+ },
+ {
+  "id": "child-benefit/what-youll-get#2",
+  "text": "### If families join together\n\nIf you move in with a partner, you get £27.05 for the eldest child.  \nYour partner may also claim for their children.  \nYou cannot both claim the higher rate.  \nThe higher rate is £27.05 per eldest child.  \nIf you both claim it, you may have to pay back money.  \nYou must tell us about this change.",
+  "seconds": 2.42,
+  "tokens_out": 86,
+  "reader": "changed"
+ },
+ {
+  "id": "child-benefit/what-youll-get#3",
+  "text": "## If you or your partner earn over the threshold\n\nIf you or your partner has an adjusted net income over the threshold, you may have to pay the High Income Child Benefit Charge.\n\nYour adjusted net income is your total taxable income before any personal allowances. You must subtract things like Gift Aid from this total. Your total taxable income includes interest from savings. It also includes dividends.\n\nIf you have to pay the charge, you can still get other advantages. These include National Insurance credits. The charge will not be more than the amount you get from Child Benefit payments.\n\nUse the Child Benefit tax calculator to check if your adjusted net income is over the threshold. If it is, the calculator will tell you how much charge you must pay.\n\nIf both you and your partner have an individual income over the threshold, the person with the higher adjusted net income pays the charge.\n\nIf either you or your partner has an individual income of £20,000 or more above the threshold, you get charged the full amount of your Child Benefit payments. This amount is £10,000 or more before April 2024. You will end up with no extra money from Child Benefit.\n\nYou can make a claim and opt out of getting payments if you do not want to pay the charge. You can still get the other advantages provided by Child Benefit. These include National Insurance credits.",
+  "seconds": 6.86,
+  "tokens_out": 287,
+  "reader": "changed"
+ },
+ {
+  "id": "child-benefit/what-youll-get#4",
+  "text": "## If you’re under 16\n\nYou can claim for your own child.\nOr someone responsible for you can claim for them on your behalf.\nYou’ll usually get more if you claim yourself.",
+  "seconds": 1.51,
+  "tokens_out": 43,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#0",
+  "text": "Universal Credit is paid once every month.\nThe amount you receive depends on your standard allowance.\nIt depends on any extra amounts that apply to you.\nIt depends on any money taken off your payment.\nIt depends on how much you earn if you are working.\nYou can see how much you could get by using a benefits calculator.\nIf you get Universal Credit, you will earn Class 3 National Insurance credits.\nThese credits count towards your State Pension.",
+  "seconds": 2.17,
+  "tokens_out": 97,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#1",
+  "text": "## Standard allowance\n\nYou get one standard allowance for your household.\n\n| How much you’ll get | Monthly standard allowance |\n| | |\n| If you’re single and under 25 | £338.58 |\n| If you’re single and 25 or over | £424.90 |\n| If you live with your partner and you’re both under 25 | £528.34 (for you both) |\n| If you live with your partner and either of you are 25 or over | £666.97 (for you both) |",
+  "seconds": 3.72,
+  "tokens_out": 133,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#2",
+  "text": "## Extra amounts\n\nYou may get more money than your standard allowance if you are eligible.\n\nYou must tell the government when you become eligible for extra money.\n\nExtra amounts are not added automatically.\n\nFor example, if you become a carer, you need to tell the DWP.\n\nThe carer's element of Universal Credit is not applied automatically if you start getting Carer's Allowance.\n\n### If you have children\n\nYou will get £303.94 each month for every child who lives with you.\n\nIf your first child was born before 6 April 2017, you get an extra £47.94 each month for that child.\n\nYou get money for each child until 31 August after their:\n\n- 16th birthday\n\n- 19th birthday, if they are in eligible education or training – for example, they are studying for GCSEs, A levels, BTECs, Scottish Highers and SVQs or NVQs up to level 3\n\n### If your child has a disability\n\nYou might get extra money each month if any of your children are disabled.\n\nYou will get one of these amounts:\n\n- £164.79 - the lower amount\n\n- £514.71 - the higher amount\n\nThe higher amount is for a child who:\n\n- gets the highest rate of the care component of Disability Living Allowance (DLA) for children\n\n- gets the higher rate of the daily living part of Personal Independence Payment (PIP)\n\n- is blind or severely sight impaired\n\nThe lower amount is for a child who gets any other rate of either DLA for children, or PIP.\n\n### Childcare costs\n\nYou can claim back up to 85% of your childcare costs if you are working.\n\nIf you live with your partner, both of you must be working.\n\nOne of you does not need to work if they cannot work due to a disability or health condition.\n\nThe childcare must be from a registered provider.\n\nYou can get help paying for childcare including nurseries, childminders, breakfast clubs, after school care and holiday clubs.\n\nThe most you can get each month is:\n\n- £1,071.09 for one child\n\n- £1,836.16 for 2 or more children\n\nYou need to pay your childcare costs up front and claim the money back as part of your payment.\n\nYou can get support to help you pay your childcare costs up front.\n\nTalk to your work coach after you have made your claim.\n\nRead more about childcare costs and Universal Credit.\n\n### If you have a disability or health condition\n\nYou might get extra money each month if you cannot work because of a health condition, disability or long-term illness.\n\n| How much you'll get | Extra monthly amount |\n\n| If you have a severe health condition or disability that's unlikely to change or you are nearing the end of your life | £429.80 |\n\n| If your health condition or disability is assessed as less severe or your condition may improve over time | £217.26 |\n\nThere are different rules if you reported a health condition before 6 April 2026.\n\nIf you live with your partner and you both have limited capability for work and work-related activity, you will only get one extra monthly amount.\n\nYou will get the higher amount if one of you is eligible for it.\n\nIf you get the severe disability premium and you are moving to Universal Credit, you might also be entitled to a 'transitional protection' payment.\n\nRead more about health conditions, disability and Universal Credit.\n\n### If you care for someone who gets a health or disability-related benefit\n\nYou could get an extra amount known as a 'carer's element'.\n\nThis is added to your Universal Credit if you care for someone who gets one of the following benefits:\n\n- Adult Disability Payment – standard or enhanced award\n\n- Armed Forces Independence Payment\n\n- Attendance Allowance\n\n- Child Disability Payment – middle or highest care award\n\n- Constant Attendance Allowance - full day rate, intermediate rate or exceptional rate with Industrial Injuries Disablement Benefit\n\n- Constant Attendance Allowance - full day rate with a War Disablement Pension\n\n- Disability Living Allowance – middle or highest care rate\n\n- Personal Independence Payment – either rate of the daily living part\n\nYou need to provide care for them for at least 35 hours a week.\n\nYou will get an extra monthly amount of £209.34.\n\nIf you live with your partner and you both care for the same person, you will only get one extra monthly amount.\n\nYou may also be eligible for Carer's Allowance.\n\nThis is on top of any extra amount you get if you have a disabled child.\n\nIf you are getting an extra amount because you have limited capability for work and work related activity (LCWRA), you cannot also get the carer's element.\n\nIf the person you care for gets the severe disability premium, it will stop when you claim the carer's element of Universal Credit.\n\n### Housing costs\n\nYou could get money to help pay your housing costs.\n\nThe payment can cover rent and some service charges.\n\nIf you are a homeowner, you might be able to get a loan to help with interest payments on your mortgage.",
+  "seconds": 26.08,
+  "tokens_out": 1122,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#3",
+  "text": "## Money taken off your payment\n\nYour payment might get smaller.\n\nThis can happen if any of these are true:\n\n- You are paying back an advance on a Universal Credit payment\n- You would get above the amount limited by the benefit cap\n- You have been overpaid benefits in the past\n- You owe money for Council Tax, court fines, electricity, gas, water or Child Maintenance\n- You pay your gas or electricity bill directly from your Universal Credit payment\n- You have a paid job\n- You have other income. This can be money from pensions or certain other benefits\n- You have more than £6,000 in money, savings and investments\n\nIf you have over £6,000 in money, savings and investments, your payment will be reduced by £4.35.\n\nThis is for every £250 you have between £6,000 and £16,000.\n\nAnother £4.35 is taken off for any remaining amount that is not a complete £250.\n\nFind out more about money taken off your Universal Credit payment.\n\n### Benefits that affect how much Universal Credit you get\n\nYou can get Universal Credit at the same time as other benefits.\n\nYour Universal Credit payment will be reduced.\n\nThe reduction will be equal to the other benefit’s payment.\n\nThis applies when you get Universal Credit and any of the following benefits:\n\n- Armed Forces Pensions\n- Carer's Allowance\n- Carer Support Payment (Scotland)\n- Incapacity Benefit\n- Industrial Injuries Disablement Benefit (excluding any increases where constant attendance is needed and for exceptionally severe disablement)\n- Maternity Allowance\n- Severe Disablement Allowance\n- State Pension\n- Widowed Mother's Allowance\n- Widowed Parent's Allowance\n- New Style Employment and Support Allowance (ESA)\n- New Style Jobseeker's Allowance (JSA)",
+  "seconds": 8.7,
+  "tokens_out": 407,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#4",
+  "text": "### Claiming Universal Credit and New Style ESA or JSA\n\nYou might be able to get Universal Credit at the same time as New Style ESA or JSA.\nIf you do, your Universal Credit payment is reduced by the amount you get for New Style ESA or JSA.\nNew Style ESA and JSA are paid more regularly than Universal Credit.\nYou will also get different National Insurance credits.\nThese credits count towards your State Pension.\nThey can help you qualify for other benefits.\nYou might continue to get New Style ESA or JSA if your circumstances change.\nYour Universal Credit payment might be reduced or stop.\nFor example, this could happen if:\n- your partner’s income increases\n- you have more than £16,000 in savings\nCheck if you're eligible for:\n- New Style Jobseeker’s Allowance\n- New Style Employment and Support Allowance",
+  "seconds": 4.75,
+  "tokens_out": 188,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#5",
+  "text": "## Moving to Universal Credit from other benefits\n\nIf you apply for Universal Credit, you keep getting your current benefit for 2 more weeks.\nYou must still be eligible for your current benefit.\n\nThis only applies if you are getting income-related Employment and Support Allowance or Housing Benefit.\n\nYou will not need to pay back the extra payments.\nThey will not affect the Universal Credit you might get.\n\nIf you get a Migration Notice letter telling you to claim Universal Credit, you might also get a ‘transitional protection’ payment.",
+  "seconds": 2.35,
+  "tokens_out": 110,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#7",
+  "text": "## If your Universal Credit claim is reviewed\n\nYour claim might be reviewed. This makes sure you get the right payment. It also makes sure you get the right support. Find out more about Universal Credit reviews.",
+  "seconds": 1.4,
+  "tokens_out": 43,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#0",
+  "text": "You may get Carer’s Allowance.  \nThis depends on you.  \nThis depends on the person you care for.  \nThis depends on the care you give.  \nAll of them must meet certain rules.",
+  "seconds": 1.94,
+  "tokens_out": 44,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#1",
+  "text": "## The person you care for\n\nThe person you care for must already get one of these benefits:\n\n- Personal Independence Payment - daily living component\n\n- Disability Living Allowance - the middle or highest care rate\n\n- Scottish Adult Disability Living Allowance - the middle or highest care rate\n\n- Attendance Allowance\n\n- Pension Age Disability Payment\n\n- Constant Attendance Allowance at or above the normal maximum rate with an Industrial Injuries Disablement Benefit\n\n- Constant Attendance Allowance at the basic (full day) rate with a War Disablement Pension\n\n- Armed Forces Independence Payment\n\n- Child Disability Payment - the middle or highest care rate\n\n- Adult Disability Payment - daily living component at the standard or enhanced rate\n\n### If you care for the person with others\n\nYou cannot get Carer’s Allowance if you share the care of someone.\n\nThe other carer must not already claim one of these for that person:\n\n- Carer’s Allowance for that person\n\n- Carer Support Payment for that person\n\n- the extra amount of Universal Credit for caring for someone who gets a disability-related benefit for that person\n\nYou can speak to the other carer about changing their benefits.\n\nIf you want to get Carer’s Allowance, ask them to make a change.\n\nIf the other carer does not want to do that, you can still apply for Carer’s Allowance.\n\nThe Department for Work and Pensions (DWP) will decide who should receive the benefit.",
+  "seconds": 5.42,
+  "tokens_out": 303,
+  "reader": "changed"
+ },
+ {
+  "id": "carers-allowance/eligibility#2",
+  "text": "### The type of care you provide\n\nYou must care for someone for 35 hours a week. You can help with washing and cooking. You can take the person to a doctor’s appointment. You can help with household tasks. This includes managing bills and shopping.",
+  "seconds": 1.72,
+  "tokens_out": 55,
+  "reader": "changed"
+ },
+ {
+  "id": "carers-allowance/eligibility#3",
+  "text": "## Your eligibility\n\nAll of these rules must be true for you:\n\n- You are 16 or over.\n\n- You spend at least 35 hours a week caring for someone.\n\n- You have been in England, Scotland or Wales for at least 2 of the last 3 years. This rule does not apply if you are a refugee or have humanitarian protection status.\n\n- You normally live in England or Wales. Or you live abroad as a member of the armed forces. You might still be eligible if you are moving to or already living in an EEA country or Switzerland.\n\n- You are not in full-time education.\n\n- You are not studying for 21 hours a week or more.\n\n- You are not subject to immigration control.\n\n- Your earnings are £204 or less a week after tax, National Insurance and expenses.\n\nIf you live in Scotland, you need to apply for Carer Support Payment instead of Carer’s Allowance.\n\nIf you are from the EU, Switzerland, Norway, Iceland or Liechtenstein, you and your family usually need settled or pre-settled status under the EU Settlement Scheme to get Carer’s Allowance. The deadline to apply to the scheme was 30 June 2021 for most people. But you might still be able to apply. Check if you can still apply to the EU Settlement Scheme.\n\n### Calculating your earnings\n\nYour earnings are any income from employment and self-employment after tax, National Insurance and expenses.\n\nExpenses can include:\n\n- 50% of your pension contributions\n\n- equipment you need to do your job, for example specialist clothing\n\n- travel costs between different workplaces that are not paid for by your employer, for example fuel or train fares\n\n- business costs if you're self-employed, for example a computer you only use for work\n\nIf you pay a carer to look after the disabled person or your children while you work, you can treat care costs that are less than or equal to 50% of your earnings as an expense. The carer must not be your spouse, partner, parent, child or sibling.\n\nExample\n\nYou earn £100 a week (after tax, National Insurance and other expenses) and spend £60 a week on care while you work. You can treat £50 of this as an expense.\n\nPayments that do not count as earnings include:\n\n- money received from an occupational or private pension\n\n- contributions towards your living or accommodation costs from someone you live with (they cannot be a tenant or boarder)\n\n- the first £20 a week and 50% of the rest of any income you make from someone boarding in your home\n\n- a loan or advance payment from your employer",
+  "seconds": 13.99,
+  "tokens_out": 575,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#4",
+  "text": "### If you get State Pension\n\nYou cannot get the full Carer’s Allowance and your State Pension at the same time.\n\nIf your pension is £86.45 a week or more, you will not get a Carer’s Allowance payment.\n\nIf your pension is less than £86.45 a week, you will get a Carer’s Allowance payment. This payment makes up the difference.",
+  "seconds": 2.21,
+  "tokens_out": 89,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#5",
+  "text": "## If you get Pension Credit\n\nIf your State Pension is more than £86.45 a week, you will not get a Carer's Allowance payment. Your Pension Credit payments will increase instead.",
+  "seconds": 1.68,
+  "tokens_out": 44,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#0",
+  "text": "### Pension Credit tops up:\n\n- It adds money to your weekly income if you are single.\n- This raises your weekly income to £238.\n- It adds money to your weekly income if you have a partner.\n- This raises your joint weekly income to £363.25.\n\nYou may get extra amounts if you have other responsibilities and costs.\n\nThe top up and extra amounts are known as ‘Guarantee Credit’.",
+  "seconds": 2.91,
+  "tokens_out": 96,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#1",
+  "text": "## If you have a severe disability\n\nYou could get an extra £86.05 a week.\n\nYou could get this extra money if you get any of these benefits:\n\n- Attendance Allowance\n- the middle or highest rate of the care component of Disability Living Allowance (DLA)\n- the daily living component of Personal Independence Payment (PIP)\n- Armed Forces Independence Payment\n- the daily living component of Adult Disability Payment\n- Pension Age Disability Payment\n- the middle or highest rate of the care component of Scottish Adult Disability Living Allowance",
+  "seconds": 2.86,
+  "tokens_out": 116,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#2",
+  "text": "## If you care for another adult\n\nYou could get an extra £48.15 a week.\n\n- You can get this if you get Carer’s Allowance.\n- You can get this if you get Carer Support Payment.\n- You can get this if you have claimed Carer’s Allowance. You are not being paid because you already get another benefit. This other benefit pays a higher amount.\n\nYou and your partner can both get this extra amount. You do not have to check who claimed. You both must have claimed or be getting Carer’s Allowance.",
+  "seconds": 2.76,
+  "tokens_out": 123,
+  "reader": "changed"
+ },
+ {
+  "id": "pension-credit/what-youll-get#3",
+  "text": "## If you're responsible for children or young people\n\nYou may get extra money for each child or young person living with you.\n\nYou will get £69.98 a week for each one.\n\nThis amount is £81.07 a week for your first child if they were born before 6 April 2017.\n\nYou will get this extra money until 31 August after one of these events:\n\n- Their 16th birthday\n\n- Their 19th birthday, if they are in eligible education or training\n\nThey could be studying for GCSEs, A levels, BTECs, Scottish Highers, SVQs or NVQs up to level 3.\n\nThey must study for more than 12 hours a week on average.\n\n### If the child or young person is disabled\n\nIf the child or young person is disabled, you may get extra money.\n\nYou may get an extra £37.93 a week if they get one of these:\n\n- Disability Living Allowance (DLA) for children - lowest or middle rate of the care component or any rate of the mobility component\n\n- Child Disability Payment - lowest or middle rate of the care component or any rate of the mobility component\n\n- Scottish Adult Disability Living Allowance - lowest or middle rate of the care component or any rate of the mobility component\n\n- Personal Independence Payment (PIP) - standard rate of the daily living component or any rate of the mobility component\n\n- Adult Disability Payment - standard rate of the daily living component or any rate of the mobility component\n\nYou may get an extra £118.46 a week if they get one of these:\n\n- Disability Living Allowance (DLA) for children - highest rate of the care component\n\n- Child Disability Payment - highest rate of the care component\n\n- Scottish Adult Disability Living Allowance - highest rate of the care component\n\n- Personal Independence Payment (PIP) - enhanced rate of the daily living component\n\n- Adult Disability Payment - enhanced rate of the daily living component\n\nYou might also qualify if they are blind or severely sight impaired.",
+  "seconds": 8.71,
+  "tokens_out": 440,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#4",
+  "text": "### If you have housing costs\n\nYou could get extra money to pay for your housing costs.\n\nThis money can cover:\n- ground rent if your property is leasehold\n- some service charges\n- charges for tents and site rents\n\nThe extra amount depends on your housing costs.\n\nIf you get Pension Credit, you could also get:\n- Council Tax Reduction\n- Housing Benefit if you rent the property you live in\n- Support for Mortgage Interest if you own the property you live in",
+  "seconds": 3.02,
+  "tokens_out": 102,
+  "reader": "changed"
+ },
+ {
+  "id": "pension-credit/what-youll-get#5",
+  "text": "## If you have savings or a second pension\n\nYou could get the 'Savings Credit' part of Pension Credit if two things are true.\n\n*   you reached State Pension age before 6 April 2016\n*   you saved some money for retirement, for example a personal or workplace pension\n\nYou could get up to £17.96 Savings Credit a week if you are single. If you have a partner, you could get up to £20.10 a week.\n\nYou could still get some Savings Credit even if you do not get the Guarantee Credit part of Pension Credit.",
+  "seconds": 3.32,
+  "tokens_out": 127,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#6",
+  "text": "## Other help if you get Pension Credit\n\nIf you get Pension Credit, you get cold weather payments automatically.\n\nYou can also:\n\n- apply for a free TV licence if you are 75 or older\n- get help with NHS costs if you get the Guarantee Credit part of Pension Credit\n\nNHS costs can include prescriptions.\nNHS costs can include dental treatment.\nNHS costs can include glasses.\nNHS costs can include transport costs for hospital appointments.",
+  "seconds": 2.69,
+  "tokens_out": 98,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#7",
+  "text": "## Get help with extra amounts\n\nContact the Pension Service helpline if you’re not sure if you get extra amounts.\n\n### Pension Service helpline\n\n**Telephone:** 0800 99 1234\n\n**Relay UK (if you cannot hear or speak on the phone):** 18001 then 0800 99 1234\n\n**British Sign Language (BSL) video relay service** if you’re on a computer - find out how to use the service on mobile or tablet\n\n**Open:** Monday to Friday, 8am to 6pm (except public holidays)\n\nFind out about call charges",
+  "seconds": 1.85,
+  "tokens_out": 141,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#0",
+  "text": "### Statutory Maternity Pay\n\nStatutory Maternity Pay lasts for 39 weeks. You receive money in two parts.\n\n- You get 90% of your average weekly earnings before tax for the first 6 weeks.\n- You get £194.32 or 90% of your average weekly earnings for the next 33 weeks. You take the lower amount.\n\nStatutory Maternity Pay comes like your normal wages. It can be monthly or weekly. Tax and National Insurance are taken out.\n\nUse the maternity planner to work out your pay.\n\nIf you take Shared Parental Leave, you get Statutory Shared Parental Pay. This is called ShPP. ShPP is £194.32 a week or 90% of your average weekly earnings. You take the lower amount.",
+  "seconds": 1.77,
+  "tokens_out": 175,
+  "reader": "changed"
+ },
+ {
+  "id": "maternity-pay-leave/pay#1",
+  "text": "## Start date\n\nSMP usually starts when you take your maternity leave.\n\nIt starts automatically if you are off work for a pregnancy-related illness.\n\nThis must happen in the 4 weeks before your baby is due.\n\nThe week is counted from Sunday to Saturday.",
+  "seconds": 1.19,
+  "tokens_out": 56,
+  "reader": "changed"
+ },
+ {
+  "id": "maternity-pay-leave/pay#2",
+  "text": "### Problems and disputes\n\nAsk your employer to explain your SMP if you think it is not right. If you disagree about the amount, contact the Statutory Payment Disputes Team. If your employer cannot pay, contact the Statutory Payment Disputes Team.",
+  "seconds": 1.15,
+  "tokens_out": 54,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#0",
+  "text": "If you qualify, you can get £123.25 a week Statutory Sick Pay (SSP) or 80% of your normal weekly earnings.\nChoose the lower amount of those two figures.\nIt is paid for up to 28 weeks.\nYou get SSP for all the full days you are off sick.\nOnly count days you normally would have worked.\nYour employer will use your average weekly earnings over an 8-week period.\nThey will use this to work out how much you get.\nYou still qualify if you started your job recently.\nYou still qualify if you have not yet received 8 weeks' pay.\nAsk your employer to find out more.",
+  "seconds": 1.8,
+  "tokens_out": 147,
+  "reader": "changed"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#1",
+  "text": "## How you're paid\n\nYour employer pays SSP like your normal wages.\n\nThey might pay you weekly or monthly.\n\nIf you have more than one job, each employer may pay you SSP.\n\nTax and National Insurance are deducted.\n\nIf you think your SSP amount is wrong, talk to your employer.\n\nIf you are still not happy, contact the HM Revenue and Customs (HMRC) enquiry line.",
+  "seconds": 1.35,
+  "tokens_out": 85,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#0",
+  "text": "The minimum wage depends on your age. It also depends on whether you are an apprentice.\n\n### This page is also available in Welsh (Cymraeg).\n\nYou must be at least school leaving age to get the National Minimum Wage.\n\nYou must be aged 21 to get the National Living Wage.\n\nThe National Living Wage is the minimum wage for workers aged 20 and under.",
+  "seconds": 1.34,
+  "tokens_out": 83,
+  "reader": "changed"
+ },
+ {
+  "id": "national-minimum-wage-rates#1",
+  "text": "## Current rates\n\nThe rates change on 1 April every year.\n\n| | 21 and over | 18 to 20 | Under 18 | Apprentice |\n\n| April 2026 | £12.71 | £10.85 | £8 | £8 |\n\n| April 2027 | £13.21 | £11.27 | £8.31 | £8.31 |\n\n### Apprentices\n\nApprentices get the apprentice rate if they are under 19.\n\nApprentices get the apprentice rate if they are 19 or over and in their first year.\n\nExample\n\nAn apprentice aged 21 in their first year gets £8.\n\nApprentices get the minimum wage for their age if they are 19 or over.\n\nApprentices get the minimum wage for their age if they have finished their first year.\n\nExample\n\nAn apprentice aged 21 who has finished their first year gets £12.71.",
+  "seconds": 2.17,
+  "tokens_out": 224,
+  "reader": "changed"
+ },
+ {
+  "id": "national-minimum-wage-rates#2",
+  "text": "## Previous rates\n\nThese were the rates for the National Living Wage and the National Minimum Wage from April 2019.\n\n### Rates between 1 April 2024 and 31 March 2026\n\nThe National Living Wage started on 1 April 2024. It is for people aged 21 and over.\n\n| | 21 and over | 18 to 20 | Under 18 | Apprentice |\n\n| April 2025 to March 2026 | £12.21 | £10 | £7.55 | £7.55 |\n\n| April 2024 to March 2025 | £11.44 | £8.60 | £6.40 | £6.40 |\n\n### Rates between 1 April 2021 and 31 March 2024\n\nBetween 1 April 2021 and 31 March 2024 the National Living Wage was for those aged 23 and over.\n\n| | 23 and over | 21 to 22 | 18 to 20 | Under 18 | Apprentice |\n\n| April 2023 to March 2024 | £10.42 | £10.18 | £7.49 | £5.28 | £5.28 |\n\n| April 2022 to March 2023 | £9.50 | £9.18 | £6.83 | £4.81 | £4.81 |\n\n| April 2021 to March 2022 | £8.91 | £8.36 | £6.56 | £4.62 | £4.30 |\n\n### Rates before 1 April 2021\n\nBefore 1 April 2021 the National Living Wage was for those aged 25 and over.\n\n| | 25 and over | 21 to 24 | 18 to 20 | Under 18 | Apprentice |\n\n| April 2020 to March 2021 | £8.72 | £8.20 | £6.45 | £4.55 | £4.15 |\n\n| April 2019 to March 2020 | £8.21 | £7.70 | £6.15 | £4.35 | £3.90 |",
+  "seconds": 4.49,
+  "tokens_out": 568,
+  "reader": "changed"
+ },
+ {
+  "id": "national-minimum-wage-rates#3",
+  "text": "## Who gets the minimum wage\n\nRead the information on who is entitled to the minimum wage.\n\nYou can use the minimum wage calculator to check if you get the National Minimum Wage or National Living Wage.\n\nContact Acas if you do not get the National Minimum Wage but think you should.",
+  "seconds": 1.11,
+  "tokens_out": 60,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#0",
+  "text": "You will get a letter in October or November.\nThe letter will tell you how much Winter Fuel Payment you will get.\nThis is only if you are eligible.\nIf you do not get a letter, check if you need to make a claim.\nThink you are eligible.\nThe amount you get depends on when you were born.\nThe amount also depends on your circumstances.\nYour circumstances are between 21 to 27 September 2026.\nThis time is called the 'qualifying week'.\nAny money you get will not affect your other benefits.",
+  "seconds": 1.64,
+  "tokens_out": 122,
+  "reader": "changed"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#1",
+  "text": "## If your income is over £35,000\n\nHMRC will take back your Winter Fuel Payment in one of two ways.\n\n- They may change your tax code.\n- They may add the amount to your Self Assessment tax return.\n\nYou can check if your total income is over the limit. You can also check how HMRC will take the money back.",
+  "seconds": 1.35,
+  "tokens_out": 79,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#2",
+  "text": "### If you live alone or no one you live with is eligible for the Winter Fuel Payment\n\nYou get one payment.\n\n- You get £200 if you were born between 28 September 1946 and 27 June 1960.\n- You get £300 if you were born before 28 September 1946.",
+  "seconds": 1.26,
+  "tokens_out": 81,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#3",
+  "text": "## If you live with someone else who gets Winter Fuel Payment\n\nYour payment might change if you get one of these benefits:\n\n- Pension Credit\n\n- Universal Credit\n\n- income-related Employment and Support Allowance (ESA)\n\n### If you do not get any of the benefits\n\nYou will get this amount:\n\n- £100 if you and the person you live with were both born between 28 September 1946 and 27 June 1960\n\n- £100 if you were born between 28 September 1946 and 27 June 1960 but the person you live with was born before 28 September 1946\n\n- £200 if you were born before 28 September 1946 but the person you live with was born between 28 September 1946 and 27 June 1960\n\n- £150 if you and the person you live with were both born before 28 September 1946\n\n### If you and your partner jointly claim any of the benefits\n\nOne of you will get one of these amounts:\n\n- £200 if both of you were born between 28 September 1946 and 27 June 1960\n\n- £300 if one or both of you were born before 28 September 1946\n\nYou will get paid into the bank account your benefits usually go into.\n\n### If you get any of the benefits (not as part of a joint claim)\n\nYou will get one of these amounts:\n\n- £200 if you were born between 28 September 1946 and 27 June 1960\n\n- £300 if you were born before 28 September 1946",
+  "seconds": 3.14,
+  "tokens_out": 396,
+  "reader": "changed"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#4",
+  "text": "### If you live in a care home\n\nIf you are eligible, you will get one amount.\n\n*   You will get £100. This is for people born between 28 September 1946 and 27 June 1960.\n*   You will get £150. This is for people born before 28 September 1946.",
+  "seconds": 1.38,
+  "tokens_out": 85,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#0",
+  "text": "You can get Cold Weather Payments if you get certain benefits or Support for Mortgage Interest.\n\nIf you qualify, you get these payments automatically.\n\nYou do not need to apply.\n\nYou may need to report a change if you have a baby or a child under 5 starts living with you.\n\nThe payments do not affect your other benefits.\n\nThis guide is also available in Welsh (Cymraeg).\n\nThis guide is also available in an easy read format.\n\nYou get a payment if the average temperature in your area is zero degrees celsius or below.\n\nThis temperature must last for 7 consecutive days.\n\nYou get £25 for each 7-day period of very cold weather.\n\nThis period is between 1 November 2026 and 31 March 2027.\n\nFind out if the weather where you live means you may get a payment.\n\nCheck a postcode in England or Wales.\n\nCheck a postcode in Northern Ireland.\n\nCold Weather Payments are different to Winter Fuel Payments.",
+  "seconds": 2.06,
+  "tokens_out": 213,
+  "reader": "changed"
+ },
+ {
+  "id": "cold-weather-payment#1",
+  "text": "## If you live in Scotland\n\nYou cannot get Cold Weather Payments.\n\nYou might get an annual Winter Heating Payment instead.\n\nYou’ll get this payment regardless of weather conditions in your area.",
+  "seconds": 0.83,
+  "tokens_out": 40,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#0",
+  "text": "Attendance Allowance is paid once every week.  \nThere are two different weekly payment rates.  \nThe rate you get depends on the level of help you need.  \nAttendance Allowance is not means-tested.  \nWhat you earn will not change how much you get.  \nHow much you have in savings will not change how much you get.",
+  "seconds": 1.21,
+  "tokens_out": 69,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#1",
+  "text": "## Attendance Allowance rates\n\n| Rate | Level of help you need |\n\n| Lower rate - £76.70 | You need frequent help or constant supervision during the day. You may also need supervision at night. |\n\n| Higher rate - £114.60 | You need help or supervision all day and all night. Or a medical professional has said you are nearing the end of life. |\n\nYour situation might change. If it does, your rate could be different. You must tell us about the change.\n\nGetting Attendance Allowance might give you more Pension Credit, Housing Benefit, or Council Tax Reduction. Check with the helpline or the office that handles your benefit.\n\nIf you get Constant Attendance Allowance at the same time, your Attendance Allowance goes down. It goes down by the amount of Constant Attendance Allowance you get.",
+  "seconds": 1.68,
+  "tokens_out": 178,
+  "reader": "changed"
+ },
+ {
+  "id": "pip/how-much-youll-get#0",
+  "text": "### How much Personal Independence Payment (PIP) you get depends on how difficult you find:\n\n- everyday activities (‘daily living’ tasks)\n- getting around (‘mobility’ tasks)\n\nFind out what tasks count as daily living and mobility tasks.",
+  "seconds": 1.0,
+  "tokens_out": 54,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#1",
+  "text": "## PIP amounts\n\n| | Lower weekly rate | Higher weekly rate |\n|---|---|---|\n| Daily living part | £76.70 | £114.60 |\n| Mobility part | £30.30 | £80 |\n\nPIP is tax free. You do not pay tax on it. The amount you get does not change. Your income does not change the amount. Your savings do not change the amount. Tell the Department for Work and Pensions (DWP) if your personal circumstances change. Tell the Department for Work and Pensions (DWP) if how your condition affects you changes. Tell them straight away.",
+  "seconds": 1.57,
+  "tokens_out": 142,
+  "reader": "changed"
+ },
+ {
+  "id": "pip/how-much-youll-get#2",
+  "text": "## How you're paid\n\nPIP is usually paid every 4 weeks.\n\nYour decision letter tells you:\n\n- the date of your first payment\n- what day of the week you'll usually be paid\n- how long you'll get PIP for\n- when and if your claim will be reviewed\n\nIf your payment date is on a bank holiday, you'll usually be paid before the bank holiday. After that you'll continue to get paid as normal.\n\nAll benefits, pensions and allowances are paid into your bank, building society or credit union account.",
+  "seconds": 2.42,
+  "tokens_out": 115,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#3",
+  "text": "## Other help you can get\n\nIf you get the mobility part of PIP, you might be eligible for a:\n\n- Blue Badge\n- vehicle tax discount or exemption\n- Motability Scheme vehicle, if you get the higher mobility rate of PIP\n\nIf you get either the daily living or mobility part of PIP, you are eligible for a Disabled Persons Railcard.\n\nYou may be able to get a discount on Council Tax and local bus travel. Contact your local council to check.\n\nIf someone helps to care for you, they may be able to get Carer's Allowance or Carer's Credit.\n\nFind out about other financial support for people with disabilities or health conditions.",
+  "seconds": 2.41,
+  "tokens_out": 143,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#4",
+  "text": "### If you get other benefits and PIP\n\nYou might get extra money. This extra money is called a disability premium. You get it if you get income-related Employment and Support Allowance (ESA). You get it if you get Housing Benefit. If you get Constant Attendance Allowance, you get less of the daily living part of PIP. If you get War Pensioners' Mobility Supplement, you do not get the mobility part of PIP.",
+  "seconds": 2.09,
+  "tokens_out": 92,
+  "reader": "changed"
+ },
+ {
+  "id": "marriage-allowance#0",
+  "text": "### Marriage Allowance\n\nMarriage Allowance lets you transfer £1,260 of your Personal Allowance to your husband, wife or civil partner. Your Personal Allowance is the money you can earn before you pay tax.\n\nThis reduces their tax by up to £252 in the tax year. The tax year runs from 6 April to 5 April the next year.\n\nThis guide is also available in Welsh (Cymraeg).\n\nTo get a benefit as a couple, you must earn less than your Personal Allowance. You are the lower earner. Your Personal Allowance is usually £12,570.\n\nYou can calculate how much tax you could save as a couple. You should call the Income Tax helpline if you get other income. This income could be dividends, savings or benefits from your job. Call the helpline if you do not know your taxable income.\n\nWhen you transfer some of your Personal Allowance, you might pay more tax yourself. But you could still pay less as a couple.\n\n### Example\n\nYour income is £11,500 and your Personal Allowance is £12,570. You do not pay tax.\n\nYour partner's income is £20,000 and their Personal Allowance is £12,570. They pay tax on £7,430. This £7,430 is their 'taxable income'. As a couple, you are paying Income Tax on £7,430.\n\nWhen you claim Marriage Allowance, you transfer £1,260 of your Personal Allowance to your partner. Your Personal Allowance becomes £11,310. Your partner gets a reduction of £1,260 on their taxable income.\n\nThis means you will now pay tax on £190. Your partner will only pay tax on £6,170. As a couple, you benefit. You are only paying Income Tax on £6,360 instead of £7,430. This saves you £214 in tax.",
+  "seconds": 4.05,
+  "tokens_out": 442,
+  "reader": "changed"
+ },
+ {
+  "id": "marriage-allowance#1",
+  "text": "### Who can apply\n\nYou can get Marriage Allowance if all these things are true:\n\n- You are married or in a civil partnership.\n- You do not pay Income Tax. Your income is below £12,570.\n- Your partner pays Income Tax at the basic rate. Their income is between £12,571 and £50,270 before they get Marriage Allowance.\n\nYou cannot claim Marriage Allowance if you live together but are not married or in a civil partnership.\n\nIf you live in Scotland, your partner must pay the starter, basic, or intermediate rate. Their income is usually between £12,571 and £43,662.\n\nYour application for Marriage Allowance will not change if you or your partner:\n\n- Are getting a pension.\n- Live abroad. You must get a Personal Allowance.\n\nIf you or your partner were born before 6 April 1935, you might get more money. You could apply for Married Couple’s Allowance instead.\n\nYou cannot get Marriage Allowance and Married Couple’s Allowance at the same time.",
+  "seconds": 2.55,
+  "tokens_out": 240,
+  "reader": "changed"
+ },
+ {
+  "id": "marriage-allowance#2",
+  "text": "## Backdating your claim\n\nYou can backdate your claim to 6 April 2022.\nThis covers the 2022 to 2023 tax year.\nUse this for any years you were eligible for Marriage Allowance.\n\nYour partner's tax bill will be reduced.\nThe amount depends on the Personal Allowance rate.\nThis rate applies to the years you are backdating.\n\nIf your partner has died since 5 April 2022, you can still claim.\nYou must phone the Income Tax helpline.\nIf your partner was the lower earner, the person managing their tax affairs must phone.",
+  "seconds": 2.04,
+  "tokens_out": 138,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#3",
+  "text": "## Stopping Marriage Allowance\n\nYour Personal Allowance moves to your partner every year.\nIt happens automatically.\nThis keeps going until you cancel Marriage Allowance.\nYou might cancel if your income changes.\nYou might cancel if your relationship ends.",
+  "seconds": 1.34,
+  "tokens_out": 53,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#0",
+  "text": "You get statutory redundancy pay if you are an employee and have worked for your current employer for 2 years or more.\n\nYou get:\n\n- half a week's pay for each full year you were under 22\n- one week's pay for each full year you were 22 or older, but under 41\n- one and half week's pay for each full year you were 41 or older\n\nLength of service is capped at 20 years.\n\nYour weekly pay is the average you earned per week over the 12 weeks before the day you got your redundancy notice.\n\nIf you were paid less than usual because you were 'on furlough' because of coronavirus, your statutory redundancy pay is based on what you would have earned normally.\n\nIf you were made redundant on or after 6 April 2026, your weekly pay is capped at £751 and the maximum statutory redundancy pay you can get is £22,530. If you were made redundant before 6 April 2026, these amounts will be lower.\n\nCalculate your redundancy pay.\n\nYou have 6 months from the date your job ends to apply for statutory redundancy pay.",
+  "seconds": 2.35,
+  "tokens_out": 253,
+  "reader": "changed"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#1",
+  "text": "## Exceptions\n\nYou do not get statutory redundancy pay in these cases:\n\n- Your employer offers to keep you on.\n- Your employer offers you suitable alternative work, and you refuse without a good reason.\n\nIf you are dismissed for misconduct, this is not redundancy. You would not get statutory redundancy pay if this happens.\n\nYou do not get statutory redundancy pay if you belong to one of these groups:\n\n- Former registered dock workers (covered by other arrangements) and share fishermen\n- Crown servants, members of the armed forces or police services\n- Apprentices who are not employees at the end of their training\n- A domestic servant who is a member of the employer’s immediate family",
+  "seconds": 1.66,
+  "tokens_out": 141,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#2",
+  "text": "### Short-term and temporary lay-offs\n\nYou can claim statutory redundancy pay if you are eligible.\nYou must have been temporarily laid off.\nThis means no pay or less than half a week's pay.\nYou can claim if you were laid off for more than 4 weeks in a row.\nYou can also claim if you were laid off for more than 6 non-consecutive weeks.\nThis 6 week period must be in a 13 week period.\n\nWrite to your employer.\nTell them you intend to claim statutory redundancy pay.\nYou must do this within 4 weeks of your last non-working day.\nThis last day must be in the 4 or 6 week period.\n\nIf your employer does not reject your claim within 7 days, write again.\nTell them you are giving your notice.\n\nYour claim could be rejected.\nThis happens if your normal work is likely to start within 4 weeks.\nThe work must continue for at least 13 weeks.",
+  "seconds": 1.82,
+  "tokens_out": 209,
+  "reader": "changed"
+ },
+ {
+  "id": "income-tax-rates#0",
+  "text": "How much Income Tax you pay each year depends on two things.\nIt depends on how much of your income is above your Personal Allowance.\nIt also depends on how much of your income is in each tax band.\nSome income is tax-free.\nThe current tax year is from 6 April 2026 to 5 April 2027.\nThis guide is also available in Welsh (Cymraeg).",
+  "seconds": 1.3,
+  "tokens_out": 92,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#1",
+  "text": "## Your tax-free Personal Allowance\n\nYour Personal Allowance is £12,570.  \nThis is the income you do not pay tax on.\n\n### If you earn more than £100,000\n\nYour allowance drops by £1 for every £2 you earn above £100,000.  \nYour allowance becomes zero if you earn £125,140 or more.\n\n### Blind Person’s Allowance\n\nYou may pay less tax if you claim Blind Person’s Allowance.  \nThis tax-free amount adds to your Personal Allowance.",
+  "seconds": 1.86,
+  "tokens_out": 125,
+  "reader": "changed"
+ },
+ {
+  "id": "income-tax-rates#2",
+  "text": "## Income Tax rates and bands\n\nThe table shows the tax rates you pay in each band.\nThis is if you have a standard Personal Allowance of £12,570.\n\nIncome tax bands are different if you live in Scotland.\n\n| Band | Taxable income | Tax rate |\n\n| Personal Allowance | Up to £12,570 | 0% |\n\n| Basic rate | £12,571 to £50,270 | 20% |\n\n| Higher rate | £50,271 to £125,140 | 40% |\n\n| Additional rate | over £125,140 | 45% |\n\nYou can see the rates and bands without the Personal Allowance.\n\nYou do not get a Personal Allowance on taxable income over £125,140.\n\n### If you're employed or get a pension\n\nCheck your Income Tax to see:\n\n- your Personal Allowance and tax code\n\n- how much tax you've paid in the current tax year\n\n- how much you're likely to pay for the rest of the year",
+  "seconds": 2.36,
+  "tokens_out": 247,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#3",
+  "text": "## Other allowances\n\nYou can have tax-free allowances for:\n\n- savings interest\n- dividend income if you own shares in a company\n\nYou may also have tax-free allowances for:\n\n- your first £1,000 of income from self-employment. This is your 'trading allowance'\n- your first £1,000 of income from property you rent (unless you're using the Rent a Room Scheme)\n\nFind out if you are eligible for the trading allowance and the property allowance.\n\nYou pay tax on any interest, dividends or income over your allowances.",
+  "seconds": 1.66,
+  "tokens_out": 121,
+  "reader": "changed"
+ },
+ {
+  "id": "income-tax-rates#4",
+  "text": "## Paying less Income Tax\n\nYou can pay less tax if you qualify for tax reliefs.\n\nFor example, you can get tax reliefs for:\n\n- charity donations\n\n- job expenses\n\n- private pension contributions\n\n- maintenance payments\n\n### If you're married or in a civil partnership\n\nYou may be able to claim Marriage Allowance.\n\nThis can lower your partner's tax if your income is under the standard Personal Allowance.\n\nIf you do not claim Marriage Allowance, you may be able to claim Married Couple's Allowance.\n\nThis is if you or your partner were born before 6 April 1935.",
+  "seconds": 1.56,
+  "tokens_out": 133,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#0",
+  "text": "You may pay a different tax rate on business gains.\nYou may pay a different tax rate on other assets.\nYou do not usually pay tax when you sell your home.\nYou will pay Income Tax on carried interest from 6 April 2026.\nYou will pay National Insurance contributions on carried interest from 6 April 2026.",
+  "seconds": 1.38,
+  "tokens_out": 76,
+  "reader": "changed"
+ },
+ {
+  "id": "capital-gains-tax/rates#1",
+  "text": "## If you pay higher rate Income Tax\n\nIf you pay higher or additional rate Income Tax, you pay 24% on your gains. This starts on 6 April 2026.\n\nYou can see the rates and allowance for previous years.",
+  "seconds": 1.08,
+  "tokens_out": 54,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#2",
+  "text": "## If you pay basic rate Income Tax\n\nIf you pay basic Income Tax, the rate on your gains from 6 April 2026 depends on your gain size and your taxable income.\n\nYou can see the rates and allowance for earlier years.\n\nTo work out your rate:\n\n- Work out your taxable income. This is your income minus your Personal Allowance and any other Income Tax reliefs.\n- Work out your total taxable gains.\n- Deduct your tax-free allowance from your total taxable gains.\n- Add this amount to your taxable income.\n- If this amount is within the basic Income Tax band, you pay 18% on gains from 6 April 2026.\n- For any amount above the basic Income Tax band, you pay 24% on gains from 6 April 2026.\n\n### Example 1\n\nYou make a gain on or after 6 April 2026. Your taxable income (your income minus your Personal Allowance and any Income Tax reliefs) is £20,000 and your taxable gains are £12,600.\n\nFirst, deduct the Capital Gains tax-free allowance from your taxable gain. For the 2026 to 2027 tax year the allowance is £3,000, which leaves £9,600 to pay tax on.\n\nAdd this to your taxable income. The combined amount of £29,600 is less than £37,700 (the basic rate band for the 2026 to 2027 tax year). So, you pay Capital Gains Tax at 18%.\n\nYou will pay £1,728 in Capital Gains Tax.\n\n### Example 2\n\nYou make a gain on or after 6 April 2026. Your taxable income (your income minus your Personal Allowance and any Income Tax reliefs) is £20,000 and your taxable gains are £52,600.\n\nFirst, deduct the Capital Gains tax-free allowance from your taxable gain. For the 2026 to 2027 tax year the allowance is £3,000, which leaves £49,600 to pay tax on.\n\nAdd this to your taxable income. The combined amount of £69,600 is more than £37,700 (the basic rate band for the 2026 to 2027 tax year). You will pay Capital Gains Tax at 18% on £17,700. You will then pay 24% on £31,900.\n\nYou will pay £10,842.",
+  "seconds": 3.93,
+  "tokens_out": 589,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#3",
+  "text": "## If you’re a trustee, personal representative or business\n\nTrustees or personal representatives of someone who has died pay tax at 24% from 6 April 2026.\n\nYou can see the rates and allowance for previous years.\n\n### If you qualify for Business Asset Disposal Relief\n\nFrom 6 April 2026 you pay 18% if you are a sole trader, partnership or trustee.\n\nYour gains must qualify for Business Asset Disposal Relief.\n\nYou can see the rates and allowance for previous years.\n\n### If you have gains charged at more than one rate\n\nYou use your tax-free allowance against gains charged at the highest rates.\n\nFor example, you pay 24% and 18% tax.\n\nYou can see the rates and allowance for previous years.",
+  "seconds": 1.77,
+  "tokens_out": 170,
+  "reader": "changed"
+ },
+ {
+  "id": "inheritance-tax#0",
+  "text": "### Inheritance Tax basics\n\nInheritance Tax is a tax on the estate of someone who has died.\n\nThe estate includes their property, money and possessions.\n\nThere is normally no Inheritance Tax to pay if either:\n\n- the value of your estate is below the £325,000 threshold\n- you leave everything above the £325,000 threshold to your spouse, civil partner, a charity or a community amateur sports club\n\nYou may still need to report the estate’s value even if it is below the threshold.\n\nIf you give away your home to your children or grandchildren your threshold can increase to £500,000.\n\nYour children include adopted, foster or stepchildren.\n\nIf you are married or in a civil partnership your estate is worth less than your threshold.\n\nAny unused threshold can be added to your partner’s threshold when you die.\n\nThis guide is also available in Welsh (Cymraeg).",
+  "seconds": 1.78,
+  "tokens_out": 201,
+  "reader": "changed"
+ },
+ {
+  "id": "inheritance-tax#1",
+  "text": "## Inheritance Tax rates\n\nThe standard Inheritance Tax rate is 40%.\nIt is only charged on the part of your estate that is above the threshold.\n\n### Example\n\nYour estate is worth £500,000.\nYour tax-free threshold is £325,000.\nThe Inheritance Tax charged will be 40% of £175,000 (£500,000 minus £325,000).\n\nThe estate can pay Inheritance Tax at a reduced rate of 36% on some assets.\nThis happens if you leave 10% or more of the 'net value' to charity in your will.\nThe net value is the estate's total value minus any debts.\n\n### Reliefs and exemptions\n\nSome gifts you give while you are alive may be taxed after your death.\nDepending on when you gave the gift, 'taper relief' might mean the Inheritance Tax charged on the gift is less than 40%.\n\nOther reliefs, such as Business Relief or Agricultural Relief, allow some assets to be passed on free of Inheritance Tax.\nOther reliefs, such as Business Relief or Agricultural Relief, also allow some assets to be passed on with a reduced bill.",
+  "seconds": 2.29,
+  "tokens_out": 270,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#2",
+  "text": "## Who pays the tax to HMRC\n\nMoney from your estate pays Inheritance Tax to HM Revenue and Customs (HMRC).\nThe executor pays if there is a will.\nThe executor is the person who deals with the estate.\n\nYour beneficiaries usually do not pay tax on what they inherit.\nThey might have other taxes to pay.\nThis can happen if they get rental income from a house left to them in a will.\n\nPeople you give gifts to might have to pay Inheritance Tax.\nThey only pay if you give away more than £325,000.\nThey also only pay if you die within 7 years.",
+  "seconds": 1.48,
+  "tokens_out": 136,
+  "reader": "changed"
+ },
+ {
+  "id": "driving-licence-fees#0",
+  "text": "The fee depends on what you want.\n\n- get your first full or provisional GB licence\n- get a replacement if yours has been lost, stolen, damaged or destroyed\n- change your name, address or photo\n- renew a driving licence\n- add, renew or remove an entitlement\n- exchange a driving licence, for example exchange a paper licence for a photocard\n- get your licence back after it's been taken away, for example if you've been disqualified\n\nThis service is also available in Welsh (Cymraeg).\n\nIf you apply by post, you can send cheques or postal orders.\n\nMake them payable to DVLA.\n\nThe address depends on what you're applying for.\n\nDo not send damaged or altered cheques.\n\nThey will not be accepted.\n\nThere are different driving licence fees in Northern Ireland.",
+  "seconds": 1.6,
+  "tokens_out": 173,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#1",
+  "text": "## Get your first GB driving licence\n\n| | Apply online | Apply by post |\n\n| You can get a first provisional licence for a car, motorcycle, or moped. | £34 | £43 |\n\n| You can get a first full driving licence after you pass your test. | N/A | Free | £17 if you want to use a different photo from your provisional. |\n\n| You can get a first full GB licence by trading your full European Community, European Economic Area, or other designated foreign licence. | N/A | £43 |",
+  "seconds": 1.47,
+  "tokens_out": 119,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#3",
+  "text": "## Change the name, address or photo on your photocard driving licence\n\nThe cost depends on what you change.\nThe cost also depends on how you change it.\n\n| What you’re changing | Change online | Change by post |\n\n| Address | Free | Free |\n\n| Name | N/A | Free |\n\n| Photo | £14 | £17 |\n\n| Photo and name at the same time | N/A | £17 |\n\n| Photo and address at the same time | £14 | £17 |",
+  "seconds": 1.33,
+  "tokens_out": 113,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#4",
+  "text": "## Renew a driving licence\n\nPhotocard licences work for 10 years unless told otherwise.\nYou will get a reminder to renew your photo before your licence ends.\n\n| | Apply online | Apply by post |\n|---|---|---|\n| Renewing an expired driving licence | £14 | £17 |\n| Renewing because you're 70 or over | Free | Free |\n\nYou can also renew your expired licence at a Post Office.\nIt costs £21.50.",
+  "seconds": 1.39,
+  "tokens_out": 110,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#5",
+  "text": "## Renew a short-term medical driving licence\n\nYou can renew your short-term medical driving licence for free.\n\nYou can renew online if you have diabetes.\n\nYou can renew online if you have epilepsy.\n\nYou can renew online if you have Parkinson’s disease.\n\nYou can renew online if you have a visual impairment.\n\nYou can renew online if you have a sleep condition.\n\nYou can renew online if you have a heart condition.",
+  "seconds": 1.14,
+  "tokens_out": 90,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#6",
+  "text": "## Add, renew or remove an entitlement\n\n| | Apply online | Apply by post |\n| :--- | :--- | :--- |\n| Adding entitlement to full or provisional licence. This means you can drive a bus or lorry. | N/A | Free |\n| Renewing entitlement to drive a bus or lorry. | N/A | Free |\n| Giving up entitlement to drive bus or lorry. | N/A | Free |\n\nYou can also change your photo at the same time.\nIt costs £17.",
+  "seconds": 1.41,
+  "tokens_out": 113,
+  "reader": "changed"
+ },
+ {
+  "id": "driving-licence-fees#7",
+  "text": "## Exchange a paper or non-GB driving licence\n\n| What you're exchanging | Apply online | Apply by post |\n|---|---|---|\n| Paper licence for photocard with change of address | Free | Free |\n| Paper licence for photocard with change of name | Not available online | Free |\n| Paper licence for photocard with no change of details | £20 | £20 |\n| Full Northern Ireland licence in exchange for a GB licence | Not available online | Free |\n| Full European Community, European Economic Area or other designated foreign licence, if a previous GB licence held | Not available online | Free |\n| Full European Community, European Economic Area or other designated foreign licence, if a previous GB licence not held | Not available online | £43 |",
+  "seconds": 1.6,
+  "tokens_out": 166,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#8",
+  "text": "### Get your licence back after it’s been taken away\n\nThe fee changes.\nIt depends on why your licence was taken away.\nIt also depends on how you got it back.\n\n| How you got your licence back | Apply online | Apply by post |\n|---|---|---|\n| You were disqualified for any reason except drink driving | N/A | £65 |\n| You were disqualified for drink driving and you need to pass a medical exam with a DVLA doctor | N/A | £90 |\n| You were disqualified for drink driving and you do not need to pass a medical exam | N/A | £65 |\n| You’ve got your licence back after it was revoked under the New Drivers Act | N/A | £50 |\n| You’ve got your licence back after it was revoked for not handing it over to DVLA or at court | N/A | Free |\n\nYou cannot apply online.\nYou must apply by post.",
+  "seconds": 1.62,
+  "tokens_out": 204,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#1",
+  "text": "## What's Extra Help?\n\nExtra Help is a Medicare program.\nIt helps people with limited income and resources.\nThey pay for Medicare drug coverage (Part D).\nThe program pays for premiums, deductibles, coinsurance, and other costs.\n\nWhat is a premium, deductible, coinsurance, or copayment?\n\nYou do not pay a Part D late enrollment penalty while you get Extra Help.\nWhat is the Part D penalty?\n\nSome people qualify for Extra Help automatically.\nOther people must apply.\n\nExtra Help is not available in Puerto Rico, the U.S. Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa.\nOther programs exist in those areas.\nThey help people with limited income and resources.\nPrograms vary in these areas.\nCall your State Medical Assistance (Medicaid) office to learn more.",
+  "seconds": 2.34,
+  "tokens_in": 315,
+  "tokens_out": 177,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#2",
+  "text": "## Who gets Extra Help automatically?\n\nYou get Extra Help automatically if you get any of these:\n\n- Full-benefit Medicaid coverage\n- Help from your state paying your Part B premiums (from a Medicare Savings Program)\n- Supplemental Security Income (SSI) payments from Social Security\n\nYou get a notice in the mail about your Extra Help.\nIt tells you how much you pay.\nIt also tells you your new Medicare drug plan, if you do not have one already.\n\nIf you do not get Extra Help automatically, you can apply for it:\n\nApply for Extra Help\n\nYou can also contact your local State Health Insurance Assistance Program (SHIP) to get free help applying.\n\nYou can apply for Extra Help and Medicare Savings Programs (MSPs) at the same time.\nThese state programs provide help with other Medicare costs.\nSocial Security will send information to your state to start an MSP application unless you tell them not to on the Extra Help application.\nLearn more about Medicare Savings Programs.",
+  "seconds": 2.14,
+  "tokens_in": 350,
+  "tokens_out": 208,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#3",
+  "text": "## Who should apply for Extra Help?\n\nMost people need income and resources below a limit. These limits change every year.\n\nHere are the limits for 2026:\n\n| Your situation: | Income limit: What counts in income limits? | Resource limit: What counts in resource limits? |\n|---|---|---|\n| Individual | $23,940 | $18,090 |\n| Married couple | $32,460 | $36,100 |\n\nWhat are the limits if you live in Alaska or Hawaii?",
+  "seconds": 1.91,
+  "tokens_in": 282,
+  "tokens_out": 126,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#4",
+  "text": "## If you qualify for Extra Help\n\nWe will put you in a Medicare drug plan (Part D) if you do not have one. We do this so you can save money.\n\n- You will get a notice that tells you:\n  - What your new plan is. You can choose a different Medicare drug plan if you want.\n  - That you get Extra Help for the rest of the calendar year. Even if your income changes, you will keep Extra Help through December 31.\n\n- If you meet the income and resource limits for next year, you will keep Extra Help. We will mail you a notice only if:\n  - You no longer qualify for Extra Help.\n  - You are moved to a different plan for next year.\n\n- If you do not get a notice from Medicare or Social Security, you will keep Extra Help. You will also keep the same plan for next year.",
+  "seconds": 2.29,
+  "tokens_in": 344,
+  "tokens_out": 189,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#5",
+  "text": "## What you'll pay under Extra Help in 2027\n\n- Plan premium: $0\n- Plan deductible: $0\n\nPrescriptions you fill at one of your plan's participating pharmacies:\n\n- Up to $5.80 for each generic drug\n- Up to $14.40 for each brand-name drug\n\nOnce your total drug costs reach $2,400, you pay $0 for each covered drug.\n\nYour total drug costs include certain payments made on your behalf. These payments can come from the Extra Help program.\n\nIf you have full Medicaid coverage, you may be in the Qualified Medicare Beneficiary (QMB) program.\n\nIf you are in the QMB program, you pay no more than $4.90 for each covered drug.\n\nFind out if you may qualify for QMB or other Medicare Savings Programs.\n\nLearn more about the letters you get when you qualify for Extra Help.\n\nYou can reapply for Extra Help any time if your income changes.\n\nYou can reapply for Extra Help any time if your resources change.",
+  "seconds": 2.03,
+  "tokens_in": 357,
+  "tokens_out": 226,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#6",
+  "text": "## Do you think you're paying the wrong amount for your prescription(s)?\n\nIf you qualify for Extra Help and think you're paying the wrong amount, here's what you can do:\n\n- Contact your drug plan. Your plan may ask for proof that you get Extra Help. They need this to correct your costs. Get examples of proof.\n\nTell your plan how many days of medication you have left. Your plan and Medicare will try to fix your issue. They will do this before you run out of your medication.\n\n- Call us at 1-800-MEDICARE (1-800-633-4227). TTY users can call 1-877-486-2048. We can tell you your level of Extra Help. We can also help you get your costs fixed with the plan.\n\nMedicare's Limited Income Newly Eligible Transition (LI NET) Program gives temporary Medicare Part D drug coverage. It is for people who qualify for Extra Help or Medicaid. These people are not enrolled in a Medicare drug plan yet. You may be able to get some money back. This is if you paid for covered Part D drugs after you qualified for LI NET. Keep your receipts with your prescription drug prices. Call LI NET at 1-800-783-1307. TTY users can call 711. Someone will be available to take your call from 8 a.m. – 7 p.m. Eastern time (ET).\n\nMost people with Medicare can only switch plans at certain times of the year. If you have Medicaid or get Extra Help, you may be able to change your drug coverage once per month.",
+  "seconds": 2.98,
+  "tokens_in": 490,
+  "tokens_out": 358,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/drug-costs#7",
+  "text": "### Other ways to lower your prescription drug costs:\n\n- Join Medicare drug coverage (Part D):\n- Compare Medicare drug plans to find a plan with lower drug costs.\n- Check if the company that makes your drug offers help paying for it.\n- Find out if your state offers help with drug costs.\n\n- Ask your doctor if you can take a generic drug, or a cheaper brand-name drug (if one’s available).\n- Check costs for mail-order pharmacies. Sometimes using a mail order pharmacy is cheaper.\n- Learn if the Medicare Prescription Payment Plan might be able to help you manage your costs.\n- Visit TrumpRx.gov:\n- Find special offers and the lowest cash price on prescription drugs. You can't buy drugs directly from TrumpRx.\n- Compare TrumpRx prices with what you pay under your plan to make sure you get the best price.\n- TrumpRx and other types of discount cards aren't considered creditable coverage. When you use them (instead of your Medicare plan) to buy drugs, it doesn't count toward your Medicare deductible or out-of-pocket maximum.",
+  "seconds": 1.9,
+  "tokens_in": 374,
+  "tokens_out": 226,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#0",
+  "text": "Get help from your state to pay your Medicare Part A (Hospital Insurance) and Part B (Medical Insurance) premiums through a Medicare Savings Program.\nIf you qualify, Medicare Savings Programs might also pay your Part A and Part B deductibles, coinsurance, and copayments.\n\nYou’ll apply for Medicare Savings Programs through your state.\nWhen you apply, your state decides which program(s) you qualify for.\nEven if you don’t think you qualify, you should still apply.\n\nWhat's a premium, deductible, coinsurance, or copayment?",
+  "seconds": 1.57,
+  "tokens_in": 260,
+  "tokens_out": 116,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#1",
+  "text": "## How to qualify for the 4 Medicare Savings Programs\n\nYour income must be low. Your resources must be low. This is the rule for most cases. The limits go up every year.\n\nYou may still qualify in your state. This can happen if your income is higher. This can happen if your resources are higher than the federal limits. Some states do not count some income. Some states do not count some resources. They use these rules to decide who qualifies.\n\nContact your state",
+  "seconds": 1.55,
+  "tokens_in": 242,
+  "tokens_out": 100,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#2",
+  "text": "## Qualified Medicare Beneficiary (QMB) Program\n\nThis program helps pay for specific costs. It pays Part A premiums if you do not have free Part A. It also pays Part B premiums, deductibles, coinsurance, and copayments. These payments cover services and items that Medicare covers.\n\nHere are the monthly income and resource limits for 2026.\n\n| Your situation: | Monthly income limit:* | Resource limit: What counts in resource limits? |\n| --- | --- | --- |\n| Individual | $1,350 | $9,950 |\n| Married couple | $1,824 | $14,910 |\n\n* Income limits are slightly higher in Alaska and Hawaii. You might qualify in other states even if your income or resources are higher than the federal limits listed. Contact your state to find out.\n\nIf you qualify for the QMB program:\n\n- Medicare providers cannot bill you for services and items that Medicare covers. This includes deductibles, coinsurance, and copayments. What should I do if I get a bill?\n- You might get a bill for a small Medicaid copayment if one applies.\n- You will also get Extra Help to pay for your prescription drugs. You will pay no more than $12.65 in 2026 for each drug covered by your Medicare drug plan.\n\nShow your Medicare card and Medicaid card every time you get care. You can also show your QMB card. If you have Original Medicare, you can show one of your claims statements. These statements are called Medicare Summary Notices. They show that you are in the QMB program. Get a sample of a Medicare Summary Notice.",
+  "seconds": 2.91,
+  "tokens_in": 485,
+  "tokens_out": 358,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#3",
+  "text": "## Specified Low-Income Medicare Beneficiary (SLMB) Program\n\nThis program helps pay for Part B premiums only. You must have both Part A and Part B to qualify.\n\nHere are the monthly income and resource limits for 2026:\n\n| Your situation: | Monthly income limit:* | Resource limit: What counts in resource limits? |\n| Individual | $1,616 | $9,950 |\n| Married couple | $2,184 | $14,910 |\n\n* Income limits are slightly higher in Alaska and Hawaii. You may qualify in other states even if your income or resources are higher than the federal limits listed. Contact your state to find out.\n\nIf you qualify for the SLMB Program: \n\n- You will also get Extra Help paying for your prescription drugs.\n- You will pay no more than $12.65 in 2026 for each drug your Medicare drug plan covers.",
+  "seconds": 1.85,
+  "tokens_in": 352,
+  "tokens_out": 205,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#4",
+  "text": "## Qualifying Individual (QI) Program\n\nThis program helps pay for Part B premiums. You must have both Part A and Part B to qualify.\n\nThe 2026 limits for monthly income and resources are:\n\n| Your situation: | Monthly income limit:* | Resource limit: What counts in resource limits? |\n| Individual | $1,816 | $9,950 |\n| Married couple | $2,455 | $14,910 |\n\n* Income limits are slightly higher in Alaska and Hawaii. You may qualify in other states for these programs even if your income or resources are higher than the federal limits listed. Contact your state to find out.\n\nIf you qualify for the QI program:\n\n- You must apply every year to stay in the QI Program.\n- States approve applications on a first-come, first-served basis. Priority is given to people who got QI benefits the previous year.\n- You will also get Extra Help paying for your prescription drugs. You will pay no more than $12.65 in 2026 for each drug your Medicare drug plan covers.\n\nQI is only available for people who do not qualify for any other Medicaid coverage or benefits. You may qualify for help from another Medicare Savings Program.",
+  "seconds": 2.42,
+  "tokens_in": 420,
+  "tokens_out": 275,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/help/medicare-savings-programs#5",
+  "text": "## Qualified Disabled & Working Individual (QDWI) Program\n\nYou may qualify for the QDWI Program if you meet these rules.\nYou must have a disability.\nYou must be working.\nYou lost your Social Security disability benefits.\nYou also lost your Medicare premium-free Part A.\nYou lost these benefits because you returned to work.\n\nThis program helps pay for Part A premiums only.\n\nThe monthly income and resource limits for 2026 are listed below.\n\n| Your situation: | Monthly income limit:* | Resource limit: What counts in resource limits? |\n| Individual | $5,405 | $4,000 |\n| Married couple | $7,299 | $6,000 |\n\n*Income limits are slightly higher in Alaska and Hawaii.\nYou may qualify in other states for these programs.\nThis is true even if your income or resources are higher than the federal limits listed.\nContact your state to find out.",
+  "seconds": 2.07,
+  "tokens_in": 324,
+  "tokens_out": 208,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#0",
+  "text": "### What you pay\n\nYour Medicare costs depend on your coverage. They also depend on the services you use. You can find costs for each part of Medicare. You can also learn what you pay out-of-pocket.\n\n### What is a premium?\n\nA premium is what you pay each month for Part A or Part B. You must pay this even if you do not use any medical care.\n\n### What is a deductible?\n\nA deductible is the amount you pay for covered services each year. You must pay this amount before your insurance pays.\n\n### What is coinsurance?\n\nCoinsurance is the part of the bill you pay for a service. Your insurance pays the rest. You pay a set percentage of the total cost.\n\n### What is a copayment?\n\nA copayment is a set dollar amount you pay for a service. Your insurance pays the rest of the bill. You pay this each time you get care.",
+  "seconds": 1.66,
+  "tokens_in": 198,
+  "tokens_out": 191,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#2",
+  "text": "## Part A (Hospital Insurance) costs\n\n| Part A costs: | What you pay in 2026: |\n| --- | --- |\n| **Premium**<br>Monthly | **$0** for most people. This is because they or a spouse paid Medicare taxes long enough while working. They worked for at least 10 years. If you get Medicare before age 65, you will not pay a Part A premium. This is sometimes called \"premium-free Part A.\"<br><br>Do I qualify for premium-free Part A?<br><br>If you don't qualify for premium-free Part A, you might be able to buy it. You will pay either **$311** or **$565** each month. The amount depends on how long you or your spouse worked and paid Medicare taxes.<br><br>Remember: You also must sign up for Part B to buy Part A. Learn more about how Medicare works.<br><br>If you don't buy Part A when you are first eligible for Medicare, you might pay a penalty. You are usually eligible when you turn 65. Find out more about how to avoid the Part A penalty. |\n| **Deductible**<br>Each benefit period | **$1,736** for each inpatient hospital benefit period. You must pay this before Original Medicare starts to pay.<br><br>You pay the Part A deductible each time you start a new benefit period. There is no limit to the number of benefit periods you can have in a year. This means you may pay the deductible more than once in a year. How do benefit periods work? |\n| **Inpatient stay**<br>Daily<br>What's not covered? | During a benefit period, what you pay depends on how long you get care.<br>• Days 1-60: **$0** each day after you pay your Part A deductible.<br>• Days 61-90: **$434** each day.<br>• Days 91-150: **$868** each day while using your 60 lifetime reserve days.<br>• After day 150: You pay all costs.<br><br>What will I pay if I get mental health services as an inpatient? |\n| **Skilled nursing facility stay**<br>Daily | During a benefit period, what you pay depends on how long you get care.<br>• Days 1-20: **$0** each day after you pay the Part A deductible.<br>• Days 21-100: **$217** each day.<br>• Days 101 and beyond: You pay all costs.<br><br>You don't have to pay the Part A deductible for skilled nursing facility care if you already paid it for care you got in a hospital during the same benefit period. |\n| **Home health care** | **$0** for covered home health care services.<br>20% of the Medicare-approved amount for durable medical equipment. Examples include wheelchairs, walkers, hospital beds, and other equipment. |\n| **Hospice care** | **$0** for covered hospice care services.<br>A copayment of up to **$5** for each prescription drug and other similar products. These products are for pain relief and symptom control while you're at home. What if my hospice care doesn't pay for my drug?<br>5% of the Medicare-approved amount for inpatient respite care. What's not covered? |\n| **Out-of-pocket limit**<br>Yearly | There's no yearly limit on what you pay out-of-pocket. This rule applies unless you have supplemental coverage. You might have a Medicare Supplement Insurance (Medigap) policy or join a Medicare Advantage Plan (Part C). |",
+  "seconds": 5.24,
+  "tokens_in": 861,
+  "tokens_out": 820,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#3",
+  "text": "## Part B (Medical Insurance) costs\n\n| Part B costs: | What you pay in 2026: |\n\n| Premium Monthly | $202.90 each month. This amount might be higher if your income is high. The amount can change each year. You pay the premium every month. You pay it even if you do not get any Part B-covered services.\n\nSome people pay a higher Part B premium because of their income. You might pay a monthly Part B late enrollment penalty. You pay this if you do not sign up for Part B when you are first eligible for Medicare. You are usually eligible when you turn 65. You pay the penalty for as long as you have Part B. The penalty gets higher the longer you wait to sign up. Find out how the Part B penalty works and how to avoid it.\n\n| Deductible Yearly | $283 before Original Medicare starts to pay. You pay this deductible once each year.\n\n| General costs for services (coinsurance) Per service | Usually 20% of the cost for each Medicare-covered service or item. You pay this after you have paid your deductible. You pay this only if your doctor or health care provider accepts the Medicare-approved amount as full payment. This is called “accepting assignment”. Find out how assignment affects what you pay.\n\n| Clinical laboratory services | $0 for covered clinical laboratory services.\n\n| Home health care | $0 for covered home health care services.\n\n| Durable medical equipment | 20% of the Medicare-approved amount for durable medical equipment. Examples include wheelchairs, walkers, hospital beds, and other equipment.\n\n| Inpatient hospital care Per service | 20% of the Medicare-approved amount for most doctor services while you are a hospital inpatient.\n\n| Outpatient mental health care | $0 for your yearly depression screening.\n\n| Outpatient mental health care | 20% of the Medicare-approved amount for visits to your doctor or other health care provider. This covers visits to diagnose or treat your condition.\n\n| Outpatient mental health care | If you get your services in a hospital outpatient clinic or hospital outpatient department, you may have to pay an additional amount to the hospital.\n\n| Partial hospitalization mental health care Per service | After you meet the Part B deductible, you pay 20% of the Medicare-approved amount. This is for each service you get from a doctor or certain other qualified mental health professional.\n\n| Partial hospitalization mental health care Per service | You also pay coinsurance for each day of partial hospitalization services. This applies if you get services in a hospital outpatient setting or community mental health center.\n\n| Outpatient hospital care Per service | Usually 20% of the Medicare-approved amount for a doctor's and other health care provider's services.\n\n| Outpatient hospital care Per service | You also pay a copayment to the hospital for each service you get in a hospital outpatient setting. This does not apply to certain preventive services.\n\n| Outpatient hospital care Per service | In most cases, your copayment will not be more than the Part A hospital stay deductible amount.\n\n| Outpatient hospital care Per service | This additional hospital copayment means you may pay more for an outpatient service you get in a hospital. You would pay less if you got the same service in a doctor’s office. Compare outpatient procedure costs under Original Medicare.\n\n| Out-of-pocket limit Yearly | There is no yearly limit on what you pay out-of-pocket. You only have a limit if you have supplemental coverage. Examples include a Medicare Supplement Insurance (Medigap) policy or a Medicare Advantage Plan (Part C).\n\nGet help with Part A & Part B costs\nIf you have limited income and resources, you may be able to get help from your state. This help pays your premiums and other costs. Learn more about help with costs.\n\nBack to top",
+  "seconds": 4.93,
+  "tokens_in": 867,
+  "tokens_out": 810,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#4",
+  "text": "## Medicare Advantage Plan (Part C) costs\n\n| Medicare Advantage Plan costs: | What you pay in 2026: |\n\n| Premiums & other costs (like deductibles, copayments & coinsurance) | The amount changes by plan. These amounts change each year. You must have Part B. You must keep paying your Part B premium. This is to stay in your plan. Will my Medicare Advantage Plan help pay my Part B premium? Compare costs for specific health care plans. |\n\n| Out-of-pocket limitYearly | The amount changes by plan. Once you pay the plan’s limit, the plan pays 100% of your covered health services. This is for the rest of the calendar year. |\n\nWhere can I get more cost details from my plan?\n\nLearn more about Medicare Advantage Plans.\n\nBack to top",
+  "seconds": 1.86,
+  "tokens_in": 315,
+  "tokens_out": 177,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#5",
+  "text": "## Medicare drug coverage (Part D) costs\n\n| Part D costs: | What you pay in 2026: |\n\n-\n-\n\n| PremiumMonthly | Plans cost different amounts. Your income might make you pay more. Who pays a higher Part D premium because of income? 2 ways to avoid paying a Part D late enrollment penalty: Get Medicare drug coverage when you first get Medicare Part A and/or Part B, andDo not go 63 days or more without creditable drug coverage (coverage that is similar in value to Part D).Find out more about the Part D penalty. |\n\n| Deductibles, copayments & coinsurance | Plans and pharmacies cost different amounts. Find Medicare drug plans in your area, and compare their costs and coverage. |\n\n| Out-of-pocket limitYearly | $2,100 (in 2026). This limit includes your deductible, out-of-pocket spending, and certain payments made on your behalf, like through the Extra Help program. |\n\nLearn more about Part D.\n\nGet help with drug costs\nIf you have limited income and resources, you may be able to get Extra Help to pay your plan premiums and other drug costs. If you qualify, you will not have to pay the Part D late enrollment penalty. Learn more about help with costs.\n\nBack to top",
+  "seconds": 2.57,
+  "tokens_in": 430,
+  "tokens_out": 280,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs#6",
+  "text": "## Medicare Supplement Insurance (Medigap) costs\n\n| Medigap costs: | What you pay in 2026: |\n\n| PremiumMonthly | The price changes based on the Medigap policy you choose and where you live. It can also change each year. Other factors might affect the price. You must have Part B to keep your Medigap policy. You must keep paying your Part B premium to keep your policy. |\n\n-\n-\n\n| Other costs | Medigap usually helps pay your share of the costs for services. These costs include deductibles and coinsurance for services that Part A and Part B cover in Original Medicare. The amount you pay for Part A and Part B services depends on the policy you buy. Some Medigap policies have extra benefits to lower your costs. These benefits might include coverage when you travel out of the country. |\n\nLearn more about Medigap and its costs.\n\nBack to top",
+  "seconds": 2.02,
+  "tokens_in": 337,
+  "tokens_out": 197,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#0",
+  "text": "### Late enrollment penalties\n\nSign up for Medicare during your Initial Enrollment Period unless you have other similar coverage, like from an employer. If you do not sign up on time, you may have to pay an extra amount called a late enrollment penalty.\n\nLate enrollment penalties:\n\n- Are added to your monthly premium.\n- Are not a one-time late fee.\n- Are usually charged for as long as you have that type of coverage. For most people, this is a lifetime penalty. The Part A penalty is different.\n- Go up the longer you wait to sign up. They are based on how long you go without coverage similar to Medicare. Find out when you should sign up to avoid penalties.",
+  "seconds": 1.67,
+  "tokens_in": 296,
+  "tokens_out": 144,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#1",
+  "text": "## Part A late enrollment penalty\n\n- Some people must buy Part A.\n- These people do not qualify for premium-free Part A.\n- Do I qualify for premium-free Part A?\n- If you must buy Part A, your monthly premium may go up 10%.\n- You must wait to buy Part A if you do not buy it when you are first eligible for Medicare.\n- You will have to pay the penalty.\n- The penalty lasts for twice the number of years you did not sign up.\n\nExample:\n- If you were eligible for Part A for 2 years, you did not sign up.\n- You will pay the higher premium for 4 years.\n- Usually, you do not have to pay a penalty.\n- This happens if you meet certain conditions.\n- These conditions allow you to sign up for Part A during a Special Enrollment Period.\n- Find out if you’re eligible for a Special Enrollment Period.",
+  "seconds": 2.14,
+  "tokens_in": 316,
+  "tokens_out": 200,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#2",
+  "text": "### Part B late enrollment penalty\n\n- You usually do not pay a Part B penalty if you qualify for a Special Enrollment Period.\n- You also do not pay a penalty if you enroll in a Medicare Savings Program.\n- Learn more about Special Enrollment Periods.\n- You pay an extra 10% for each year you could have signed up for Part B.\n- You must pay this extra amount only if you did not sign up during that year.\n- You may pay a higher premium if you earn more money.\n\nExample:\n\n- If you waited 2 full years (24 months) to sign up for Part B, you pay a 20% late enrollment penalty.\n- You paid this because you did not qualify for a Special Enrollment Period.\n- The penalty is 10% for each full 12-month period that you could have signed up.\n- You also pay the standard Part B monthly premium ($202.90 in 2026).\n\n2026 Calculation:\n\n- $202.90 (2026 Part B standard premium)\n- + $40.58 (20% [of $202.90] late enrollment penalty)\n- = $243.48\n\n- $243.50 will be your Part B monthly premium for 2026.\n- This amount ($243.48) is rounded to the nearest $.10.\n- This total includes the late enrollment penalty.",
+  "seconds": 2.93,
+  "tokens_in": 427,
+  "tokens_out": 327,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/medicare-costs/avoid-penalties#3",
+  "text": "### Part D late enrollment penalty\n\n- You usually will not pay a Part D penalty if you have creditable drug coverage.\n- Creditable drug coverage means coverage that is similar in value to Part D.\n- You also will not pay a penalty if you qualify for Extra Help.\n- You will pay an extra 1% for each month you do not join.\n- That extra amount is 12% a year.\n- You pay this extra if you do not join a Medicare drug plan when you first get Medicare.\n- You pay this extra if you go 63 days or more without creditable drug coverage.\n- You may also pay a higher premium depending on your income.\n- After you join a Medicare drug plan, the plan will tell you if you have to pay a penalty.\n- The plan will also tell you what your premium will be.\n\n### What if I don't agree with the Part D late enrollment penalty?\n\n- If you waited 14 months after you were eligible for Medicare to join a Medicare drug plan, you will pay a penalty.\n- You must pay this penalty if you did not have creditable drug coverage.\n- Your penalty will be 14% of the national base beneficiary premium.\n- You will pay this 14% penalty in addition to your monthly plan premium.\n\n- The penalty amount comes from the \"national base beneficiary premium\" ($38.99 in 2026).\n- The national base beneficiary premium changes each year.\n- Your penalty amount may also change each year.\n- This monthly penalty is added for as long as you have Medicare drug coverage.\n- You still pay this penalty even if you switch plans.\n\n### In 2026:\n\n- $38.99 (2026 national base beneficiary premium)\n- X 0.14 (14% penalty)\n- = $5.46 (rounded to the nearest $0.10 = $5.50)\n- $5.50 will be your monthly penalty for 2026.\n- This amount is added to your plan's monthly premium for 2026.",
+  "seconds": 3.39,
+  "tokens_in": 535,
+  "tokens_out": 463,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/pay-premiums#0",
+  "text": "Most people have their Medicare Part B premium taken from their Social Security benefit. Some have it taken from their Railroad Retirement Board benefit.\n\nWhat if I get a retroactive payment from Social Security?\n\nIf you do not get a benefit from Social Security or the Railroad Retirement Board, Medicare will send you a bill. You can see a sample of the Medicare bill.\n\n| If you pay for: | You’ll get a bill: |\n| Part B only (this includes your Part B income-related monthly adjustment amount, if you owe one) | Every 3 months Why is my first bill higher than I expected? |\n| Part A (Hospital Insurance) | Every month |\n| Part D income-related monthly adjustment amount (Part D IRMAA) | Every month |\n\nWhat if I get a premium bill from the Railroad Retirement Board?\n\nGet more details if you are a federal retiree.\n\nGet help paying premiums & costs\n\nIf you have limited income or resources, your state may help you pay. This help can cover premiums. It can also cover other costs like deductibles, coinsurance, and copays. Learn more about help with Part A & Part B costs.",
+  "seconds": 2.1,
+  "tokens_in": 392,
+  "tokens_out": 243,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/costs/pay-premiums#1",
+  "text": "## 4 ways to pay your Medicare premium bill\n\nYou can pay your Medicare premium using any of the 4 ways below. Some options are faster and easier.\n\n### Through your Medicare account\n| Payment method | How to use it | Why to use it |\n\n| Online through your Medicare accountPay my premium now | Log into (or create) your secure Medicare account.Select \"Pay my premium.\"Choose your payment method, like credit/debit card, Health Savings Account (HSA) card, or checking or savings account, and enter the amount you want to pay.You'll then be linked to the U.S. Treasury's secure Pay.gov site to complete your payment.Use only your Medicare account to pay your premiums.Don't create or use a Pay.gov account to make your Medicare payment.You'll get a confirmation number for your payment. It takes about 5 business days for your checking or savings account payment to process—credit card payments process faster. | This is the fastest way to pay your premium.Your payment is safe and secure. |\n\n| Online recurring payments (Medicare Easy Pay)Get more details about how Easy Pay works. | 2 ways to sign up for Medicare Easy Pay:Log into (or create) your secure Medicare account, then select \"My Premiums\" and then \"Sign Up\" to complete a short, online form.Fill out, print and mail the \"Authorization Agreement for Pre-authorized Payments\" form (SF-5510) in English or in Spanish.Deductions are on the 20th of the month (or the next business day). It can take up to 6-8 weeks for your automatic deductions to start. Until your automatic deductions start, you'll need to pay your premiums another way. If we can't set up Medicare Easy Pay for you, we'll send you a letter explaining why. Can I sign up if I get a bill from the Railroad Retirement Board? | With this free service, we'll automatically deduct your premium payments from your savings or checking account each month.The amount being deducted from your account will update automatically when your premium changes.Your payment is safe and secure. |\n\n### Through your bank \n\nPay directly from your savings or checking account through your bank's online bill payment service. Some banks charge a service fee. Get details so your payment goes through on time.\n\n### Through the mail\n\nPay by check, money order, credit card, debit card, or Health Savings Account (HSA) card. Fill out the payment coupon at the bottom of your bill and include it with your payment. Payments made by mail take longer to process than payments made quickly and securely through your online Medicare account. \n\n- If you're paying by credit card, debit card, or HSA card, be sure to complete and sign the payment coupon. If you don't sign the coupon, we can't process your payment and it will be returned to you.\n- Use the return envelope that came with your bill, and mail your Medicare payment coupon and payment to:\nMedicare Premium Collection Center\nPO Box 790355\nSt. Louis, MO 63179-0355\n\nWhat if I get a premium bill from the Railroad Retirement Board?\n\nDon't risk losing your Medicare coverage\nIf you're mailing your payment, always include your payment coupon with your payment. This helps us apply your payment to your account. We can't process your payment on time without the coupon. If you don't have your payment coupon, write your Medicare Number on the check or money order.  \n\nIf your payment isn't processed on time, you risk losing your coverage. The fastest way to pay your premium is online through your Medicare account or using Medicare Easy Pay.",
+  "seconds": 4.46,
+  "tokens_in": 939,
+  "tokens_out": 767,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/costs/pay-premiums#2",
+  "text": "## When are Medicare premiums due?\n\nAll Medicare bills are due on the 25th of the month. In most cases, your premium is due the same month that you get the bill. This is an example of our billing timeline.\n\nFor your payment to be on time, we must get your payment by the due date on your bill. Submit your payment at least 5 business days before the due date. This helps us get it on time.\n\n### What if your Medicare premium payment is late?\n\nIf you miss a payment, your next bill will include a past due amount. If we get your payment late, your next bill will also include a past due amount.\n\nIf you get a Medicare premium bill that says \"Delinquent Bill\" at the top, pay the total amount due. If you do not, you will lose your Medicare coverage. Get a sample of the delinquent bill in English. (In Spanish.)",
+  "seconds": 2.04,
+  "tokens_in": 326,
+  "tokens_out": 194,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#0",
+  "text": "You have Medicare Part A (Hospital Insurance). You also have Medicare Part B (Medical Insurance). Or you have both. You can choose a Medicare health plan. You can choose a Medicare drug plan. Pick the plan that fits your needs. This page explains if you can join a plan. This page explains when you can join. This page explains how you can join.",
+  "seconds": 1.07,
+  "tokens_in": 203,
+  "tokens_out": 75,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#2",
+  "text": "## Am I eligible?\n\nYou must have Medicare Part A and/or Part B to join a health plan or drug plan.  \nYou must be a U.S. citizen or U.S. national.  \nYou must be a lawful permanent resident (green card holder).  \nYou must be a Cuban-Haitian entrant.  \nYou must be living in the U.S. as a Compact of Free Association (COFA) migrant.  \nYou must live in the service area of the plan you want to join.  \nYou must have your Medicare Number.  \nYou must have your Part A and/or Part B coverage start dates.  \nFind this information on your Medicare card.",
+  "seconds": 1.49,
+  "tokens_in": 269,
+  "tokens_out": 136,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#3",
+  "text": "## When can I join?\n\nYou can join, switch, or drop a plan at certain times.\nThese times are called enrollment periods.\nYou can use these periods for Medicare Advantage Plans (Part C).\nYou can also use them for plans with or without drug coverage.\nYou can use them for other Medicare health plans.\nYou can use them for Medicare drug plans.",
+  "seconds": 1.07,
+  "tokens_in": 196,
+  "tokens_out": 79,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#4",
+  "text": "## Initial Enrollment Period\n\nYou start this period when you turn 65.\n\nIt lasts for 7 months.\n\nIt starts 3 months before you turn 65.\n\nIt ends 3 months after the month you turn 65.\n\nYou may get Medicare earlier if you have a disability.\n\nYou may get Medicare earlier if you have End-Stage Renal Disease (ESRD).\n\nYou may get Medicare earlier if you have ALS.\n\nALS is also called Lou Gehrig's disease.\n\nLearn more about when you can sign up in these situations.\n\nYou can join any plan.\n\nYou need both Part A and Part B to join a Medicare Advantage Plan.\n\nYou can join a Medicare Advantage Plan with or without drug coverage.\n\nYou need either Part A or Part B to join a Medicare drug plan.\n\nIf you request to join a plan before your Part A and/or Part B starts: Your plan coverage starts the same day as when your Part A and/or Part B starts.\n\nIf you request to join a plan after your Part A and/or Part B starts: Your plan coverage starts the first of the month after the plan gets your request.",
+  "seconds": 1.97,
+  "tokens_in": 366,
+  "tokens_out": 242,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#5",
+  "text": "## Initial Enrollment Period – New to Part B\n\nYou have Part A and are adding Part B later.\n\nThis period starts 3 months before the month you are first eligible for both Part A and Part B.\n\nYou have 2 months after you get both Part A and Part B for the first time to join a plan.\n\nYou can:\n\nJoin any Medicare Advantage Plan with or without drug coverage.\n\nCoverage starts:\n\nGenerally, on the first of the month after the plan gets your request to join.\n\nIf you joined a Medicare Advantage Plan during your Initial Enrollment Period, you can change to another Medicare Advantage Plan (with or without drug coverage) or go back to Original Medicare (with or without a drug plan) within the first 3 months you have Medicare Part A and Part B.\n\n### Other enrollment periods\n\n| Enrollment period: | You can: | Coverage starts: |\n\n-\n-\n-\n\n| Open Enrollment Period October 15-December 7 | Join, drop, or switch to another Medicare Advantage Plan with or without drug coverage (or add or drop drug coverage).Switch from Original Medicare to a Medicare Advantage Plan or from a Medicare Advantage Plan to Original Medicare.Join, drop, or switch to another Medicare drug plan if you're in Original Medicare. | January 1 of the next year (the plan must get your request to join by December 7) |\n\n-\n-\n\n-\n-\n\n| Medicare Advantage Open Enrollment Period (only if you're already in a Medicare Advantage Plan) January 1-March 31 Within the first 3 months you get Medicare | Switch to another Medicare Advantage Plan with or without drug coverage.Drop your Medicare Advantage Plan and return to Original Medicare. You'll also be able to join a separate Medicare drug plan. | First of the month after the plan gets your request to join. |\n\n-\n-\n\n| Special Enrollment Period Varies. Only for certain situations that happen in your life, like moving to a new address, losing or changing your current coverage, getting Medicaid, or getting Extra Help to pay drug costs. Learn more about Special Enrollment Periods. | Depending on your situation:Join a Medicare Advantage Plan (with or without drug coverage) or Medicare drug planSwitch to another planIf you sign up for Part A and/or Part B during a Special Enrollment Period because of an exceptional situation, you'll have 2 months to join a plan or switch to another plan. What counts as an exceptional situation? | Varies. Generally, the first of the month after the plan gets your request to join. |\n\nOther times when you can join a health or drug plan.\n\nFor details about when you can join Medicare Cost Plans, demonstrations/pilot programs, or the Program of All-inclusive Care for the Elderly (PACE), contact the plans that offer these options.",
+  "seconds": 3.68,
+  "tokens_in": 729,
+  "tokens_out": 582,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#7",
+  "text": "## Find out which plans are available in your area:\n\n- Compare plans in your area to find their costs and services.\n- Add all the prescription drugs you take regularly to get an accurate cost estimate.\n- This estimate shows the monthly and yearly cost for each plan.\n- Use your \"Medicare & You\" handbook to find the plans.\n- The plans are listed in the back of the handbook.\n- Talk to a trusted agent or broker.\n- Check the rules the agent or broker must follow.\n\nContact your local State Health Insurance Assistance Program (SHIP) to get free personalized health insurance counseling.\nSHIPs are not connected to any insurance company or health plan.\n\n2",
+  "seconds": 1.4,
+  "tokens_in": 279,
+  "tokens_out": 144,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#8",
+  "text": "## Make sure the plan meets your needs:\n\n- Check if the plan covers your prescriptions.\n- See if the plan includes the benefits you need.\n- Ask your doctors if they are in the plan's network.\n- Ask your pharmacies if they are in the plan's network.\n- Review costs.\n- Look at your monthly premiums.\n- Look at your deductibles.\n- Look at the estimate of your yearly costs for drugs you take.\n- If you have other health insurance, talk to your benefits administrator.\n- If you have other drug coverage, talk to your benefits administrator.\n- If you have other health insurance, talk to your other insurance provider.\n- If you have other drug coverage, talk to your other insurance provider.\n- Do this before you join a plan.\n- Do this before you make any changes to your current coverage.\n- If you live in another state for part of the year, check if the plan will cover you there.",
+  "seconds": 1.69,
+  "tokens_in": 274,
+  "tokens_out": 205,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/get-more-coverage/joining-a-plan#9",
+  "text": "### Join the plan.\n\nPick a plan. Then join in one of these 3 ways:\n\n- Go to Medicare.gov/plan-compare. Select “Enroll” for the plan you want.\n- Contact the plan. Call them or visit their website. Ask for a paper form if you want. Mail it back to the plan. They must get it before your enrollment period ends.\n- Call us at 1-800-MEDICARE (1-800-633-4227). TTY users can call 1-877-486-2048.\n\nFind out how to switch, drop, or rejoin drug coverage.\n\nLearn more about Medicare health plans and drug plans.",
+  "seconds": 2.03,
+  "tokens_in": 317,
+  "tokens_out": 160,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#0",
+  "text": "### If you (or your spouse) are still working when you turn 65, Medicare works a little differently\n\nMedicare rules change a bit if you or your spouse are still working at age 65. Do you need a refresher on how Medicare works?",
+  "seconds": 0.87,
+  "tokens_in": 180,
+  "tokens_out": 56,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#1",
+  "text": "## Do I need to sign up for Medicare when I turn 65?\n\nYou can answer a few questions to find out when you should sign up. Or you can read the scenarios below.\n\n### If you (or your spouse) have health insurance from a job:\n\nIf you or your spouse are still working, you may wait to sign up for Medicare. You might not have to pay a late penalty. This is true if you have group health insurance at your company. This insurance must be available to everyone at the company.\n\n- If you do not pay a premium for Part A (Hospital Insurance), you can sign up when you turn 65. You can also sign up later. Do I qualify?\n- You can wait until you (or your spouse) stop working. You can also wait until you lose your health insurance if that happens first. You do not have to pay a late penalty when you sign up for Part B (Medical Insurance).\n- You have an 8-month Special Enrollment Period (SEP). You can sign up for Medicare in this time. You can also add Part B to your existing Part A coverage. The SEP starts when you stop working. It also starts if you lose your insurance. This is true even if you choose COBRA or other non-Medicare coverage.\n\nAsk the employer that gives you health insurance. Ask if you need to sign up for Part A (Hospital Insurance) and Part B (Medical Insurance) when you turn 65. If you do not sign up for Part A and Part B, your job insurance might not cover your costs.\n\nIf you are self-employed, your rules may be different. This also applies if you have health insurance that is not available to everyone at your company, like retiree coverage.\n\nAsk your insurance provider if your coverage is an employer group health plan. The IRS defines this plan type. If it is not this type of plan, sign up for Medicare when you turn 65. Do not sign up late or you will pay a monthly Part B penalty.\n\nIf you have retiree coverage from a past job, it may not pay for your health services. This is true if you do not have both Medicare Part A (Hospital Insurance) and Part B (Medical Insurance). Ask your benefits administrator how your retiree coverage works with Medicare.\n\nDo not risk losing your retiree coverage. Check before joining a plan.\nThe employer might offer coverage if you have Medicare. Examples include a supplemental plan, drug coverage, or a Medicare Advantage Plan. If they offer these, ask if you or your family will lose retiree coverage if you join a plan the employer does not offer. Get more information about retiree coverage & Medicare.\n\n### If you have health insurance that's not from a job:\n\nThis includes insurance from Medicaid, the Marketplace, or another private company.\n\nAnswer a few questions to find out when to sign up for Medicare. This gives you other important information based on your specific coverage type.\n\nThe rules change depending on what other health insurance you have. Contact your health insurance plan to get more information.\n\nThis also includes insurance you bought with a stipend from work.\n\nAsk your health insurance company if you need to sign up for Part A (Hospital Insurance) and Part B (Medical Insurance) when you turn 65. Some private insurance companies have rules that lower what they pay. They might not pay at all if you are eligible for other coverage like Medicare. Once you sign up, Medicare pays first.\n\n### If you have COBRA coverage:\n\nIf your job offered you COBRA coverage after your employment ended, the rules may vary. This is true if you lost coverage as the dependent of the covered employee. This applies if you have not signed up for Medicare yet.\n\n- Sign up for Medicare when you turn 65. This avoids gaps in coverage. It also avoids a monthly Part B late enrollment penalty.\n- Your COBRA coverage will probably end once you sign up.\n\nDo not wait until your COBRA coverage ends to sign up for Part B. COBRA coverage does not extend your limited time to sign up for Medicare.\n\nGet important information about COBRA and Medicare.\n\nAnd you got COBRA after you signed up for Medicare.\n\nCOBRA pays after Medicare. This is true unless you have End-Stage Renal Disease.\n\nGet important information about COBRA and Medicare.\n\n### If you don't have health insurance: And you're still working.\n\n- Sign up for both Part A (Hospital Insurance) and Part B (Medical Insurance) when you are first eligible. This is usually when you turn 65. If you sign up later, you may have to pay a penalty.\n- If you cannot afford insurance, there are ways to get help paying costs.",
+  "seconds": 7.0,
+  "tokens_in": 1139,
+  "tokens_out": 988,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#2",
+  "text": "## How do I sign up for Medicare when I'm ready?\n\nHow you sign up depends on your coverage.  \nCheck if you already have Part A (Hospital Insurance).  \nOr check if you are signing up for both Part A and Part B (Medical Insurance).  \nGet forms and ways to sign up.\n\nYour coverage starts the month after Social Security (or the Railroad Retirement Board) processes your form.\n\nBefore you sign up:\n\n- If your employer coverage is ending, check when it ends.\nSign up for Medicare about a month before it ends.\nSigning up early helps you avoid a gap in coverage.\n- If your employer coverage is changing, check with your benefits administrator.\nAsk what you will need.\nAsk if you must sign up for both Medicare Part A and Part B.\n- If you have a Health Savings Account (HSA), you and your employer must stop contributing.\nStop 6 months before you retire.\nStop 6 months before you apply for benefits from Social Security (or the Railroad Retirement Board).\nThis ensures you avoid a tax penalty.\n\nWhy should I stop contributions before I retire?",
+  "seconds": 1.98,
+  "tokens_in": 377,
+  "tokens_out": 235,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#3",
+  "text": "## Do I need to get more coverage?\n\nAfter you sign up for Part A (Hospital Insurance) and Part B (Medical Insurance), you can choose how you get your coverage.\n\nBefore you go further: You need to learn more about your coverage options so you understand your choices.\n\nIf you have retiree coverage, do not risk losing it. Check before joining a plan.\n\nYour employer may offer coverage when you have Medicare. This could be a supplemental plan, drug coverage, or a Medicare Advantage Plan.\n\nIf they do, ask if you or your family will lose your retiree coverage if you join a plan the employer does not offer.\n\n###  What do I need to know about drug coverage?\n\nYou can wait to join a Medicare drug plan or a Medicare Advantage Plan with drug coverage. This is true as long as you have creditable prescription drug coverage.\n\n- If you are not sure your current drug plan is considered creditable, ask your plan. They have to tell you.\n- Your plan will also send you this information every year.\n- Keep the information your current drug plan sends. You may need it when you are ready to join a Medicare drug plan. (Do not send this information to Medicare.)\n\nYou will not pay the Part D late enrollment penalty. This is true as long as you do not go more than 63 days without creditable drug coverage.\n\nLearn how to avoid the late enrollment penalty.\n\nGet more details about how Part D works with other insurance.",
+  "seconds": 2.83,
+  "tokens_in": 447,
+  "tokens_out": 311,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/medicare-basics/working-past-65#4",
+  "text": "## Can I get more help?\n\n- Social Security Administration (SSA): If you have questions about Medicare Part A and Part B enrollment, visit SSA.gov.\n- State Health Insurance Assistance Program (SHIP): You can get free, one-on-one help. This help covers choosing a plan, reviewing coverage, and understanding costs. Find your local SHIP.\n- Your group health plan or other current insurer: If you have other health insurance, speak with your benefits administrator. You might be Medicare-eligible or will soon be Medicare-eligible. Your employer's human resources department can tell you how your benefits work with Medicare. If you have prescription drug coverage, ask if it is considered creditable.\n- Medicare: You can find health care providers in your area. You can also find suppliers that participate in Medicare. You can find plans offered in your area. Visit Medicare.gov to do this. You can also call Medicare at 1-800-MEDICARE (800-633-4227). TTY users can call 1-877-486-2048.",
+  "seconds": 2.34,
+  "tokens_in": 367,
+  "tokens_out": 234,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#0",
+  "text": "### Why don't I contact Medicare to sign up for Part A and Part B?\n\nTo sign up for Part A (Hospital Insurance) and/or Part B (Medical Insurance), you must contact the Social Security Administration.\n\nWe can help you find the easiest way to sign up based on your situation.\n\nYou should not contact Medicare to sign up.",
+  "seconds": 1.33,
+  "tokens_in": 210,
+  "tokens_out": 72,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#2",
+  "text": "## I want to sign up for both Part A & Part B or only Part A when I turn 65\n\n- Apply online (at Social Security) – This is the easiest way to sign up. It is also the fastest way.\n- You must create your secure my Social Security account. You use this account to sign up for Medicare. You also use it to apply for Social Security benefits online.\n\nYou can only sign up for Part B at certain times. You can only sign up for Part A at certain times if you have to pay a premium for it. Learn about Part A & Part B sign up periods.\n\nApply online",
+  "seconds": 2.4,
+  "tokens_in": 258,
+  "tokens_out": 132,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#3",
+  "text": "## I already have Part A & want to add Part B because I'm losing my job-based coverage\n\n- You can apply online to add Part B if you have Part A.\n- Ask your employer to fill out form CMS-L564.\n- Send the filled form to your local Social Security office by fax or mail.\n\nIf the employer cannot fill it out, finish Section B of form CMS-L564 as best you can. Do not sign the form. You must send proof of your job-based health insurance. Learn what proof forms you need to send.\n\nApply online",
+  "seconds": 1.57,
+  "tokens_in": 276,
+  "tokens_out": 122,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#4",
+  "text": "## I want to sign up for Part A and Part B, but I missed my chance when I turned 65\n\nYou can only sign up during a Special Enrollment Period. This only happens in certain situations. Do your conditions qualify for an exceptional conditions Special Enrollment Period?\n\n- Fill out form CMS-10797.\n- Send the completed form to your local Social Security office by fax or mail.\n\nDownload form",
+  "seconds": 1.2,
+  "tokens_in": 235,
+  "tokens_out": 89,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#5",
+  "text": "## I have Part A already & want to add Part B (only available Jan 1 – March 31)\n\nOnly use this sign-up if no other rules on this page fit your situation. You can only sign up for Part B during certain times. Learn about Part A & Part B sign up periods.\n\n- Fill out form CMS-40B.\n- Send the completed form to your local Social Security office by fax or mail.\n\nDownload form\n\nTo submit your forms:\n\n- Send completed forms to your local Social Security office by fax or mail.\n- If you or your spouse worked for a railroad, visit RRB.gov, or call the Railroad Retirement Board at 1-877-772-5772. TTY users can call 1-312-751-4701.\n\nIf you live outside the U.S.: You may want to get Part B if you plan to return to the U.S. to get health care services. Get help signing up for Part B if you live in a foreign country.",
+  "seconds": 3.11,
+  "tokens_in": 376,
+  "tokens_out": 226,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/ready-to-sign-up-for-part-a-part-b#6",
+  "text": "### After you sign up\n\nYou will get a welcome package with your Medicare card.\nThis card has your Medicare Number.\nYou need your Medicare Number to make a secure account on Medicare.gov.\nYou need your Medicare Number to join a plan.\nYou need your Medicare Number to buy supplemental insurance.\nYou can only drop Part A if you must pay a premium for it.\nThis premium is also called Premium-Part A.\nYou can choose to drop Part B.\nDropping coverage has some risks.\nHow do I drop Part A and/or Part B?",
+  "seconds": 1.51,
+  "tokens_in": 259,
+  "tokens_out": 119,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#0",
+  "text": "### When Medicare starts\nMedicare starts when you sign up. It also depends on your sign-up period.",
+  "seconds": 1.02,
+  "tokens_in": 168,
+  "tokens_out": 23,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#1",
+  "text": "## Your first chance to sign up (Initial Enrollment Period)\n\nYou usually sign up when you turn 65. This time is called your Initial Enrollment Period. It lasts for 7 months. It starts 3 months before you turn 65. It ends 3 months after the month you turn 65.\n\nMy birthday is on the first of the month.\n\nAvoid the penalty\nIf you miss your 7-month Initial Enrollment Period, you may have to wait to sign up. You may also have to pay a monthly late enrollment penalty. You pay this penalty for as long as you have Part B coverage. The penalty goes up the longer you wait. You may also have to pay a penalty if you have to pay a Part A premium. This is also called \"Premium-Part A.\" Learn more about how to avoid late enrollment penalties.\n\n### When your coverage starts\n\nThe date your coverage starts depends on which month you sign up during your Initial Enrollment Period. Your coverage always starts on the first of the month.\n\nIf you qualify for premium-free Part A: Your Part A coverage starts the month you turn 65. (If your birthday is on the first of the month, coverage starts the month before you turn 65.)\n\nPart B (and premium-Part A): Coverage starts based on the month you sign up:\n\n| If you sign up: | Coverage starts: |\n| Before the month you turn 65 | The month you turn 65 |\n| The month you turn 65, or during the 3 months after | The next month |\n\n### Signing up for premium-free Part A later\n\nYou can sign up for Part A any time after you turn 65. Your Part A coverage starts 6 months back from when you sign up. It also starts 6 months back from when you apply for benefits from Social Security (or the Railroad Retirement Board). Coverage can't start earlier than the month you turned 65.\n\nI have a Health Savings Account (HSA).\n\nAfter your Initial Enrollment Period ends, you can only sign up for Part B and premium-Part A during one of the other enrollment periods.",
+  "seconds": 4.17,
+  "tokens_in": 574,
+  "tokens_out": 450,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#2",
+  "text": "## Between January 1-March 31 each year (General Enrollment Period)\n\nYou can sign up between January 1-March 31 each year. This time is called the General Enrollment Period. Your coverage starts the month after you sign up. You might pay a monthly late enrollment penalty if you do not qualify for a Special Enrollment Period. Get details about the late enrollment penalties.",
+  "seconds": 1.44,
+  "tokens_in": 230,
+  "tokens_out": 81,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#3",
+  "text": "## Special Situations (Special Enrollment Period)\n\nYou might be able to sign up for Part B (and premium-Part A) after your first chance to sign up ends.\nYou do not have to pay a late fee if you use a Special Enrollment Period.\nA Special Enrollment Period only lasts for a limited time.\nIf you do not sign up during this time, you must wait for the next General Enrollment Period.\nYou might have to pay a monthly late fee if you wait.\n\n### Special Enrollment Periods for Part A & Part B\n\n| If you: | Your Special Enrollment Period: | How to sign up: |\n\n| Lose Medicaid coverage on or after 1/1/2023Download more information about your Medicare options if you lose Medicaid. | Starts: The day you get a notice that your Medicaid coverage is ending.Ends: 6 months after your Medicaid coverage ends.Coverage begins: The month after you sign up, or the date your Medicaid coverage ends. Pick the date you want. | Fill out form CMS-10797 and send the completed form to your local Social Security office by fax or mail.Download form |\n\n| Miss a chance to sign up because a natural disaster or emergency happened to you on or after 1/1/2023 (or if your representative, guardian, or caregiver was affected) | Starts: The day the Federal, state or local government declares the emergency or disaster, or the date in that declaration. Pick the earlier date.Ends: 6 months after the later of these events: The end date in the original declaration. The last day of any extensions. The date the government ends the declaration. | Fill out form CMS-10797 and send the completed form to your local Social Security office by fax or mail.Download form |\n\n| Miss a chance to sign up because your health plan or employer gave you wrong or confusing information on or after 1/1/2023 | Starts: The day you tell the Social Security Administration that your plan or employer gave you wrong information.Ends: 6 months later. | Fill out form CMS-10797 and send the completed form to your local Social Security office by fax or mail.Download form |\n\n| Were released from jail or prison on or after 1/1/2023 (and missed a chance to sign up while you were inside) | Starts: The day you are released from custody.Ends: The last day of the 12th month after the month you are released. | Fill out form CMS-10797 and send the completed form to your local Social Security office by fax or mail.Download form |\n\n| Missed a chance to sign up because of other special conditions | Starts: The day you contact Social Security to ask for this period.Ends: At least 6 months later. | Fill out form CMS-10797 and send the completed form to your local Social Security office by fax or mail.Download form |\n\n| Have or had health insurance through your job, your spouse’s job (or a family member’s job if you are disabled*) | Starts: The first month after your Initial Enrollment Period ends.Ends: 8 months after your job-based coverage or your employment ends. Pick the first date. | If you already have Part A, go to SSA.gov to sign up for Part B.Apply onlineYou can also send completed forms to your local Social Security office by fax or mail.Download forms:I want to sign up for Part A and Part BI have Part A and want to sign up for Part B |\n\n| Volunteer and serve in a foreign country | Starts: The first day of the month any of these happen: You stop volunteering outside the United States. Your organization loses its tax-exempt status. You lose health insurance that covers you outside the United States. | Go to SSA.gov to apply for Medicare online.Apply onlineIf you already have Part A, fill out form CMS 40B to sign up for Part B.Send the completed form to your local Social Security office by fax or mail. |\n\n| Have TRICARE | Starts: When Social Security notifies you.Ends: 12 months later. | Get more information about how TRICARE works with Medicare. |\n\nCheck my specific situation to find out when to sign up.\n\nSituations that do not qualify for a Special Enrollment Period:\n\n- Your COBRA coverage or retiree coverage ends.\n- You missed your 8-month window to sign up when you stopped working or lost job-based coverage.\n- You have or lose your Marketplace coverage.\n- You have End-Stage Renal Disease (ESRD). Learn more about Medicare coverage for ESRD.",
+  "seconds": 7.7,
+  "tokens_in": 1483,
+  "tokens_out": 980,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start#4",
+  "text": "## Joining a plan\n\nYou can join a health or drug plan when you sign up for Medicare.\nJoining a Medicare Advantage Plan (Part C) needs Part A and Part B.\nJoining a Medicare drug plan (Part D) needs only Part A or Part B.\nFind out when you can join a plan.",
+  "seconds": 1.18,
+  "tokens_in": 221,
+  "tokens_out": 69,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#0",
+  "text": "### Costs for Medicare drug coverage\nYour total costs for Medicare drug coverage will depend on which plan you choose. Depending on the plan, you could pay:\n\n- **Premium**: You pay this monthly amount for coverage. You pay this amount even if you do not get covered drugs.\n- Your specific premium depends on the plan you choose. You may have to pay more if your income is higher. Who pays a higher Part D premium because of income?\n- If you have to pay a Part D late enrollment penalty, it is added to your monthly premium.\n\n**Tip**: You should consider a drug plan with a low monthly premium. This helps you avoid the late enrollment penalty. You can do this even if you do not take many drugs now. You can also do this if your current out-of-pocket drug costs are low. All plans must cover a wide range of drugs that people with Medicare take.\n\n- **Deductible**: You pay this amount for covered drugs and items each year. You pay this before your plan starts to pay. Your deductible depends on which plan you choose. No Medicare drug plan may have a deductible more than $700 in 2027 ($615 in 2026). Some plans have no deductible.\n- **Copayment**: You pay this fixed amount for a drug at the pharmacy.\n- **Coinsurance**: You pay this percentage for a drug at the pharmacy.\n\n### How are copayments and coinsurance handled if I get less than a one-month supply of a drug?\n\nLearn why drug costs can change.",
+  "seconds": 2.81,
+  "tokens_in": 447,
+  "tokens_out": 327,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#1",
+  "text": "## Medicare drug coverage stages\n\nMost Medicare drug plans and Medicare Advantage Plans with drug coverage have 3 stages:\n\n- Deductible stage: If your plan has a deductible, you pay all costs yourself. You keep paying until you reach the full deductible. No plan may have a deductible over $615 in 2026 ($700 in 2027). Some plans do not have a deductible.\n- Initial coverage stage: After you reach your full deductible, pay 25% of the cost as coinsurance. This applies to your generic and brand-name drugs. You pay this until your out-of-pocket spending on covered Part D drugs reaches $2,100 in 2026 ($2,400 in 2027). This total includes payments made for you, like through the Extra Help program. Then, you automatically get \"catastrophic coverage.\"\n- Catastrophic coverage stage: You will not pay out-of-pocket for covered Part D drugs for the rest of the calendar year.\n\nWhen you have Medicare drug coverage, you get an Explanation of Benefits (EOB) the month after the pharmacy bills your plan. Your EOB shows the prescriptions you filled. It shows what your plan paid. It shows what you and others paid. It shows your coverage stage. It shows what counts toward your out-of-pocket costs. It shows what counts toward your total drug costs.",
+  "seconds": 2.49,
+  "tokens_in": 445,
+  "tokens_out": 296,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#2",
+  "text": "## How do I pay my plan’s premium?\n\nYou can choose to pay your premium in these ways:\n\n- Your plan takes the money from your checking or savings account.\n- You use a credit or debit card (fees may apply).\n- Your plan sends you a bill each month. Some plans bill in advance for next month’s coverage. Send your payment to the plan—not to Medicare. Contact your plan for their payment address.\n- Your plan takes the money from your Social Security payment. Contact your plan—not Social Security—to ask for this payment option. It may take up to 3 months to start. In cases where premiums weren’t withheld from your Social Security payment until 1 or 2 months after you joined a Medicare drug plan, you’ll get a bill for the months your drug plan’s premiums weren’t withheld. You’ll need to pay your drug plan’s monthly premium directly to your plan for those months. Your plan will tell you when your premium withholding from your Social Security payment is set up.\n\nWhat else do I need to know if I have premiums withheld from my Social Security payment?",
+  "seconds": 2.21,
+  "tokens_in": 376,
+  "tokens_out": 229,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#3",
+  "text": "## How can I lower my drug costs?\n\nIf you qualify, programs can lower your drug costs.\n\n- Medicaid is a joint federal and state program. It helps cover medical costs for some people with limited income and resources. Each state has different income and resource requirements. These requirements determine who is eligible. Contact your state to find out if you are eligible.\n- Extra Help is a Medicare program. It helps pay your drug costs. You automatically qualify for Extra Help if you qualify for Medicaid. You also qualify automatically if you qualify for one of the Medicare Savings Programs. You also qualify if you receive Supplemental Security Income (SSI) benefits from Social Security. If you do not automatically qualify for Extra Help, you can apply.\n\n- Medicare's Limited Income Newly Eligible Transition (LI NET) is a Medicare program. It gives temporary Medicare Part D drug coverage. This coverage is for people who qualify for Extra Help or Medicaid. It is for people who are not enrolled in a Medicare drug plan yet. LI NET covers all Part D covered drugs. There are no network pharmacy restrictions.\n\n- State Pharmaceutical Assistance Programs (SPAP) are state programs. These programs provide coverage from your state. They also provide coverage from the U.S. Virgin Islands. They help pay your drug plan premiums. They also help pay cost sharing. SPAP contributions may count toward your Medicare drug coverage out-of-pocket limit. Eligibility depends on each program's specific rules.\n\n- Pharmaceutical Assistance Programs (sometimes called Patient Assistance Programs (PAPs)) are programs from some pharmaceutical companies. They help pay for medications. They help people enrolled in Medicare drug coverage (Part D). Find out if there is a Pharmaceutical Assistance Program (PAP). Find a program that can lower prescription costs for the drugs you take. Each company has different eligibility requirements. Contact the company to find out if you are eligible. Start getting help.\n\nThe Medicare Prescription Payment Plan is a new payment option. It works with your current Medicare drug coverage. It helps you manage your out-of-pocket costs for drugs covered by your plan. It spreads these costs across the calendar year. The calendar year is January–December. This payment option might help you manage your monthly expenses. It does not save you money. It does not lower your drug costs.",
+  "seconds": 3.47,
+  "tokens_in": 567,
+  "tokens_out": 465,
+  "reader": "changed"
+ },
+ {
+  "id": "medicare/health-drug-plans/part-d/basics/costs#4",
+  "text": "## What's the Part D late enrollment penalty?\n\nThe Part D late enrollment penalty is an amount added to your monthly Part D premium.\nThis amount is added forever.\nYou may owe this penalty if you go without Part D or other creditable prescription drug coverage for 63 or more days in a row after your Initial Enrollment Period ends.\nAfter you join a Medicare drug plan, the plan will tell you if you must pay a penalty.\nThe plan will also tell you what your premium will be.\nYou will usually pay the penalty for as long as you have Medicare drug coverage.\n\n### How much is the Part D late enrollment penalty?\n\nThe penalty is 1% times the \"national base beneficiary premium\" ($38.99 in 2026) times the number of full, uncovered months.\nThese are the months you were eligible for Medicare drug coverage but did not join (and did not have other creditable prescription drug coverage).\nThe result is rounded to the nearest $.10.\nThis rounded amount is added to your monthly premium.\nThe \"national base beneficiary premium\" may go up each year.\nYour penalty amount may also go up each year because of this.\n\nExample: If you waited 14 months after you were eligible for Medicare to join a Medicare drug plan without creditable drug coverage, you must pay a 14% late enrollment penalty.\nYou pay this penalty in addition to your monthly plan premium.\nHere is the math for the monthly Part D enrollment penalty.\n\nThe Part D late enrollment penalty is added to your premium for as long as you have Medicare drug coverage.\nYou pay the penalty even if you switch plans.\nIf you get Extra Help, you do not pay a late enrollment penalty.\n\nWhat if I don't agree with the Part D late enrollment penalty?",
+  "seconds": 3.49,
+  "tokens_in": 525,
+  "tokens_out": 381,
+  "reader": "same"
+ },
+ {
+  "id": "medicare/providers-services/claims-appeals-complaints/appeals/original-medicare#1",
+  "text": "### Appeal when a hospital changes your status from \"inpatient\" to \"outpatient with observation services\"\n\nA court order gives you the right to appeal. The hospital can change your status from \"inpatient\" to \"outpatient.\" This rule applies if you meet certain criteria.\n\nYou can ask for an appeal if you were admitted as an inpatient on or after January 1, 2009. Your status changed to \"outpatient getting observation services.\" You must also meet certain other criteria. Learn how to file this type of appeal.\n\nYou can ask for a fast appeal while you are still in the hospital. The hospital must have changed your status from inpatient to \"outpatient getting observation services.\" Learn how to file this type of appeal.\n\n### Why does hospital status matter?\n\nYour hospital status affects how much you pay for hospital services. Your hospital status may also affect if Medicare covers care. This care happens in a skilled nursing facility (SNF) after your hospital stay.",
+  "seconds": 2.4,
+  "tokens_in": 364,
+  "tokens_out": 206,
+  "reader": "changed"
+ }
+]
