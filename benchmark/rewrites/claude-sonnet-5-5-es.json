@@ -1,0 +1,639 @@
+[
+ {
+  "id": "self-assessment-tax-returns/deadlines#0",
+  "text": "HM Revenue and Customs (HMRC) debe recibir su tax return y cualquier dinero que deba antes de la fecha límite.\n\nSi no sabe cuál es su beneficio durante todo el tax year, igualmente tiene que enviar una tax return. Consulte cómo enviar una declaración si no conoce su beneficio de todo el año.\n\nEl último tax year comenzó el 6 de abril de 2025 y terminó el 5 de abril de 2026. La fecha límite para las tax returns de años anteriores ya ha pasado y es posible que tenga que pagar una multa. Envíe su tax return o su pago lo antes posible para evitar más multas.",
+  "seconds": 2.3,
+  "tokens_out": 224,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#1",
+  "text": "## Informar a HMRC de que necesitas presentar una declaración\n\nDebes informar a HMRC antes del 5 de octubre si necesitas presentar una declaración de impuestos (tax return) del año anterior y se da uno de estos casos:\n\n- no has enviado nunca una declaración de impuestos\n\n- te registraste antes, pero no necesitaste enviar una declaración de impuestos del ejercicio fiscal 2024 to 2025\n\nPuedes informar a HMRC registrándote en Self Assessment. Consulta cómo registrarte en Self Assessment.\n\n### Si te registras después del 5 de octubre de 2026\n\nHMRC te enviará una carta o un correo electrónico con otro plazo para enviar tu declaración de impuestos. Este plazo será de 3 meses a partir de la fecha de la carta o del correo electrónico.\n\nAun así, debes pagar el impuesto que debas antes de las 11:59pm del 31 de enero de 2027, o recibirás una penalización.",
+  "seconds": 3.13,
+  "tokens_out": 337,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#2",
+  "text": "## Envío de una declaración de impuestos en papel\n\nHMRC debe recibir su declaración de impuestos en papel (paper tax return) antes de las 11:59pm del 31 de octubre de 2026, o recibirá una multa por presentación tardía (late filing penalty).\n\nPuede enviarla en cualquier momento a partir del 6 de abril de 2026, siempre que HMRC la reciba antes de la fecha límite.",
+  "seconds": 1.84,
+  "tokens_out": 146,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#3",
+  "text": "## Presentar la declaración de impuestos en línea\n\nDebe presentar su online tax return antes de las 11:59pm del 31 de enero de 2027 o recibirá una multa por presentación tardía (late filing penalty).\n\nSi quiere pagar su factura de Self Assessment a través de su código fiscal (tax code), debe presentarla antes de las 11:59pm del 30 de diciembre de 2026. Si no cumple este plazo, tendrá que pagar de otra manera.\n\nPuede presentar su declaración en cualquier momento a partir del 6 de abril de 2026 y hasta la fecha límite.",
+  "seconds": 2.12,
+  "tokens_out": 208,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#4",
+  "text": "## Pagar el impuesto que debe\n\nDebe pagar su impuesto de Self Assessment antes de las 11:59pm del 31 de enero de 2027 o recibirá una penalty (multa).\n\nHay un segundo plazo de pago, el 31 de julio, si hace pagos a cuenta de su factura. Estos pagos se conocen como ‘payments on account’.\n\nPuede calcular de forma aproximada su factura de impuestos de Self Assessment antes de enviar su tax return para:\n\n- hacerse una idea de cuál es probable que sea el importe de su factura\n\n- poder planificar su presupuesto y pagar a tiempo\n\nEncuentre ayuda para entender el impuesto que debe.",
+  "seconds": 2.53,
+  "tokens_out": 239,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#5",
+  "text": "## Administradores (trustees) de un registered pension scheme o empresas no residentes\n\nHMRC debe recibir una declaración de impuestos en papel antes del 31 de enero de 2027. No puede enviar la declaración por internet.\n\nPuede enviarla en cualquier momento a partir del 6 de abril de 2026, siempre que HMRC la reciba antes de la fecha límite.",
+  "seconds": 1.86,
+  "tokens_out": 131,
+  "reader": "changed"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#6",
+  "text": "## Declaraciones de la sociedad (partnership) si una empresa es socia\n\nSi la fecha contable de su partnership está entre el 1 de febrero y el 5 de abril, y uno de sus socios es una limited company, el plazo para presentar:\n\n- las declaraciones en línea es de 12 meses desde la fecha contable\n\n- las declaraciones en papel es de 9 meses desde la fecha contable",
+  "seconds": 1.93,
+  "tokens_out": 137,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#0",
+  "text": "Recibirás una multa (penalty) si necesitas presentar una declaración de impuestos (tax return) y:\n\n- la envías tarde\n- pagas tarde tu factura de impuestos\n\nPuedes calcular de forma aproximada la multa por declaraciones y pagos de Self Assessment presentados fuera de plazo.",
+  "seconds": 1.53,
+  "tokens_out": 110,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#1",
+  "text": "### Si te registras tarde en Self Assessment\n\nSi te registras después del 5 de octubre y no pagas la totalidad de tu factura de impuestos antes del 31 de enero, es posible que recibas una sanción por \"failure to notify\" (no notificar a tiempo).\n\nEsta sanción se calcula según la cantidad que aún te quede por pagar, y la recibirás en un plazo de 12 meses desde que HMRC reciba tu declaración de impuestos de Self Assessment (Self Assessment tax return).\n\nPuedes consultar más información sobre las sanciones por \"failure to notify\".",
+  "seconds": 2.38,
+  "tokens_out": 202,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#2",
+  "text": "## Si envía su declaración de impuestos tarde\n\nRecibirá las siguientes sanciones por presentación tardía:\n\n- una sanción inicial de £100\n\n- después de 3 meses, sanciones diarias adicionales de £10 por día, hasta un máximo de £900\n\n- después de 6 meses, una sanción adicional del 5% del impuesto adeudado o £300, la cantidad que sea mayor\n\n- después de 12 meses, otro cargo del 5% o £300, la cantidad que sea mayor\n\nPara evitarlo, envíe su declaración de impuestos de Self Assessment lo antes posible.\n\nSe cobrará una sanción a todos los socios si la declaración de impuestos de una sociedad (partnership) se presenta tarde.",
+  "seconds": 2.16,
+  "tokens_out": 252,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#3",
+  "text": "### Si paga sus impuestos tarde\n\nRecibirá sanciones del 5% del impuesto sin pagar a los:\n\n- 30 días\n\n- 6 meses\n\n- 12 meses\n\nTambién se le cobrarán intereses sobre la cantidad que debe. Para evitarlo, pague su factura de impuestos de Self Assessment lo antes posible.\n\nDescubra qué ocurre si no paga su factura de impuestos.",
+  "seconds": 1.39,
+  "tokens_out": 143,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#0",
+  "text": "Tu importe de State Pension depende de tu historial de National Insurance.\n\nConsulta tu previsión de State Pension (State Pension forecast) para saber cuánto podrías recibir cuando alcances la edad de jubilación (State Pension age). También muestra tu historial de National Insurance.\n\nEl importe completo de la new State Pension es de £241.30 a la semana. Tu importe podría ser diferente según:\n\n- si estuviste contracted out antes de 2016\n\n- el número de años que cuentan (qualifying years) de National Insurance que tengas\n\n- si cotizaste a la Additional State Pension antes de 2016\n\nInfórmate sobre los impuestos que podrías pagar por tus ingresos de jubilación, incluso si te jubilas en el extranjero.",
+  "seconds": 1.9,
+  "tokens_out": 256,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#1",
+  "text": "## Si recibe menos de £241.30 a la semana\n\nEs posible que necesite más años de cotización cualificados (qualifying years) de National Insurance para aumentar su State Pension.\n\n### Si su registro de National Insurance comenzó antes de abril de 2016\n\nEs posible que haya estado contracted out (excluido del sistema de pensión adicional del Estado). Mientras estuvo contracted out, usted o su empleador pagaron más a su pensión de empresa o privada y menos a su State Pension.\n\nSi estuvo contracted out, normalmente necesitará más de 35 años de cotización cualificados (qualifying years) para recibir la cantidad completa de la new State Pension.\n\n### Si su registro de National Insurance comenzó después de abril de 2016\n\nSi su registro de National Insurance comenzó después de abril de 2016, necesitará 35 años de cotización cualificados (qualifying years) para recibir la cantidad completa de la new State Pension.",
+  "seconds": 2.77,
+  "tokens_out": 322,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#2",
+  "text": "## Si recibe más de £241.30 a la semana\n\nSi pagó cotizaciones al Additional State Pension antes de 2016 y habría recibido más State Pension con las normas anteriores, recibirá un \"protected payment\" (pago protegido). Este pago se abona además de la tarifa completa del new State Pension.",
+  "seconds": 2.03,
+  "tokens_out": 107,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#3",
+  "text": "## Aumentos anuales\n\nLa nueva State Pension aumenta cada año según la cifra que sea más alta de las siguientes:\n\n- salarios: el crecimiento porcentual medio de los salarios (en Gran Bretaña)\n\n- precios: el crecimiento porcentual de los precios en el Reino Unido, medido por el Consumer Prices Index (CPI)\n\n- 2.5%\n\nSi tiene un protected payment, este aumenta cada año de acuerdo con el CPI.",
+  "seconds": 1.91,
+  "tokens_out": 164,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#0",
+  "text": "Hay 2 tarifas de Child Benefit.\n\n| Para quién es la ayuda | Importe (semanal) |\n\n| Hijo mayor o hijo único | £27.05 |\n\n| Hijos adicionales | £17.90 por hijo |\n\nDebe ponerse en contacto con la Child Benefit Office si le pagan de más o de menos.\n\nTodos los pagos de Child Benefit que reciba contarán para el benefit cap (el límite máximo de prestaciones). Si el límite le afecta, seguirá recibiendo la cantidad completa de sus pagos de Child Benefit, pero es posible que se reduzcan sus otras prestaciones.",
+  "seconds": 2.23,
+  "tokens_out": 223,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#1",
+  "text": "## Si la familia se separa\n\nSi una familia se separa, recibes £27.05 a la semana por el hijo mayor.\n\nSi tienes 2 hijos y uno vive contigo y el otro vive con otra persona (por ejemplo, tu expareja), cada uno recibirá £27.05 a la semana.\n\nSi los dos solicitáis Child Benefit por el mismo hijo, solo uno de vosotros recibirá Child Benefit por él.\n\nSi tienes derecho a Child Benefit por otros hijos, recibirás £17.90 por cada hijo.",
+  "seconds": 1.99,
+  "tokens_out": 192,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#2",
+  "text": "### Si las familias se juntan\n\nSi te mudas a vivir con una pareja que también recibe Child Benefit, recibes £27.05 por el hijo mayor del hogar. Recibes £17.90 por cada uno de los hijos menores.\n\nTú y tu pareja pueden solicitar la prestación por hijos distintos. Si viven juntos, no pueden los dos solicitarla al tipo más alto; si lo hacen, puede que tengan que devolver parte del dinero.\n\nDebes informar del cambio en las circunstancias de tu familia.",
+  "seconds": 2.16,
+  "tokens_out": 187,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#3",
+  "text": "## Si usted o su pareja ganan por encima del límite\n\nSi los ingresos netos ajustados (\"adjusted net income\") de usted o de su pareja superan el límite, es posible que tenga que pagar el High Income Child Benefit Charge.\n\nSus ingresos netos ajustados son el total de sus ingresos sujetos a impuestos antes de cualquier desgravación personal (\"personal allowances\") y menos cosas como Gift Aid. Sus ingresos totales sujetos a impuestos incluyen los intereses de ahorros y los dividendos.\n\nSi tiene que pagar el cargo, aún puede obtener las demás ventajas de Child Benefit, como los National Insurance credits. El cargo no será superior a la cantidad que recibe con los pagos de Child Benefit.\n\nCompruebe si sus ingresos netos ajustados superan el límite con la Child Benefit tax calculator. Si los superan, la calculadora también le indicará cuánto cargo tendrá que pagar.\n\nSi usted y su pareja tienen cada uno unos ingresos individuales superiores al límite, la persona con los ingresos netos ajustados más altos es la responsable de pagar el cargo.\n\nSi usted o su pareja tienen unos ingresos individuales que superan el límite en £20,000 o más (£10,000 o más antes de abril de 2024), se le cobrará la misma cantidad que recibe con los pagos de Child Benefit. Al final no le quedará dinero extra de Child Benefit.\n\nPuede hacer una solicitud y optar por no recibir los pagos si no quiere pagar el cargo. Aun así, puede obtener las demás ventajas que ofrece Child Benefit, como los National Insurance credits.",
+  "seconds": 4.01,
+  "tokens_out": 584,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#4",
+  "text": "## Si tiene menos de 16 años\n\nPuede hacer la solicitud usted mismo por su propio hijo o hija, o bien una persona responsable de usted puede hacerla en su nombre. Normalmente recibirá más si hace la solicitud usted mismo.",
+  "seconds": 3.84,
+  "tokens_out": 440,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#0",
+  "text": "Universal Credit se paga una vez al mes. La cantidad que recibes depende de:\n\n- tu standard allowance\n- cualquier cantidad adicional que se aplique a tu caso\n- cualquier dinero que se descuente de tu pago\n- si trabajas, cuánto ganas\n\nPuedes ver cuánto podrías recibir usando una calculadora de prestaciones (benefits calculator).\n\nSi recibes Universal Credit, obtendrás créditos de Class 3 National Insurance, que cuentan para tu State Pension.",
+  "seconds": 2.22,
+  "tokens_out": 181,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#1",
+  "text": "## Standard allowance\n\nRecibirá una standard allowance para su hogar.\n\n| Cuánto recibirá | Standard allowance mensual |\n\n| Si es soltero/a y tiene menos de 25 años | £338.58 |\n\n| Si es soltero/a y tiene 25 años o más | £424.90 |\n\n| Si vive con su pareja y los dos tienen menos de 25 años | £528.34 (para los dos) |\n\n| Si vive con su pareja y alguno de los dos tiene 25 años o más | £666.97 (para los dos) |",
+  "seconds": 1.82,
+  "tokens_out": 183,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#2",
+  "text": "## Cantidades adicionales\n\nSi cumple los requisitos, puede recibir más dinero además de su standard allowance.\n\nDebe informar de los cambios cuando pase a tener derecho a una cantidad adicional. No se añaden automáticamente. Por ejemplo, si pasa a ser cuidador (carer), debe comunicarlo al DWP. El carer’s element de Universal Credit no se aplica automáticamente si empieza a recibir Carer’s Allowance.\n\n### Si tiene hijos\n\nRecibirá £303.94 al mes por cada hijo que viva con usted.\n\nSi su primer hijo nació antes del 6 de abril de 2017, recibirá £47.94 adicionales al mes por ese hijo.\n\nRecibe el dinero por cada hijo hasta el 31 de agosto posterior a su:\n\n- 16.º cumpleaños\n\n- 19.º cumpleaños, si está en educación o formación que cumpla los requisitos – por ejemplo, si estudia GCSEs, A levels, BTECs, Scottish Highers y SVQs o NVQs hasta el nivel 3\n\n### Si su hijo tiene una discapacidad\n\nPuede recibir una cantidad mensual adicional si alguno de sus hijos tiene una discapacidad.\n\nRecibirá una de estas dos cantidades:\n\n- £164.79 – la cantidad más baja\n\n- £514.71 – la cantidad más alta\n\nLa cantidad más alta es para un hijo que:\n\n- recibe el nivel más alto del componente de cuidados (care component) de Disability Living Allowance (DLA) para niños\n\n- recibe el nivel más alto de la parte de vida diaria (daily living part) de Personal Independence Payment (PIP)\n\n- es ciego o tiene una discapacidad visual grave\n\nLa cantidad más baja es para un hijo que recibe cualquier otro nivel de DLA para niños o de PIP.\n\n### Costes de cuidado infantil\n\nPuede reclamar hasta el 85% de sus costes de cuidado infantil si trabaja. Si vive con su pareja, ambos deben trabajar, salvo que uno de los dos no pueda trabajar por una discapacidad o un problema de salud.\n\nEl cuidado infantil debe ser de un proveedor registrado. Puede recibir ayuda para pagar el cuidado infantil, incluidas guarderías (nurseries), childminders, clubes de desayuno, cuidado después de la escuela y clubes de vacaciones.\n\nLa cantidad máxima que puede recibir cada mes es:\n\n- £1,071.09 por un hijo\n\n- £1,836.16 por 2 o más hijos\n\nDebe pagar primero los costes de cuidado infantil y reclamar el dinero después como parte de su pago. Puede recibir apoyo para pagar estos costes por adelantado. Hable con su work coach después de haber hecho su solicitud.\n\nLea más sobre los costes de cuidado infantil y Universal Credit.\n\n### Si tiene una discapacidad o un problema de salud\n\nPuede recibir una cantidad mensual adicional si no puede trabajar a causa de un problema de salud, una discapacidad o una enfermedad de larga duración.\n\n| Cuánto recibirá | Cantidad mensual adicional |\n\n| Si tiene un problema de salud o una discapacidad graves que es poco probable que cambien, o si está cerca del final de su vida | £429.80 |\n\n| Si su problema de salud o discapacidad se evalúa como menos grave, o su estado puede mejorar con el tiempo | £217.26 |\n\nHay normas distintas si comunicó un problema de salud antes del 6 de abril de 2026.\n\nSi vive con su pareja y ambos tienen capacidad limitada para trabajar y para realizar actividades relacionadas con el trabajo, solo recibirán una cantidad mensual adicional. Recibirán la cantidad más alta si uno de los dos tiene derecho a ella.\n\nSi recibe la severe disability premium y pasa a Universal Credit, también podría tener derecho a un pago de ‘transitional protection’.\n\nLea más sobre los problemas de salud, la discapacidad y Universal Credit.\n\n### Si cuida de una persona que recibe una prestación por salud o discapacidad\n\nPodría recibir una cantidad adicional llamada ‘carer’s element’. Se añade a su Universal Credit si cuida de una persona que recibe una de las siguientes prestaciones:\n\n- Adult Disability Payment – nivel standard o enhanced\n\n- Armed Forces Independence Payment\n\n- Attendance Allowance\n\n- Child Disability Payment – nivel medio o más alto de cuidados (middle or highest care award)\n\n- Constant Attendance Allowance – tarifa de día completo (full day rate), tarifa intermedia (intermediate rate) o tarifa excepcional (exceptional rate) con Industrial Injuries Disablement Benefit\n\n- Constant Attendance Allowance – tarifa de día completo (full day rate) con una War Disablement Pension\n\n- Disability Living Allowance – nivel medio o más alto del componente de cuidados (middle or highest care rate)\n\n- Personal Independence Payment – cualquiera de los dos niveles de la parte de vida diaria (daily living part)\n\nDebe cuidar de esa persona al menos 35 horas a la semana.\n\nRecibirá una cantidad mensual adicional de £209.34. Si vive con su pareja y ambos cuidan de la misma persona, solo recibirán una cantidad mensual adicional.\n\nTambién puede tener derecho a Carer’s Allowance.\n\nEsto se suma a cualquier cantidad adicional que reciba por tener un hijo con discapacidad.\n\nSi recibe una cantidad adicional porque tiene capacidad limitada para trabajar y para realizar actividades relacionadas con el trabajo (LCWRA), no puede recibir también el carer’s element.\n\nSi la persona a la que cuida recibe la severe disability premium, esta dejará de pagarse cuando usted solicite el carer’s element de Universal Credit.\n\n### Costes de vivienda\n\nPodría recibir dinero para ayudar a pagar sus costes de vivienda. El pago puede cubrir el alquiler y algunos gastos de servicios (service charges).\n\nSi es propietario de su vivienda, es posible que pueda obtener un préstamo para ayudar con el pago de los intereses de su hipoteca.",
+  "seconds": 11.6,
+  "tokens_out": 2172,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#3",
+  "text": "## Dinero que se descuenta de su pago\n\nEs posible que sus pagos se reduzcan si se da alguno de los siguientes casos:\n\n- está devolviendo un advance (adelanto) de un pago de Universal Credit\n\n- superaría el importe máximo fijado por el benefit cap\n\n- en el pasado se le pagaron prestaciones de más\n\n- debe dinero por Council Tax, multas judiciales, electricidad, gas, agua o Child Maintenance\n\n- paga su factura de gas o electricidad directamente con su pago de Universal Credit\n\n- tiene un trabajo remunerado\n\n- tiene otros ingresos, por ejemplo dinero de pensiones o de otras prestaciones\n\n- tiene más de £6,000 en dinero, ahorros e inversiones\n\nSi tiene más de £6,000 en dinero, ahorros e inversiones, su pago se reducirá en £4.35 por cada £250 que tenga entre £6,000 y £16,000. Se descontarán otras £4.35 por cualquier cantidad restante que no llegue a completar £250.\n\nMás información sobre el dinero que se descuenta de su pago de Universal Credit.\n\n### Prestaciones que afectan a cuánto Universal Credit recibe\n\nPuede recibir Universal Credit al mismo tiempo que otras prestaciones. Su pago de Universal Credit se reducirá en una cantidad igual al pago de la otra prestación. Esto se aplica cuando recibe Universal Credit y cualquiera de las siguientes prestaciones:\n\n- Armed Forces Pensions\n\n- Carer's Allowance\n\n- Carer Support Payment (Scotland)\n\n- Incapacity Benefit\n\n- Industrial Injuries Disablement Benefit (excepto los aumentos por necesitar atención constante y por discapacidad excepcionalmente grave)\n\n- Maternity Allowance\n\n- Severe Disablement Allowance\n\n- State Pension\n\n- Widowed Mother's Allowance\n\n- Widowed Parent's Allowance\n\n- New Style Employment and Support Allowance (ESA)\n\n- New Style Jobseeker's Allowance (JSA)",
+  "seconds": 5.11,
+  "tokens_out": 718,
+  "reader": "changed"
+ },
+ {
+  "id": "universal-credit/what-youll-get#4",
+  "text": "## Cómo solicitar Universal Credit junto con New Style ESA o JSA\n\nEs posible que pueda recibir Universal Credit al mismo tiempo que New Style ESA o JSA. Si es su caso, el pago de Universal Credit se reduce en la cantidad que reciba por New Style ESA o JSA.\n\nNew Style ESA y JSA se pagan con más frecuencia que Universal Credit.\n\nTambién recibirá otros National Insurance credits, que cuentan para su State Pension y pueden ayudarle a tener derecho a otras prestaciones.\n\nEs posible que siga recibiendo New Style ESA o JSA si cambian sus circunstancias y su pago de Universal Credit se reduce o se interrumpe. Por ejemplo, esto podría ocurrir si:\n\n- aumentan los ingresos de su pareja\n\n- tiene más de £16,000 en ahorros\n\nCompruebe si cumple los requisitos para:\n\n- New Style Jobseeker's Allowance\n\n- New Style Employment and Support Allowance",
+  "seconds": 3.13,
+  "tokens_out": 349,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#5",
+  "text": "## Cambiar a Universal Credit desde otras prestaciones\n\nSi ha solicitado Universal Credit, seguirá recibiendo su prestación actual durante 2 semanas más. Debe seguir cumpliendo los requisitos para recibir su prestación actual.\n\nEsto solo se aplica si recibe income-related Employment and Support Allowance o Housing Benefit.\n\nNo tendrá que devolver los pagos adicionales y estos no afectarán al Universal Credit que pueda recibir.\n\nSi ha recibido una carta de Migration Notice en la que se le indica que solicite Universal Credit, también es posible que reciba un pago de \"transitional protection\".",
+  "seconds": 2.24,
+  "tokens_out": 225,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#7",
+  "text": "## Si se revisa su reclamación de Universal Credit\n\nEs posible que se revise su reclamación para asegurarse de que recibe el pago y el apoyo correctos. Obtenga más información sobre las revisiones de Universal Credit.",
+  "seconds": 1.1,
+  "tokens_out": 82,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#0",
+  "text": "Puede que tenga derecho a Carer's Allowance si usted, la persona a la que cuida y el tipo de cuidados que presta cumplen ciertos requisitos.",
+  "seconds": 1.38,
+  "tokens_out": 60,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#1",
+  "text": "## La persona a la que cuida\n\nLa persona a la que cuida debe recibir ya una de estas prestaciones:\n\n- Personal Independence Payment - componente de vida diaria (daily living component)\n\n- Disability Living Allowance - la tasa intermedia o la más alta de cuidados (care rate)\n\n- Scottish Adult Disability Living Allowance - la tasa intermedia o la más alta de cuidados (care rate)\n\n- Attendance Allowance\n\n- Pension Age Disability Payment\n\n- Constant Attendance Allowance a la tasa máxima normal o por encima de ella, junto con Industrial Injuries Disablement Benefit\n\n- Constant Attendance Allowance a la tasa básica (jornada completa), junto con War Disablement Pension\n\n- Armed Forces Independence Payment\n\n- Child Disability Payment - la tasa intermedia o la más alta de cuidados (care rate)\n\n- Adult Disability Payment - componente de vida diaria (daily living component) a la tasa estándar o a la tasa mejorada\n\n### Si cuida a la persona junto con otras personas\n\nNo puede recibir Carer's Allowance si comparte el cuidado de una persona y la otra persona cuidadora ya está solicitando, para esa misma persona:\n\n- Carer's Allowance\n\n- Carer Support Payment\n\n- el importe adicional de Universal Credit por cuidar de alguien que recibe una prestación por discapacidad\n\nSi quiere recibir Carer's Allowance, hable con la otra persona cuidadora para que cambie sus prestaciones.\n\nSi la otra persona cuidadora no quiere hacerlo, usted puede solicitar igualmente Carer's Allowance. El Department for Work and Pensions (DWP) decidirá quién debe recibir la prestación.",
+  "seconds": 4.26,
+  "tokens_out": 596,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#2",
+  "text": "## El tipo de cuidado que usted presta\n\nDebe dedicar al menos 35 horas a la semana a cuidar de otra persona. Esto puede incluir:\n\n- ayudar con el aseo y la cocina\n\n- llevar a la persona a la que cuida a una cita con el médico\n\n- ayudar con las tareas del hogar, como gestionar las facturas y hacer la compra",
+  "seconds": 1.97,
+  "tokens_out": 128,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#3",
+  "text": "## Su elegibilidad\n\nDeben cumplirse todos los requisitos siguientes:\n\n- tiene 16 años o más\n\n- dedica al menos 35 horas a la semana al cuidado de otra persona\n\n- ha estado en England, Scotland o Wales durante al menos 2 de los últimos 3 años (esto no se aplica si es refugiado o tiene el estatus de protección humanitaria)\n\n- normalmente vive en England o Wales, o vive en el extranjero como miembro de las fuerzas armadas (es posible que aún pueda recibir la prestación si se traslada a un país del EEE o a Suiza, o si ya vive en uno de ellos)\n\n- no estudia a tiempo completo\n\n- no estudia 21 horas a la semana o más\n\n- no está sujeto a control de inmigración\n\n- sus ingresos son de £204 o menos a la semana después de impuestos, National Insurance y gastos\n\nSi vive en Scotland, debe solicitar Carer Support Payment en lugar de Carer's Allowance.\n\nSi es de la UE, Suiza, Noruega, Islandia o Liechtenstein, normalmente usted y su familia también necesitan el estatus de residente establecido (settled status) o de residente preestablecido (pre-settled status) del EU Settlement Scheme para recibir Carer's Allowance. El plazo para solicitar este programa terminó el 30 de junio de 2021 para la mayoría de las personas, pero es posible que todavía pueda solicitarlo. Compruebe si todavía puede solicitar el EU Settlement Scheme.\n\n### Cómo calcular sus ingresos\n\nSus ingresos son cualquier ingreso procedente de un empleo y de un trabajo por cuenta propia, después de impuestos, National Insurance y gastos.\n\nLos gastos pueden incluir:\n\n- el 50% de sus aportaciones a pensiones\n\n- el equipo que necesita para su trabajo, por ejemplo ropa especializada\n\n- los gastos de viaje entre distintos lugares de trabajo que no pague su empleador, por ejemplo combustible o billetes de tren\n\n- los costes del negocio, si trabaja por cuenta propia, por ejemplo un ordenador que solo usa para trabajar\n\nSi paga a un cuidador para que atienda a la persona con discapacidad o a sus hijos mientras usted trabaja, puede considerar como gasto los costes de cuidado que sean iguales o inferiores al 50% de sus ingresos. El cuidador no debe ser su cónyuge, pareja, padre, madre, hijo, hija, hermano o hermana.\n\nEjemplo\n\nUsted gana £100 a la semana (después de impuestos, National Insurance y otros gastos) y gasta £60 a la semana en cuidados mientras trabaja. Puede considerar £50 de esa cantidad como gasto.\n\nEntre los pagos que no cuentan como ingresos están:\n\n- el dinero recibido de una pensión de empresa (occupational pension) o privada\n\n- las aportaciones para sus gastos de vida o alojamiento de alguien que vive con usted (esa persona no puede ser inquilino ni huésped)\n\n- los primeros £20 a la semana y el 50% del resto de cualquier ingreso que obtenga de alguien que se aloje como huésped en su casa\n\n- un préstamo o un pago por adelantado de su empleador",
+  "seconds": 7.38,
+  "tokens_out": 1140,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#4",
+  "text": "## Si recibe la State Pension\n\nNo puede recibir al mismo tiempo la cantidad completa de Carer's Allowance y de su State Pension.\n\nSi su pensión es de £86.45 a la semana o más, no recibirá ningún pago de Carer's Allowance.\n\nSi su pensión es de menos de £86.45 a la semana, recibirá un pago de Carer's Allowance para completar la diferencia.",
+  "seconds": 1.39,
+  "tokens_out": 140,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#5",
+  "text": "## Si recibe Pension Credit\n\nSi su State Pension es de más de £86.45 a la semana, no recibirá ningún pago de Carer’s Allowance, pero sus pagos de Pension Credit aumentarán en su lugar.",
+  "seconds": 1.89,
+  "tokens_out": 82,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#0",
+  "text": "Pension Credit aumenta:\n\n- tus ingresos semanales hasta £238 si no tienes pareja\n\n- los ingresos semanales de ambos hasta £363.25 si tienes pareja\n\nPuede que recibas cantidades adicionales si tienes otras responsabilidades y gastos.\n\nEl complemento y las cantidades adicionales se conocen como ‘Guarantee Credit’.",
+  "seconds": 1.82,
+  "tokens_out": 133,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#1",
+  "text": "## Si tiene una discapacidad grave\n\nPodría recibir £86.05 más a la semana si recibe cualquiera de las siguientes prestaciones:\n\n- Attendance Allowance\n\n- el nivel medio o el más alto del componente de cuidados (care component) de Disability Living Allowance (DLA)\n\n- el componente de vida diaria (daily living component) de Personal Independence Payment (PIP)\n\n- Armed Forces Independence Payment\n\n- el componente de vida diaria (daily living component) de Adult Disability Payment\n\n- Pension Age Disability Payment\n\n- el nivel medio o el más alto del componente de cuidados (care component) de Scottish Adult Disability Living Allowance",
+  "seconds": 1.67,
+  "tokens_out": 232,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#2",
+  "text": "## Si cuida de otro adulto\n\nPodría recibir £48.15 más a la semana si:\n\n- recibe Carer’s Allowance\n\n- recibe Carer Support Payment\n\n- ha solicitado Carer’s Allowance pero no le pagan porque ya recibe otra prestación (benefit) que paga una cantidad más alta\n\nSi usted y su pareja han solicitado Carer’s Allowance, o ya la reciben, los dos pueden recibir esta cantidad adicional.",
+  "seconds": 2.1,
+  "tokens_out": 164,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#3",
+  "text": "## Si es responsable de niños o jóvenes\n\nPodría recibir una cantidad adicional por cada niño o joven del que sea responsable y que viva con usted.\n\nRecibirá £69.98 a la semana por cada niño o joven. Esta cantidad aumenta a £81.07 a la semana para el primer hijo si nació antes del 6 de abril de 2017.\n\nRecibirá la cantidad adicional hasta el 31 de agosto posterior a su:\n\n- 16.º cumpleaños\n\n- 19.º cumpleaños, si está en educación o formación que cumpla los requisitos – por ejemplo, si estudia para los GCSEs, A levels, BTECs, Scottish Highers y SVQs o NVQs hasta el nivel 3\n\nSi está en educación, esta debe ser de más de 12 horas a la semana de media.\n\n### Si el niño o joven tiene una discapacidad\n\nSi el niño o joven tiene una discapacidad, también podría recibir una cantidad adicional.\n\nPodría recibir £37.93 más a la semana si el niño o joven recibe:\n\n- Disability Living Allowance (DLA) for children - tarifa más baja o intermedia del componente de cuidados (care component) o cualquier tarifa del componente de movilidad (mobility component)\n\n- Child Disability Payment - tarifa más baja o intermedia del componente de cuidados (care component) o cualquier tarifa del componente de movilidad (mobility component)\n\n- Scottish Adult Disability Living Allowance - tarifa más baja o intermedia del componente de cuidados (care component) o cualquier tarifa del componente de movilidad (mobility component)\n\n- Personal Independence Payment (PIP) - tarifa estándar del componente de vida diaria (daily living component) o cualquier tarifa del componente de movilidad (mobility component)\n\n- Adult Disability Payment - tarifa estándar del componente de vida diaria (daily living component) o cualquier tarifa del componente de movilidad (mobility component)\n\nPodría recibir £118.46 más a la semana si el niño o joven recibe:\n\n- Disability Living Allowance (DLA) for children - tarifa más alta del componente de cuidados (care component)\n\n- Child Disability Payment - tarifa más alta del componente de cuidados (care component)\n\n- Scottish Adult Disability Living Allowance - tarifa más alta del componente de cuidados (care component)\n\n- Personal Independence Payment (PIP) - tarifa mejorada (enhanced) del componente de vida diaria (daily living component)\n\n- Adult Disability Payment - tarifa mejorada (enhanced) del componente de vida diaria (daily living component)\n\nTambién podría tener derecho a esta cantidad si es ciego o tiene una discapacidad visual grave.",
+  "seconds": 5.22,
+  "tokens_out": 930,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#4",
+  "text": "## Si tiene gastos de vivienda\n\nPodría recibir una cantidad adicional para cubrir sus gastos de vivienda, como:\n\n- el ground rent (renta del terreno) si su propiedad es leasehold (en régimen de arrendamiento a largo plazo)\n\n- algunos service charges (gastos de servicios comunes)\n\n- los gastos de tiendas de campaña (tents) y los alquileres de terreno (site rents)\n\nLa cantidad que podría recibir depende de sus gastos de vivienda.\n\nSi recibe Pension Credit, también podría tener derecho a:\n\n- Council Tax Reduction\n\n- Housing Benefit, si alquila la vivienda en la que reside\n\n- Support for Mortgage Interest, si es propietario de la vivienda en la que reside",
+  "seconds": 3.23,
+  "tokens_out": 262,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#5",
+  "text": "## Si tienes ahorros o una segunda pensión\n\nPodrías recibir la parte de «Savings Credit» del Pension Credit si se cumplen las dos condiciones siguientes:\n\n- alcanzaste la edad para recibir la State Pension antes del 6 de abril de 2016\n\n- ahorraste algo de dinero para la jubilación, por ejemplo una pensión personal o una pensión de empresa\n\nRecibirás hasta £17.96 a la semana de Savings Credit si no tienes pareja. Si tienes pareja, recibirás hasta £20.10 a la semana.\n\nEs posible que aún puedas recibir algo de Savings Credit aunque no recibas la parte de Guarantee Credit del Pension Credit.",
+  "seconds": 2.25,
+  "tokens_out": 249,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#6",
+  "text": "## Otras ayudas si recibe Pension Credit\n\nSi recibe Pension Credit, recibirá automáticamente los cold weather payments.\n\nTambién podrá:\n\n- solicitar una licencia de televisión gratuita (TV licence) si tiene 75 años o más\n\n- recibir ayuda con los costes del NHS si recibe la parte Guarantee Credit de Pension Credit\n\nLos costes del NHS pueden incluir, por ejemplo, los medicamentos con receta, el tratamiento dental, las gafas y los gastos de transporte para acudir a citas en el hospital.",
+  "seconds": 1.71,
+  "tokens_out": 197,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#7",
+  "text": "## Obtener ayuda con las cantidades adicionales\n\nPóngase en contacto con la línea de ayuda del Pension Service si no está seguro de si tiene derecho a recibir cantidades adicionales.\n\nLínea de ayuda del Pension Service\n\nTeléfono: 0800 99 1234\n\nRelay UK (si no puede oír o hablar por teléfono): 18001 y después 0800 99 1234\n\nServicio de videorretransmisión en lengua de signos británica (British Sign Language, BSL), si usa un ordenador - consulte cómo usar el servicio en un móvil o una tableta\n\nDe lunes a viernes, de 8am a 6pm (excepto los días festivos)\n\nConsulte las tarifas de las llamadas",
+  "seconds": 2.31,
+  "tokens_out": 249,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#0",
+  "text": "El Statutory Maternity Pay (SMP) se paga durante un máximo de 39 semanas. Usted recibe:\n\n- el 90% de su salario semanal medio (antes de impuestos) durante las primeras 6 semanas\n\n- £194.32 o el 90% de su salario semanal medio (la cantidad que sea menor) durante las siguientes 33 semanas\n\nEl SMP se paga de la misma manera que su sueldo (por ejemplo, cada mes o cada semana). Se descontarán los impuestos (Tax) y las cotizaciones del National Insurance.\n\nUtilice el maternity planner para calcular cuánto Statutory Maternity Pay podría recibir.\n\nSi toma Shared Parental Leave, recibirá Statutory Shared Parental Pay (ShPP). El ShPP es de £194.32 a la semana o el 90% de su salario semanal medio, la cantidad que sea menor.",
+  "seconds": 2.31,
+  "tokens_out": 310,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#1",
+  "text": "## Fecha de inicio\n\nEl SMP normalmente empieza cuando te tomas la baja por maternidad.\n\nEmpieza automáticamente si estás de baja en el trabajo por una enfermedad relacionada con el embarazo durante las 4 semanas anteriores a la semana (de domingo a sábado) en la que se espera el nacimiento de tu bebé.",
+  "seconds": 1.94,
+  "tokens_out": 124,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#2",
+  "text": "## Problemas y disputas\n\nPida a su empleador que le explique su SMP si cree que no es correcto. Si no está de acuerdo con el importe o su empleador no puede pagarle (por ejemplo, porque es insolvente), póngase en contacto con el Statutory Payment Disputes Team.",
+  "seconds": 1.8,
+  "tokens_out": 103,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#0",
+  "text": "Si cumples los requisitos, puedes recibir £123.25 a la semana de Statutory Sick Pay (SSP) o el 80% de tus ingresos semanales normales, la cantidad que sea menor. Se paga durante un máximo de 28 semanas.\n\nSe te pagará el SSP por todos los días completos en que estés de baja por enfermedad y que normalmente habrías trabajado.\n\nTu empleador usará el promedio de tus ingresos semanales durante un periodo de 8 semanas para calcular cuánto recibes. Sigues teniendo derecho a recibirlo si empezaste tu trabajo hace poco y todavía no has cobrado 8 semanas de salario. Pregunta a tu empleador para obtener más información.",
+  "seconds": 2.65,
+  "tokens_out": 254,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#1",
+  "text": "## Cómo se le paga\n\nSu empleador le paga el SSP de la misma forma que su salario normal, por ejemplo, cada semana o cada mes.\n\nSi tiene más de un trabajo, es posible que reciba el SSP de cada empleador.\n\nSe descontarán el Tax y el National Insurance.\n\nSi cree que no está recibiendo la cantidad correcta de SSP, hable con su empleador. Si sigue sin estar conforme, póngase en contacto con la línea de consultas de HM Revenue and Customs (HMRC).",
+  "seconds": 2.16,
+  "tokens_out": 184,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#0",
+  "text": "La tarifa por hora del salario mínimo depende de tu edad y de si eres aprendiz (apprentice).\n\nEsta página también está disponible en galés (Cymraeg).\n\nDebes tener al menos:\n\n- la edad mínima legal para dejar la escuela para recibir el National Minimum Wage\n- 21 años para recibir el National Living Wage. El salario mínimo seguirá aplicándose a los trabajadores de 20 años o menos",
+  "seconds": 3.45,
+  "tokens_out": 151,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#1",
+  "text": "## Tarifas actuales\n\nLas tarifas cambian el 1 de abril de cada año.\n\n| | 21 años o más | De 18 a 20 años | Menores de 18 años | Apprentice |\n\n| Abril de 2026 | £12.71 | £10.85 | £8 | £8 |\n\n| Abril de 2027 | £13.21 | £11.27 | £8.31 | £8.31 |\n\n### Apprentices\n\nLos apprentices tienen derecho a la tarifa de apprentice si cumplen una de estas condiciones:\n\n- tienen menos de 19 años\n\n- tienen 19 años o más y están en el primer año de su apprenticeship\n\nEjemplo\n\nUn apprentice de 21 años que está en el primer año de su apprenticeship tiene derecho a una tarifa mínima por hora de £8.\n\nLos apprentices tienen derecho al salario mínimo que corresponde a su edad si cumplen las dos condiciones siguientes:\n\n- tienen 19 años o más\n\n- han completado el primer año de su apprenticeship\n\nEjemplo\n\nUn apprentice de 21 años que ha completado el primer año de su apprenticeship tiene derecho a una tarifa mínima por hora de £12.71.",
+  "seconds": 2.96,
+  "tokens_out": 407,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#2",
+  "text": "## Tarifas anteriores\n\nLas siguientes tarifas corresponden al National Living Wage y al National Minimum Wage desde abril de 2019.\n\n### Tarifas entre el 1 de abril de 2024 y el 31 de marzo de 2026\n\nDesde el 1 de abril de 2024, el National Living Wage corresponde a las personas de 21 años o más.\n\n| | 21 años o más | 18 a 20 años | Menores de 18 | Apprentice |\n|---|---|---|---|---|\n| Abril de 2025 a marzo de 2026 | £12.21 | £10 | £7.55 | £7.55 |\n| Abril de 2024 a marzo de 2025 | £11.44 | £8.60 | £6.40 | £6.40 |\n\n### Tarifas entre el 1 de abril de 2021 y el 31 de marzo de 2024\n\nEntre el 1 de abril de 2021 y el 31 de marzo de 2024, el National Living Wage correspondía a las personas de 23 años o más.\n\n| | 23 años o más | 21 a 22 años | 18 a 20 años | Menores de 18 | Apprentice |\n|---|---|---|---|---|---|\n| Abril de 2023 a marzo de 2024 | £10.42 | £10.18 | £7.49 | £5.28 | £5.28 |\n| Abril de 2022 a marzo de 2023 | £9.50 | £9.18 | £6.83 | £4.81 | £4.81 |\n| Abril de 2021 a marzo de 2022 | £8.91 | £8.36 | £6.56 | £4.62 | £4.30 |\n\n### Tarifas anteriores al 1 de abril de 2021\n\nAntes del 1 de abril de 2021, el National Living Wage correspondía a las personas de 25 años o más.\n\n| | 25 años o más | 21 a 24 años | 18 a 20 años | Menores de 18 | Apprentice |\n|---|---|---|---|---|---|\n| Abril de 2020 a marzo de 2021 | £8.72 | £8.20 | £6.45 | £4.55 | £4.15 |\n| Abril de 2019 a marzo de 2020 | £8.21 | £7.70 | £6.15 | £4.35 | £3.90 |",
+  "seconds": 4.19,
+  "tokens_out": 767,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#3",
+  "text": "## Quién tiene derecho al salario mínimo\n\nLea la información sobre quién tiene derecho al salario mínimo.\n\nPuede usar la calculadora del salario mínimo (minimum wage calculator) para comprobar si se le está pagando el National Minimum Wage o el National Living Wage.\n\nPóngase en contacto con Acas si no recibe el National Minimum Wage y cree que debería recibirlo.",
+  "seconds": 1.94,
+  "tokens_out": 141,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#0",
+  "text": "Recibirás una carta en octubre o noviembre en la que se te informará de cuánto Winter Fuel Payment te corresponde, si cumples los requisitos.\n\nSi no recibes una carta pero crees que cumples los requisitos, comprueba si necesitas hacer una solicitud.\n\nLa cantidad que recibas depende de la fecha en que naciste y de tu situación entre el 21 y el 27 de septiembre de 2026. Esta semana se llama la «qualifying week» (semana de referencia).\n\nEl dinero que recibas no afectará a tus otras prestaciones (other benefits).",
+  "seconds": 2.79,
+  "tokens_out": 201,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#1",
+  "text": "## Si sus ingresos superan los £35,000\n\nHMRC le devolverá el importe de su Winter Fuel Payment, es decir, se lo reclamará, de una de estas dos maneras:\n\n- cambiando su tax code\n\n- añadiendo el importe a su declaración de impuestos de Self Assessment\n\nPuede comprobar si sus ingresos totales superan el límite y cómo HMRC le reclamará el importe.",
+  "seconds": 1.58,
+  "tokens_out": 143,
+  "reader": "changed"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#2",
+  "text": "## Si vive solo o ninguna de las personas con las que vive cumple los requisitos para recibir el Winter Fuel Payment\n\nRecibirá una de estas cantidades:\n\n- £200 si nació entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £300 si nació antes del 28 de septiembre de 1946",
+  "seconds": 1.81,
+  "tokens_out": 120,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#3",
+  "text": "## Si vive con otra persona que tiene derecho al Winter Fuel Payment\n\nSu pago puede ser diferente si recibe alguno de los siguientes beneficios:\n\n- Pension Credit\n\n- Universal Credit\n\n- income-related Employment and Support Allowance (ESA)\n\n### Si no recibe ninguno de los beneficios\n\nRecibirá un pago de:\n\n- £100 si usted y la persona con la que vive nacieron ambos entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £100 si usted nació entre el 28 de septiembre de 1946 y el 27 de junio de 1960, pero la persona con la que vive nació antes del 28 de septiembre de 1946\n\n- £200 si usted nació antes del 28 de septiembre de 1946, pero la persona con la que vive nació entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £150 si usted y la persona con la que vive nacieron ambos antes del 28 de septiembre de 1946\n\n### Si usted y su pareja solicitan conjuntamente alguno de los beneficios\n\nUno de ustedes recibirá un pago de:\n\n- £200 si ambos nacieron entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £300 si uno de ustedes, o ambos, nacieron antes del 28 de septiembre de 1946\n\nSe le pagará en la cuenta bancaria en la que normalmente se le pagan sus beneficios.\n\n### Si recibe alguno de los beneficios (no como parte de una solicitud conjunta)\n\nRecibirá un pago de:\n\n- £200 si nació entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £300 si nació antes del 28 de septiembre de 1946",
+  "seconds": 3.76,
+  "tokens_out": 613,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#4",
+  "text": "## Si vives en una residencia de ancianos\n\nSi cumples los requisitos, recibirás una de estas cantidades:\n\n- £100 si naciste entre el 28 de septiembre de 1946 y el 27 de junio de 1960\n\n- £150 si naciste antes del 28 de septiembre de 1946",
+  "seconds": 1.81,
+  "tokens_out": 103,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#0",
+  "text": "Es posible que reciba Cold Weather Payments si recibe ciertos beneficios o Support for Mortgage Interest.\n\nSi cumple los requisitos, recibirá estos pagos de forma automática. No necesita solicitarlos, pero puede que tenga que comunicar un cambio en sus circunstancias si tiene un bebé o si un niño menor de 5 años viene a vivir con usted.\n\nLos pagos no afectan a sus otros beneficios.\n\nEsta guía también está disponible en galés (Cymraeg) y en formato de lectura fácil (easy read).\n\nRecibirá un pago si la temperatura media en su zona se registra, o se prevé, en cero grados centígrados o menos durante 7 días consecutivos.\n\nRecibirá £25 por cada período de 7 días de frío extremo entre el 1 de noviembre de 2026 y el 31 de marzo de 2027.\n\nCompruebe si el tiempo que hace donde vive significa que puede recibir un pago.\n\nCompruebe un código postal de England o Wales.\n\nCompruebe un código postal de Northern Ireland.\n\nLos Cold Weather Payments son distintos de los Winter Fuel Payments.",
+  "seconds": 2.95,
+  "tokens_out": 399,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#1",
+  "text": "## Si vives en Escocia\n\nNo puedes recibir Cold Weather Payments.\n\nEs posible que recibas en su lugar un Winter Heating Payment anual. Recibirás este pago independientemente de las condiciones meteorológicas de tu zona.",
+  "seconds": 1.1,
+  "tokens_out": 87,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#0",
+  "text": "Attendance Allowance se paga semanalmente y hay 2 tarifas distintas. La que recibe depende del nivel de ayuda que necesite.\n\nAttendance Allowance no depende de los ingresos (not means-tested): lo que gane o el dinero que tenga en ahorros no afectará a la cantidad que reciba.",
+  "seconds": 1.36,
+  "tokens_out": 112,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#1",
+  "text": "## Attendance Allowance rates\n\n| Rate | Level of help you need |\n\n| Lower rate - £76.70 | Ayuda frecuente o supervisión constante durante el día, o supervisión durante la noche |\n\n| Higher rate - £114.60 | Ayuda o supervisión durante todo el día y toda la noche, o un profesional médico ha dicho que se encuentra en la etapa final de su vida |\n\nSi cambian sus circunstancias, podría recibir una tarifa diferente. Debe informar de cualquier cambio de circunstancias.\n\nPodría recibir Pension Credit, Housing Benefit o Council Tax Reduction adicionales si recibe Attendance Allowance. Consulte con la línea de ayuda o la oficina que gestiona su prestación.\n\nSi recibe Constant Attendance Allowance al mismo tiempo, su Attendance Allowance se reducirá en la cantidad que reciba de Constant Attendance Allowance.",
+  "seconds": 2.56,
+  "tokens_out": 325,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#0",
+  "text": "La cantidad de Personal Independence Payment (PIP) que recibe depende de la dificultad que tenga para realizar:\n\n- las actividades de la vida diaria (tareas de «daily living»)\n\n- desplazarse (tareas de «mobility»)\n\nConsulte qué tareas cuentan como tareas de daily living y de mobility.",
+  "seconds": 1.22,
+  "tokens_out": 113,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#1",
+  "text": "## Cantidades de PIP\n\n| | Tarifa semanal más baja | Tarifa semanal más alta |\n\n| Parte de vida diaria (Daily living) | £76.70 | £114.60 |\n\n| Parte de movilidad (Mobility) | £30.30 | £80 |\n\nEl PIP no paga impuestos. La cantidad que recibe no depende de sus ingresos ni de sus ahorros.\n\nInforme al Department for Work and Pensions (DWP) de inmediato si cambian sus circunstancias personales o la forma en que su enfermedad o discapacidad le afecta.",
+  "seconds": 2.28,
+  "tokens_out": 199,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#2",
+  "text": "## Cómo se le paga\n\nEl PIP normalmente se paga cada 4 semanas.\n\nSu carta de decisión le indica:\n\n- la fecha de su primer pago\n- el día de la semana en que normalmente se le pagará\n- durante cuánto tiempo recibirá el PIP\n- cuándo, y si es el caso, se revisará su solicitud\n\nSi su fecha de pago cae en un día festivo (bank holiday), normalmente se le pagará antes de ese día festivo. Después, seguirá cobrando con normalidad.\n\nTodas las prestaciones (benefits), pensiones y ayudas se ingresan en su cuenta bancaria, de una building society o de una credit union.",
+  "seconds": 2.66,
+  "tokens_out": 231,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#3",
+  "text": "## Otras ayudas que puede recibir\n\nSi recibe la parte de movilidad (mobility) del PIP, puede tener derecho a:\n\n- Blue Badge\n\n- un descuento o una exención del impuesto de vehículos (vehicle tax)\n\n- un vehículo del Motability Scheme, si recibe la tarifa de movilidad más alta del PIP\n\nSi recibe la parte de vida diaria (daily living) o la parte de movilidad (mobility) del PIP, tiene derecho a una Disabled Persons Railcard.\n\nEs posible que pueda obtener un descuento en la Council Tax y en los viajes en autobús local. Consulte con su ayuntamiento (local council) para comprobarlo.\n\nSi alguien le ayuda a cuidarle, esa persona puede tener derecho a Carer's Allowance o Carer's Credit.\n\nInfórmese sobre otras ayudas económicas para personas con discapacidad o problemas de salud.",
+  "seconds": 2.91,
+  "tokens_out": 323,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#4",
+  "text": "## Si recibe otras prestaciones y PIP\n\nEs posible que reciba un complemento adicional (llamado disability premium) si recibe:\n\n- income-related Employment and Support Allowance (ESA)\n\n- Housing Benefit\n\nSi recibe Constant Attendance Allowance, recibirá una cantidad menor de la parte de PIP correspondiente a la vida diaria (daily living).\n\nSi recibe War Pensioners' Mobility Supplement, no recibirá la parte de PIP correspondiente a la movilidad (mobility).",
+  "seconds": 1.55,
+  "tokens_out": 182,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#0",
+  "text": "Marriage Allowance te permite transferir £1,260 de tu Personal Allowance a tu marido, esposa o pareja de unión civil (civil partner). Tu Personal Allowance es la cantidad que puedes ganar antes de pagar impuestos.\n\nEsto reduce los impuestos de tu pareja hasta en £252 en el año fiscal (del 6 de abril al 5 de abril del año siguiente).\n\nEsta guía también está disponible en galés (Cymraeg).\n\nPara beneficiarse como pareja, normalmente tú (como la persona que gana menos) debes tener unos ingresos inferiores a tu Personal Allowance, que suele ser de £12,570.\n\nPuedes calcular cuántos impuestos podríais ahorrar como pareja. En cambio, debes llamar a la línea de ayuda de Income Tax si recibes otros ingresos, como dividendos, intereses de ahorros o prestaciones de tu trabajo. También puedes llamar si no sabes cuáles son tus ingresos sujetos a impuestos.\n\nCuando transfieres una parte de tu Personal Allowance a tu marido, esposa o pareja de unión civil, es posible que tú mismo tengas que pagar más impuestos, pero aun así como pareja podríais pagar menos.\n\n### Ejemplo\n\nTus ingresos son £11,500 y tu Personal Allowance es £12,570, así que no pagas impuestos.\n\nLos ingresos de tu pareja son £20,000 y su Personal Allowance es £12,570, así que paga impuestos por £7,430 (sus \"ingresos sujetos a impuestos\"). Esto significa que, como pareja, pagáis Income Tax por £7,430.\n\nCuando solicitas Marriage Allowance, transfieres £1,260 de tu Personal Allowance a tu pareja. Tu Personal Allowance pasa a ser £11,310 y tu pareja obtiene una reducción de £1,260 en sus ingresos sujetos a impuestos.\n\nEsto significa que ahora pagarás impuestos por £190, pero tu pareja solo pagará impuestos por £6,170. Como pareja salís ganando, porque solo pagáis Income Tax por £6,360 en lugar de £7,430, lo que os ahorra £214 en impuestos.",
+  "seconds": 7.38,
+  "tokens_out": 1114,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#1",
+  "text": "## Quién puede solicitarlo\n\nPuede beneficiarse del Marriage Allowance si se cumplen todas las condiciones siguientes:\n\n- está casado/a o en una unión civil (civil partnership)\n\n- no paga Income Tax o sus ingresos son inferiores a su Personal Allowance (normalmente £12,570)\n\n- su pareja paga Income Tax al tipo básico (basic rate), lo que normalmente significa que sus ingresos están entre £12,571 y £50,270 antes de recibir el Marriage Allowance\n\nNo puede solicitar el Marriage Allowance si vive con su pareja pero no están casados ni en una unión civil (civil partnership).\n\nSi vive en Escocia, su pareja debe pagar el tipo inicial (starter), básico (basic) o intermedio (intermediate), lo que normalmente significa que sus ingresos están entre £12,571 y £43,662.\n\nNo afectará a su solicitud del Marriage Allowance si usted o su pareja:\n\n- reciben actualmente una pensión\n\n- viven en el extranjero, siempre que reciban una Personal Allowance\n\nSi usted o su pareja nacieron antes del 6 de abril de 1935, quizá se beneficien más como pareja si solicitan en su lugar el Married Couple’s Allowance.\n\nNo se puede recibir el Marriage Allowance y el Married Couple’s Allowance al mismo tiempo.",
+  "seconds": 3.52,
+  "tokens_out": 478,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#2",
+  "text": "## Cómo retroceder (backdate) su solicitud\n\nPuede retroceder su solicitud hasta el 6 de abril de 2022 (el ejercicio fiscal 2022 to 2023) para todos los años en los que tuvo derecho a Marriage Allowance.\n\nLa factura de impuestos de su pareja se reducirá según la tasa de Personal Allowance de los años a los que retroceda la solicitud.\n\nSi su pareja ha fallecido desde el 5 de abril de 2022, todavía puede presentar la solicitud: llame a la línea de ayuda de Income Tax (Income Tax helpline). Si su pareja era quien ganaba menos, quien debe llamar es la persona responsable de gestionar sus asuntos fiscales.",
+  "seconds": 2.41,
+  "tokens_out": 256,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#3",
+  "text": "## Cancelar Marriage Allowance\n\nSu Personal Allowance se transferirá automáticamente a su pareja cada año hasta que usted cancele Marriage Allowance, por ejemplo, si cambian sus ingresos o si su relación termina.",
+  "seconds": 1.58,
+  "tokens_out": 87,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#0",
+  "text": "Normalmente tendrá derecho a statutory redundancy pay si es empleado y ha trabajado para su empleador actual durante 2 años o más.\n\nRecibirá:\n\n- media semana de salario por cada año completo en que tuvo menos de 22 años\n\n- una semana de salario por cada año completo en que tuvo 22 años o más, pero menos de 41\n\n- una semana y media de salario por cada año completo en que tuvo 41 años o más\n\nEl tiempo de servicio se limita a un máximo de 20 años.\n\nSu salario semanal es el promedio de lo que ganaba por semana durante las 12 semanas anteriores al día en que recibió el aviso de despido por redundancia (redundancy notice).\n\nSi cobró menos de lo habitual porque estaba en 'furlough' a causa del coronavirus, su statutory redundancy pay se calcula según lo que habría ganado normalmente.\n\nSi fue despedido por redundancia el 6 de abril de 2026 o después, su salario semanal tiene un límite de £751 y el máximo de statutory redundancy pay que puede recibir es £22,530. Si fue despedido por redundancia antes del 6 de abril de 2026, estas cantidades serán menores.\n\nCalcule su redundancy pay.\n\nTiene 6 meses desde la fecha en que termina su empleo para solicitar el statutory redundancy pay.",
+  "seconds": 3.49,
+  "tokens_out": 461,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#1",
+  "text": "## Excepciones\n\nNo tiene derecho a statutory redundancy pay si:\n\n- su empleador le ofrece mantenerle en su puesto\n\n- su empleador le ofrece un trabajo alternativo adecuado y usted lo rechaza sin una buena razón\n\nSi le despiden por mala conducta, no se considera despido por redundancia (redundancy), por lo que no recibiría statutory redundancy pay en ese caso.\n\nTampoco tiene derecho a statutory redundancy pay si se encuentra en una o más de las siguientes categorías:\n\n- antiguos estibadores portuarios registrados (cubiertos por otros acuerdos) y pescadores que trabajan a la parte\n\n- empleados de la Corona (crown servants), miembros de las fuerzas armadas o de los servicios de policía\n\n- aprendices que no son empleados al terminar su formación\n\n- una persona de servicio doméstico que es miembro de la familia directa del empleador",
+  "seconds": 2.68,
+  "tokens_out": 317,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#2",
+  "text": "### Suspensiones temporales y de corta duración (lay-offs)\n\nPuede reclamar statutory redundancy pay si cumple los requisitos y ha sido suspendido temporalmente de empleo (lay-off), sin sueldo o con menos de la mitad del sueldo de una semana, durante cualquiera de estos periodos:\n\n- más de 4 semanas seguidas\n\n- más de 6 semanas no consecutivas dentro de un periodo de 13 semanas\n\nDebe escribir a su empleador para decirle que tiene la intención de reclamar statutory redundancy pay. Debe hacerlo en un plazo de 4 semanas desde su último día sin trabajar dentro del periodo de 4 o 6 semanas.\n\nSi su empleador no rechaza su reclamación en un plazo de 7 días desde que la recibe, escriba de nuevo a su empleador para darle su preaviso.\n\nSu reclamación podría ser rechazada si es probable que su trabajo habitual empiece en un plazo de 4 semanas y continúe durante al menos 13 semanas.",
+  "seconds": 3.0,
+  "tokens_out": 363,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#0",
+  "text": "La cantidad de Income Tax que paga en cada tax year depende de:\n\n- cuánto de sus ingresos supera su Personal Allowance\n- cuánto de sus ingresos entra en cada tax band\n\nAlgunos ingresos están libres de impuestos.\n\nEl tax year actual va del 6 de abril de 2026 al 5 de abril de 2027.\n\nEsta guía también está disponible en galés (Cymraeg).",
+  "seconds": 2.1,
+  "tokens_out": 142,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#1",
+  "text": "## Su Personal Allowance libre de impuestos\n\nEl Personal Allowance estándar es de £12,570, que es la cantidad de ingresos por la que no tiene que pagar impuestos.\n\n### Si gana más de £100,000\n\nSu Personal Allowance se reduce en £1 por cada £2 que su adjusted net income supere los £100,000. Esto significa que su allowance es cero si sus ingresos son de £125,140 o más.\n\n### Blind Person's Allowance\n\nEs posible que pueda ganar más antes de empezar a pagar Income Tax si solicita el Blind Person's Allowance. Este allowance libre de impuestos se suma a su Personal Allowance.",
+  "seconds": 1.81,
+  "tokens_out": 229,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#2",
+  "text": "## Tipos y tramos del Income Tax\n\nLa tabla muestra los tipos de impuesto que paga en cada tramo si tiene un Personal Allowance estándar de £12,570.\n\nLos tramos del Income Tax son diferentes si vive en Escocia.\n\n| Tramo | Ingresos imponibles | Tipo de impuesto |\n\n| Personal Allowance | Hasta £12,570 | 0% |\n\n| Basic rate | De £12,571 a £50,270 | 20% |\n\n| Higher rate | De £50,271 a £125,140 | 40% |\n\n| Additional rate | Más de £125,140 | 45% |\n\nTambién puede consultar los tipos y tramos sin el Personal Allowance. No se recibe Personal Allowance sobre los ingresos imponibles superiores a £125,140.\n\n### Si trabaja por cuenta ajena o recibe una pensión\n\nCompruebe su Income Tax para ver:\n\n- su Personal Allowance y su código fiscal (tax code)\n\n- cuánto impuesto ha pagado en el tax year actual\n\n- cuánto es probable que pague durante el resto del año",
+  "seconds": 3.42,
+  "tokens_out": 374,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#3",
+  "text": "## Otras allowances\n\nTiene allowances libres de impuestos para:\n\n- los intereses de ahorros\n\n- los ingresos por dividendos, si es propietario de acciones de una empresa\n\nTambién puede tener allowances libres de impuestos para:\n\n- los primeros £1,000 de ingresos por trabajo por cuenta propia: esto es su 'trading allowance'\n\n- los primeros £1,000 de ingresos por propiedades que alquile (salvo que use el Rent a Room Scheme)\n\nCompruebe si cumple los requisitos para la trading allowance y la property allowance.\n\nPaga impuestos por cualquier interés, dividendo o ingreso que supere sus allowances.",
+  "seconds": 2.4,
+  "tokens_out": 229,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#4",
+  "text": "## Pagar menos Income Tax\n\nLa cantidad de impuestos que paga también se puede reducir mediante desgravaciones fiscales (tax reliefs), si usted cumple los requisitos para obtenerlas, por ejemplo:\n\n- donaciones a organizaciones benéficas\n\n- gastos de trabajo\n\n- aportaciones a planes de pensiones privados\n\n- pagos de manutención\n\n### Si está casado/a o tiene una unión civil (civil partnership)\n\nEs posible que pueda solicitar el Marriage Allowance para reducir los impuestos de su pareja si sus ingresos son inferiores al Personal Allowance estándar.\n\nSi no solicita el Marriage Allowance y usted o su pareja nacieron antes del 6 de abril de 1935, es posible que pueda solicitar el Married Couple's Allowance.",
+  "seconds": 2.08,
+  "tokens_out": 284,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#0",
+  "text": "Es posible que pagues un tipo de impuesto diferente sobre las ganancias de negocios que el que pagas sobre otros activos.\n\nNormalmente no pagas impuestos cuando vendes tu vivienda.\n\nEn su lugar, pagarás Income Tax y National Insurance contributions sobre el carried interest que recibas a partir del 6 de abril de 2026.",
+  "seconds": 2.11,
+  "tokens_out": 127,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#1",
+  "text": "## Si paga Income Tax a tipo superior (higher rate)\n\nSi usted es contribuyente de tipo superior (higher rate) o adicional (additional rate), pagará el 24% sobre sus ganancias a partir del 6 de abril de 2026.\n\nPuede consultar los tipos y la exención de años anteriores.",
+  "seconds": 4.22,
+  "tokens_out": 491,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#2",
+  "text": "## Si paga Income Tax al tipo básico\n\nSi es contribuyente de tipo básico (basic rate), el tipo que paga por las ganancias que obtenga a partir del 6 de abril de 2026 depende del importe de su ganancia y de su renta imponible.\n\nPuede consultar los tipos y la exención de años anteriores.\n\nPara calcular su tipo:\n\n-\n\nCalcule cuánta renta imponible tiene: es su renta menos su Personal Allowance y cualquier otra desgravación del Income Tax a la que tenga derecho.\n\n-\n\nCalcule el total de sus ganancias imponibles.\n\n-\n\nReste su exención libre de impuestos del total de sus ganancias imponibles.\n\n-\n\nSume esta cantidad a su renta imponible.\n\n-\n\nSi esta cantidad está dentro del tramo básico del Income Tax, pagará el 18% por las ganancias obtenidas a partir del 6 de abril de 2026.\n\n-\n\nPor cualquier cantidad que supere el tramo básico del Income Tax, pagará el 24% por las ganancias obtenidas a partir del 6 de abril de 2026.\n\n### Ejemplo 1\n\nUsted obtiene una ganancia el 6 de abril de 2026 o después. Su renta imponible (su renta menos su Personal Allowance y cualquier desgravación del Income Tax) es de £20,000 y sus ganancias imponibles son de £12,600.\n\nPrimero, reste la exención libre de impuestos de Capital Gains de su ganancia imponible. Para el año fiscal 2026 a 2027, la exención es de £3,000, lo que deja £9,600 sobre los que pagar impuestos.\n\nSume esta cantidad a su renta imponible. Como el importe combinado de £29,600 es inferior a £37,700 (el tramo del tipo básico para el año fiscal 2026 a 2027), paga Capital Gains Tax al 18%.\n\nEsto significa que pagará £1,728 de Capital Gains Tax.\n\n### Ejemplo 2\n\nUsted obtiene una ganancia el 6 de abril de 2026 o después. Su renta imponible (su renta menos su Personal Allowance y cualquier desgravación del Income Tax) es de £20,000 y sus ganancias imponibles son de £52,600.\n\nPrimero, reste la exención libre de impuestos de Capital Gains de su ganancia imponible. Para el año fiscal 2026 a 2027, la exención es de £3,000, lo que deja £49,600 sobre los que pagar impuestos.\n\nSume esta cantidad a su renta imponible. Como el importe combinado de £69,600 es superior a £37,700 (el tramo del tipo básico para el año fiscal 2026 a 2027), pagará Capital Gains Tax al 18% sobre £17,700 y después al 24% sobre £31,900.\n\nEsto significa que pagará £10,842.",
+  "seconds": 6.11,
+  "tokens_out": 980,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#3",
+  "text": "## Si es fideicomisario (trustee), representante personal (personal representative) o empresa\n\nLos fideicomisarios o los representantes personales de una persona fallecida pagan un impuesto del 24% a partir del 6 de abril de 2026.\n\nPuede consultar los tipos impositivos y la exención de años anteriores.\n\n### Si cumple los requisitos para Business Asset Disposal Relief\n\nA partir del 6 de abril de 2026 pagará el 18% si es autónomo (sole trader), socio de una sociedad (partnership) o fideicomisario, y sus ganancias cumplen los requisitos para Business Asset Disposal Relief.\n\nPuede consultar los tipos impositivos y la exención de años anteriores.\n\n### Si tiene ganancias sujetas a más de un tipo impositivo\n\nPuede aplicar su exención libre de impuestos a las ganancias que tributarían a los tipos más altos (por ejemplo, cuando pagaría un impuesto del 24% y del 18%).\n\nPuede consultar los tipos impositivos y la exención de años anteriores.",
+  "seconds": 3.19,
+  "tokens_out": 365,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#0",
+  "text": "Inheritance Tax es un impuesto sobre el patrimonio (la propiedad, el dinero y las posesiones) de una persona que ha fallecido.\n\nNormalmente no hay que pagar Inheritance Tax si se cumple una de estas condiciones:\n\n- el valor del patrimonio es inferior al umbral de £325,000\n- se deja todo lo que supere el umbral de £325,000 al cónyuge, a la pareja de hecho registrada (civil partner), a una organización benéfica o a un club deportivo amateur comunitario (community amateur sports club)\n\nEs posible que aun así tenga que informar del valor del patrimonio, incluso si es inferior al umbral.\n\nSi cede su vivienda a sus hijos (incluidos hijos adoptivos, acogidos o hijastros) o a sus nietos, su umbral puede aumentar a £500,000.\n\nSi está casado o tiene una pareja de hecho registrada (civil partnership) y su patrimonio vale menos que su umbral, la parte del umbral que no haya usado se puede añadir al umbral de su pareja cuando usted fallezca.\n\nEsta guía también está disponible en galés (Cymraeg).",
+  "seconds": 2.88,
+  "tokens_out": 400,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#1",
+  "text": "## Tipos del Inheritance Tax\n\nEl tipo estándar del Inheritance Tax es del 40%. Solo se aplica a la parte de su patrimonio (estate) que supera el umbral.\n\n### Ejemplo\n\nSu patrimonio vale £500,000 y su umbral libre de impuestos es de £325,000. El Inheritance Tax que se cobrará será el 40% de £175,000 (£500,000 menos £325,000).\n\nEl patrimonio puede pagar el Inheritance Tax a un tipo reducido del 36% sobre algunos bienes si usted deja el 10% o más del \"valor neto\" a una organización benéfica en su testamento. (El valor neto es el valor total del patrimonio menos las deudas.)\n\n### Reliefs y exenciones\n\nAlgunos regalos que usted haga en vida pueden tributar después de su fallecimiento. Según el momento en que hizo el regalo, el \"taper relief\" puede hacer que el Inheritance Tax que se cobre por ese regalo sea inferior al 40%.\n\nOtros reliefs, como el Business Relief o el Agricultural Relief, permiten transmitir algunos bienes sin pagar Inheritance Tax o con una factura reducida.",
+  "seconds": 3.3,
+  "tokens_out": 413,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#2",
+  "text": "## Quién paga el impuesto a HMRC\n\nEl Inheritance Tax a HM Revenue and Customs (HMRC) se paga con fondos de la herencia (el patrimonio de la persona fallecida). Lo hace la persona que se encarga de gestionar la herencia (llamada \"executor\" si hay testamento).\n\nLos beneficiarios (las personas que heredan el patrimonio) normalmente no pagan impuestos por lo que heredan. Sin embargo, es posible que tengan que pagar otros impuestos relacionados, por ejemplo si reciben ingresos por el alquiler de una casa que se les dejó en un testamento.\n\nLas personas a las que se hacen regalos podrían tener que pagar el Inheritance Tax, pero solo si la persona que los hace regala más de £325,000 y fallece en un plazo de 7 años.",
+  "seconds": 2.38,
+  "tokens_out": 289,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#0",
+  "text": "El importe de la tasa depende de lo que quiera hacer:\n\n- obtener su primer permiso de conducir GB completo o provisional\n\n- obtener un duplicado si el suyo se ha perdido, se lo han robado, está dañado o ha sido destruido\n\n- cambiar su nombre, su dirección o su foto\n\n- renovar un permiso de conducir\n\n- añadir, renovar o eliminar una entitlement (categoría o derecho de conducción)\n\n- canjear un permiso de conducir, por ejemplo, canjear un permiso en papel por uno con formato de tarjeta con foto (photocard)\n\n- recuperar su permiso después de que se lo hayan retirado, por ejemplo, si se le ha inhabilitado para conducir\n\nEste servicio también está disponible en galés (Cymraeg).\n\nEn las solicitudes por correo postal, los cheques y los giros postales (postal orders) deben extenderse a nombre de DVLA. La dirección a la que debe enviarlos depende de lo que esté solicitando.\n\nNo se aceptarán cheques dañados o alterados.\n\nEn Irlanda del Norte las tasas de los permisos de conducir son diferentes.",
+  "seconds": 2.94,
+  "tokens_out": 391,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#1",
+  "text": "## Obtén tu primer permiso de conducir de GB\n\n| | Solicitud en línea | Solicitud por correo postal |\n\n| Primer permiso provisional (provisional licence): coche, motocicleta, ciclomotor | £34 | £43 |\n\n| Primer permiso de conducir completo (full driving licence) después de aprobar el examen de conducir | N/A | Gratis. £17 si quieres usar una foto diferente a la de tu permiso provisional |\n\n| Primer permiso completo de GB a cambio de un permiso completo de la Comunidad Europea, del Espacio Económico Europeo o de otro país extranjero designado | N/A | £43 |",
+  "seconds": 2.33,
+  "tokens_out": 224,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#3",
+  "text": "## Cambiar el nombre, la dirección o la foto de tu photocard driving licence\n\nEl precio depende de lo que quieras cambiar y de cómo hagas el trámite.\n\n| Lo que quieres cambiar | Cambio por internet | Cambio por correo postal |\n\n| Dirección | Gratis | Gratis |\n\n| Nombre | N/A | Gratis |\n\n| Foto | £14 | £17 |\n\n| Foto y nombre al mismo tiempo | N/A | £17 |\n\n| Foto y dirección al mismo tiempo | £14 | £17 |",
+  "seconds": 2.16,
+  "tokens_out": 192,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#4",
+  "text": "## Renovar un permiso de conducir\n\nLos permisos de conducir con fotografía (photocard) son válidos durante 10 años, salvo que se indique otra cosa. Recibirá un recordatorio para renovar su foto antes de que venza su permiso actual.\n\n| | Solicitud en línea | Solicitud por correo |\n\n| Renovar un permiso de conducir caducado | £14 | £17 |\n\n| Renovar porque tiene 70 años o más | Gratis | Gratis |\n\nTambién puede renovar su permiso caducado en una oficina de Post Office. Cuesta £21.50.",
+  "seconds": 1.77,
+  "tokens_out": 200,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#5",
+  "text": "## Renovar un permiso de conducir médico de corta duración\n\nPuedes renovar tu permiso de conducir médico de corta duración de forma gratuita.\n\nPuedes renovarlo por internet si tienes diabetes, epilepsia, enfermedad de Parkinson, una discapacidad visual, un trastorno del sueño o una enfermedad del corazón.",
+  "seconds": 1.77,
+  "tokens_out": 124,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#6",
+  "text": "## Añadir, renovar o renunciar a un entitlement\n\n| | Solicitud en línea | Solicitud por correo postal |\n\n| Añadir un entitlement a un permiso de conducir completo o provisional, por ejemplo, para conducir un autobús o un camión | N/A | Gratis |\n\n| Renovar el entitlement para conducir un autobús o un camión | N/A | Gratis |\n\n| Renunciar al entitlement para conducir un autobús o un camión | N/A | Gratis |\n\nTambién puede cambiar la fotografía al mismo tiempo. Cuesta £17.",
+  "seconds": 1.94,
+  "tokens_out": 198,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#7",
+  "text": "## Cambiar un permiso de conducir en papel o de fuera de Gran Bretaña (GB)\n\n| Qué va a cambiar | Solicitud en línea | Solicitud por correo |\n\n| Permiso en papel por permiso con fotografía (photocard), con cambio de domicilio | Gratis | Gratis |\n\n| Permiso en papel por permiso con fotografía (photocard), con cambio de nombre | No disponible | Gratis |\n\n| Permiso en papel por permiso con fotografía (photocard), sin cambio de datos | £20 | £20 |\n\n| Permiso completo de Irlanda del Norte a cambio de un permiso de GB | No disponible | Gratis |\n\n| Permiso completo de la Comunidad Europea, del Espacio Económico Europeo o de otro país extranjero designado, si antes tuvo un permiso de GB | No disponible | Gratis |\n\n| Permiso completo de la Comunidad Europea, del Espacio Económico Europeo o de otro país extranjero designado, si antes no tuvo un permiso de GB | No disponible | £43 |",
+  "seconds": 2.91,
+  "tokens_out": 369,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#8",
+  "text": "## Recuperar el carnet de conducir después de que se lo hayan retirado\n\nLa tarifa depende del motivo por el que le retiraron el carnet y de cómo lo recuperó.\n\n| Cómo recuperó el carnet | Solicitud en línea | Solicitud por correo postal |\n\n| Le inhabilitaron para conducir por cualquier motivo, excepto conducir bajo los efectos del alcohol | N/A | £65 |\n\n| Le inhabilitaron para conducir por conducir bajo los efectos del alcohol y necesita pasar un examen médico con un médico del DVLA | N/A | £90 |\n\n| Le inhabilitaron para conducir por conducir bajo los efectos del alcohol y no necesita pasar un examen médico | N/A | £65 |\n\n| Ha recuperado el carnet después de que se lo revocaran según la New Drivers Act | N/A | £50 |\n\n| Ha recuperado el carnet después de que se lo revocaran por no entregarlo al DVLA o en el juzgado | N/A | Gratis |",
+  "seconds": 2.54,
+  "tokens_out": 357,
+  "reader": "same"
+ }
+]

@@ -1,0 +1,639 @@
+[
+ {
+  "id": "self-assessment-tax-returns/deadlines#0",
+  "text": "HM Revenue and Customs (HMRC) must get your tax return and any money you owe by the deadline.\n\nIf you do not know your profit for the whole tax year, you still need to send a tax return. Check how to send a return if you do not know your profit for the whole year.\n\nThe last tax year started on 6 April 2025. It ended on 5 April 2026. The deadline for earlier tax returns has passed. You may have to pay a penalty. Send your tax return or payment as soon as you can. This helps you avoid more penalties.",
+  "seconds": 2.87,
+  "tokens_out": 167,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#1",
+  "text": "## Telling HMRC you need to complete a return\n\nYou must tell HMRC by 5 October if you need to complete a tax return for the previous year. This applies if you:\n\n- have not sent a tax return before\n\n- registered before but did not need to send a tax return for the tax year 2024 to 2025\n\nYou can tell HMRC by registering for Self Assessment. Check how to register for Self Assessment.\n\n### If you register after 5 October 2026\n\nHMRC will send you a letter or email. It will give you a different deadline to send your tax return. The deadline is 3 months from the date on the letter or email.\n\nYou must still pay the tax you owe by 11:59pm on 31 January 2027. If you do not, you will get a penalty.",
+  "seconds": 1.45,
+  "tokens_out": 228,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#2",
+  "text": "## Sending a paper tax return\n\nHMRC must receive your paper tax return by 11:59pm on 31 October 2026. If it arrives late, you'll get a late filing penalty.\n\nYou can send it on or after 6 April 2026. HMRC must still receive it by the deadline.",
+  "seconds": 1.12,
+  "tokens_out": 92,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#3",
+  "text": "## Submitting an online tax return\n\nYou must send your online tax return by 11:59pm on 31 January 2027. If you are late, you will get a late filing penalty.\n\nIf you want to pay your Self Assessment bill through your tax code, you must send your return by 11:59pm on 30 December 2026. If you miss this deadline, you will have to pay another way.\n\nYou can send your return at any time from 6 April 2026 up to the deadline.",
+  "seconds": 1.22,
+  "tokens_out": 139,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#4",
+  "text": "## Paying the tax you owe\n\nYou must pay your Self Assessment tax by 11:59pm on 31 January 2027. If you pay late, you will get a penalty.\n\nThere is a second payment deadline of 31 July. This applies if you make payments towards your bill. These are called ‘payments on account’.\n\nYou can estimate your Self Assessment tax bill before you send your tax return. This can:\n\n- give you an idea of what your bill is likely to be\n- help you budget and pay on time\n\nFind help on understanding the tax you owe.",
+  "seconds": 1.86,
+  "tokens_out": 356,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#5",
+  "text": "## Trustees of a registered pension scheme or non-resident companies\n\nHMRC must get a paper tax return by 31 January 2027. You cannot send it online.\n\nYou can send it on or after 6 April 2026. HMRC must still get it by the deadline.",
+  "seconds": 0.99,
+  "tokens_out": 83,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/deadlines#6",
+  "text": "## Partnership returns if you have a company as a partner\n\nIf your partnership's accounting date is between 1 February and 5 April, and one of your partners is a limited company, the deadline is:\n\n- 12 months from the accounting date for online returns\n- 9 months from the accounting date for paper returns",
+  "seconds": 0.99,
+  "tokens_out": 92,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#0",
+  "text": "You may get a penalty if you need to send a tax return and you:\n\n- send your return late\n- pay your tax bill late\n\nYou can estimate your penalty for late Self Assessment tax returns and payments.",
+  "seconds": 1.0,
+  "tokens_out": 63,
+  "reader": "changed"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#1",
+  "text": "## If you register for Self Assessment late\n\nIf you register after 5 October, and you do not pay all of your tax bill by 31 January, you may get a 'failure to notify' penalty.\n\nThe penalty is based on the amount you still have to pay. You will get it within 12 months after HMRC receives your Self Assessment tax return.\n\nYou can find more information on 'failure to notify' penalties.",
+  "seconds": 1.88,
+  "tokens_out": 123,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#2",
+  "text": "## If you send your tax return late\n\nYou will get a penalty if you send your tax return late. There are four steps:\n\n- An initial penalty of £100.\n- After 3 months, daily penalties of £10 per day, up to a maximum of £900.\n- After 6 months, a further penalty of 5% of the tax due or £300, whichever is higher.\n- After 12 months, another penalty of 5% or £300, whichever is higher.\n\nTo avoid these penalties, send your Self Assessment tax return as soon as you can.\n\nAll partners will be charged a penalty if a partnership tax return is late.",
+  "seconds": 3.55,
+  "tokens_out": 716,
+  "reader": "same"
+ },
+ {
+  "id": "self-assessment-tax-returns/penalties#3",
+  "text": "## If you pay your tax late\n\nYou will get penalties if you pay late. The penalty is 5% of the tax you have not paid. You get this penalty at:\n\n- 30 days\n- 6 months\n- 12 months\n\nYou will also be charged interest on the amount you owe. To avoid this, pay your Self Assessment tax bill as soon as you can.\n\nFind out what happens if you do not pay your tax bill.",
+  "seconds": 1.08,
+  "tokens_out": 130,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#0",
+  "text": "Your State Pension amount depends on your National Insurance record.\n\nCheck your State Pension forecast to find out how much you could get when you reach State Pension age. It also shows your National Insurance record.\n\nThe full rate of new State Pension is £241.30 a week. Your amount could be different. It depends on:\n\n- if you were contracted out before 2016\n- the number of National Insurance qualifying years you have\n- if you paid into the Additional State Pension before 2016\n\nFind out what tax you might pay on your retirement income. This includes if you retire abroad.",
+  "seconds": 1.1,
+  "tokens_out": 173,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#1",
+  "text": "## If you’re getting less than £241.30 a week\n\nYou might need more National Insurance qualifying years to increase your State Pension.\n\n### If your National Insurance record started before April 2016\n\nYou may have been contracted out. When you were contracted out, you or your employer paid more into your workplace or private pension. You paid less into your State Pension.\n\nIf you were contracted out, you will usually need more than 35 qualifying years. You need this to get the full rate of new State Pension.\n\n### If your National Insurance record started after April 2016\n\nIf your National Insurance record started after April 2016, you will need 35 qualifying years. You need this to get the full rate of new State Pension.",
+  "seconds": 1.31,
+  "tokens_out": 206,
+  "reader": "changed"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#2",
+  "text": "## If you're getting more than £241.30 a week\n\nIf you paid into the Additional State Pension before 2016, you might get more State Pension under the old rules. If so, you'll get a 'protected payment'. This is paid on top of the full rate of new State Pension.",
+  "seconds": 1.0,
+  "tokens_out": 84,
+  "reader": "same"
+ },
+ {
+  "id": "new-state-pension/what-youll-get#3",
+  "text": "## Annual increases\n\nThe new State Pension goes up each year. It goes up by whichever of these is the highest:\n\n- earnings – the average percentage growth in wages (in Great Britain)\n\n- prices – the percentage growth in prices in the UK, measured by the Consumer Prices Index (CPI)\n\n- 2.5%\n\nIf you have a protected payment, it goes up each year in line with the CPI.",
+  "seconds": 0.85,
+  "tokens_out": 128,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#0",
+  "text": "There are 2 Child Benefit rates.\n\n| Who the allowance is for | Rate (weekly) |\n\n| Eldest or only child | £27.05 |\n\n| Additional children | £17.90 per child |\n\nIf you are paid too much or too little, you must contact the Child Benefit Office.\n\nChild Benefit counts towards the benefit cap. If the cap affects you, you will still get the full amount of Child Benefit. But your other benefits may be reduced.",
+  "seconds": 1.19,
+  "tokens_out": 147,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#1",
+  "text": "## If families split up\n\nIf a family splits up, you get £27.05 a week for the eldest child.\n\nIf you have 2 children and one lives with you and the other lives with someone else (for example, your ex-partner), you'll each get £27.05 a week.\n\nIf you both claim for the same child, only one of you will get Child Benefit for them.\n\nIf you're entitled to Child Benefit for any other children, you'll get £17.90 for each child.",
+  "seconds": 0.86,
+  "tokens_out": 136,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#2",
+  "text": "## If families join together\n\nIf you move in with a partner who also claims Child Benefit, you get £27.05 for the eldest child in the household. You get £17.90 for any younger children.\n\nYou and your partner can claim for different children. But if you live together, you cannot both claim at the higher rate. You may have to pay back some of the money if you do.\n\nYou must report the change to your family circumstances.",
+  "seconds": 1.04,
+  "tokens_out": 119,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#3",
+  "text": "## If you or your partner earn over the threshold\n\nYou may have to pay the High Income Child Benefit Charge. This applies if your adjusted net income or your partner's adjusted net income is over the threshold.\n\nYour adjusted net income is your total taxable income. It is worked out before any personal allowances. Then you take away things like Gift Aid. Your total taxable income includes interest from savings and dividends.\n\nIf you have to pay the charge, you can still get the other advantages of Child Benefit. These include National Insurance credits. The charge cannot be more than the Child Benefit payments you get.\n\nUse the Child Benefit tax calculator to check if your adjusted net income is over the threshold. If it is, the calculator will also tell you how much charge you must pay.\n\nIf you and your partner both have an individual income over the threshold, the person with the higher adjusted net income pays the charge.\n\nIf you or your partner has an individual income of £20,000 or more above the threshold (£10,000 or more before April 2024), you will be charged the same amount as your Child Benefit payments. So you will get no extra money from Child Benefit.\n\nYou can make a claim to opt out of getting payments if you do not want to pay the charge. You can still get the other advantages of Child Benefit, like National Insurance credits.",
+  "seconds": 4.83,
+  "tokens_out": 1167,
+  "reader": "same"
+ },
+ {
+  "id": "child-benefit/what-youll-get#4",
+  "text": "## If you're under 16\n\nYou can claim for yourself. Or someone responsible for you can claim for you. You'll usually get more if you claim yourself.",
+  "seconds": 1.32,
+  "tokens_out": 49,
+  "reader": "changed"
+ },
+ {
+  "id": "universal-credit/what-youll-get#0",
+  "text": "Universal Credit is paid every month. How much you get depends on:\n\n- your standard allowance\n- any extra amounts that apply to you\n- any money taken off your payment\n- if you're working, how much you earn\n\nYou can use a benefits calculator to see how much you could get.\n\nIf you get Universal Credit, you'll earn Class 3 National Insurance credits. These count towards your State Pension.",
+  "seconds": 1.12,
+  "tokens_out": 123,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#1",
+  "text": "## Standard allowance\n\nYou get one standard allowance for your household.\n\n| How much you'll get | Monthly standard allowance |\n| If you're single and under 25 | £338.58 |\n| If you're single and 25 or over | £424.90 |\n| If you live with your partner and you're both under 25 | £528.34 (for you both) |\n| If you live with your partner and either of you is 25 or over | £666.97 (for you both) |",
+  "seconds": 1.11,
+  "tokens_out": 138,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#2",
+  "text": "## Extra amounts\n\nYou may get more money on top of your standard allowance if you’re eligible.\n\nYou will need to tell us when you become eligible for an extra amount. They are not added automatically. For example, if you become a carer you need to tell DWP. The carer’s element of Universal Credit is not automatically added if you start getting Carer’s Allowance.\n\n### If you have children\n\nYou’ll get £303.94 a month for each child who lives with you.\n\nIf your first child was born before 6 April 2017, you’ll get an extra £47.94 a month for that child.\n\nYou get money for each child until 31 August after their:\n\n- 16th birthday\n\n- 19th birthday, if they’re in eligible education or training. For example, they’re studying for GCSEs, A levels, BTECs, Scottish Highers or SVQs or NVQs up to level 3.\n\n### If your child has a disability\n\nYou might get an extra monthly amount if any of your children are disabled.\n\nYou’ll either get:\n\n- £164.79 – the lower amount\n\n- £514.71 – the higher amount\n\nThe higher amount is for a child who:\n\n- gets the highest rate of the care component of Disability Living Allowance (DLA) for children\n\n- gets the higher rate of the daily living part of Personal Independence Payment (PIP)\n\n- is blind or severely sight impaired\n\nThe lower amount is for a child who gets any other rate of either DLA for children, or PIP.\n\n### Childcare costs\n\nYou can claim back up to 85% of your childcare costs if you’re working. If you live with your partner, you both need to be working. This does not apply if one of you cannot work because of a disability or health condition.\n\nThe childcare must be from a registered provider. You can get help paying for childcare, including nurseries, childminders, breakfast clubs, after school care and holiday clubs.\n\nThe most you can get each month is:\n\n- £1,071.09 for one child\n\n- £1,836.16 for 2 or more children\n\nYou need to pay your childcare costs up front. Then you claim the money back as part of your payment. You can get support to help you pay your childcare costs up front. Talk to your work coach after you’ve made your claim.\n\nRead more about childcare costs and Universal Credit.\n\n### If you have a disability or health condition\n\nYou might get an extra monthly amount if you cannot work because of a health condition, disability or long-term illness.\n\n| How much you’ll get | Extra monthly amount |\n\n| If you have a severe health condition or disability that’s unlikely to change or you are nearing the end of your life | £429.80 |\n\n| If your health condition or disability is assessed as less severe or your condition may improve over time | £217.26 |\n\nThere are different rules if you reported a health condition before 6 April 2026.\n\nIf you live with your partner and you both have limited capability for work and work-related activity, you’ll only get one extra monthly amount. You’ll get the higher amount if one of you is eligible for it.\n\nIf you get the severe disability premium and you’re moving to Universal Credit, you might also be entitled to a ‘transitional protection’ payment.\n\nRead more about health conditions, disability and Universal Credit.\n\n### If you care for someone who gets a health or disability-related benefit\n\nYou could get an extra amount known as a ‘carer’s element’. It is added to your Universal Credit if you care for someone who gets one of the following benefits:\n\n- Adult Disability Payment – standard or enhanced award\n\n- Armed Forces Independence Payment\n\n- Attendance Allowance\n\n- Child Disability Payment – middle or highest care award\n\n- Constant Attendance Allowance – full day rate, intermediate rate or exceptional rate with Industrial Injuries Disablement Benefit\n\n- Constant Attendance Allowance – full day rate with a War Disablement Pension\n\n- Disability Living Allowance – middle or highest care rate\n\n- Personal Independence Payment – either rate of the daily living part\n\nYou need to care for them for at least 35 hours a week.\n\nYou’ll get an extra monthly amount of £209.34. If you live with your partner and you both care for the same person, you’ll only get one extra monthly amount.\n\nYou may also be eligible for Carer’s Allowance.\n\nThis is on top of any extra amount you get if you have a disabled child.\n\nIf you are getting an extra amount because you have limited capability for work and work-related activity (LCWRA), you cannot also get the carer’s element.\n\nIf the person you care for gets the severe disability premium, it will stop when you claim the carer’s element of Universal Credit.\n\n### Housing costs\n\nYou could get money to help pay your housing costs. The payment can cover rent and some service charges.\n\nIf you’re a homeowner, you might be able to get a loan to help with interest payments on your mortgage.",
+  "seconds": 4.54,
+  "tokens_out": 1500,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#3",
+  "text": "## Money taken off your payment\n\nYour payment might go down if any of these things apply to you:\n\n-\n\nyou are paying back an advance on a Universal Credit payment\n\n-\n\nyou would get more than the amount set by the benefit cap\n\n-\n\nyou have been paid too much benefit in the past\n\n-\n\nyou owe money for Council Tax, court fines, electricity, gas, water or Child Maintenance\n\n-\n\nyou pay your gas or electricity bill from your Universal Credit payment\n\n-\n\nyou have a job that pays you\n\n-\n\nyou have other money coming in. For example, money from pensions or some other benefits.\n\n-\n\nyou have more than £6,000 in money, savings and investments\n\nIf you have over £6,000 in money, savings and investments, your payment goes down by £4.35 for every £250 you have between £6,000 and £16,000. Another £4.35 is taken off for any money left over that is not a full £250.\n\nFind out more about money taken off your Universal Credit payment.\n\n### Benefits that affect how much Universal Credit you get\n\nYou can get Universal Credit at the same time as other benefits. Your Universal Credit payment goes down by the same amount as the other benefit payment. This applies if you get Universal Credit and any of these benefits:\n\n- Armed Forces Pensions\n\n- Carer’s Allowance\n\n- Carer Support Payment (Scotland)\n\n- Incapacity Benefit\n\n- Industrial Injuries Disablement Benefit (not including any increases where constant attendance is needed, or for exceptionally severe disablement)\n\n- Maternity Allowance\n\n- Severe Disablement Allowance\n\n- State Pension\n\n- Widowed Mother’s Allowance\n\n- Widowed Parent’s Allowance\n\n- New Style Employment and Support Allowance (ESA)\n\n- New Style Jobseeker’s Allowance (JSA)",
+  "seconds": 6.24,
+  "tokens_out": 1712,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#4",
+  "text": "## Claiming Universal Credit and New Style ESA or JSA\n\nYou may be able to get Universal Credit and New Style ESA or JSA at the same time. If you do, your Universal Credit payment goes down. It goes down by the amount you get for New Style ESA or JSA.\n\nNew Style ESA and JSA are paid more often than Universal Credit.\n\nYou also get different National Insurance credits. These count towards your State Pension. They can also help you qualify for other benefits.\n\nYou may still get New Style ESA or JSA if your situation changes. Your Universal Credit payment may go down or stop. For example, this could happen if:\n\n- your partner's income goes up\n\n- you have more than £16,000 in savings\n\nCheck if you can get:\n\n- New Style Jobseeker's Allowance\n\n- New Style Employment and Support Allowance",
+  "seconds": 3.48,
+  "tokens_out": 890,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#5",
+  "text": "## Moving to Universal Credit from other benefits\n\nIf you have applied for Universal Credit, you will keep getting your current benefit for 2 more weeks. You must still be eligible for your current benefit.\n\nThis only applies if you get income-related Employment and Support Allowance or Housing Benefit.\n\nYou do not have to pay back the extra payments. They will not affect the Universal Credit you might get.\n\nIf you have received a Migration Notice letter telling you to claim Universal Credit, you might also get a 'transitional protection' payment.",
+  "seconds": 1.33,
+  "tokens_out": 170,
+  "reader": "same"
+ },
+ {
+  "id": "universal-credit/what-youll-get#7",
+  "text": "## If your Universal Credit claim is reviewed\n\nYour claim might be reviewed. This makes sure you get the right payment and support.\n\nFind out more about Universal Credit reviews.",
+  "seconds": 1.06,
+  "tokens_out": 60,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#0",
+  "text": "You may be able to get Carer's Allowance. You may qualify if you meet certain rules. The person you care for must also meet rules. The care you give must meet rules too.",
+  "seconds": 0.91,
+  "tokens_out": 54,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#1",
+  "text": "## The person you care for\n\nThe person you care for must already get one of these benefits:\n\n- Personal Independence Payment - daily living component\n- Disability Living Allowance - the middle or highest care rate\n- Scottish Adult Disability Living Allowance - the middle or highest care rate\n- Attendance Allowance\n- Pension Age Disability Payment\n- Constant Attendance Allowance at or above the normal maximum rate with an Industrial Injuries Disablement Benefit\n- Constant Attendance Allowance at the basic (full day) rate with a War Disablement Pension\n- Armed Forces Independence Payment\n- Child Disability Payment - the middle or highest care rate\n- Adult Disability Payment - daily living component at the standard or enhanced rate\n\n### If you care for the person with others\n\nYou cannot get Carer's Allowance if you share the care of someone and the other carer is already claiming:\n\n- Carer's Allowance for that person\n- Carer Support Payment for that person\n- the extra amount of Universal Credit for caring for someone who gets a disability-related benefit for that person\n\nIf you want to get Carer's Allowance, speak to the other carer. Ask them about changing their benefits.\n\nIf the other carer does not want to do that, you can still apply for Carer's Allowance. The Department for Work and Pensions (DWP) will decide who should receive the benefit.",
+  "seconds": 1.97,
+  "tokens_out": 442,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#2",
+  "text": "## The type of care you provide\n\nYou need to spend at least 35 hours a week caring for someone. This can include:\n\n- helping with washing and cooking\n- taking the person you care for to a doctor's appointment\n- helping with household tasks, like paying bills and shopping",
+  "seconds": 0.99,
+  "tokens_out": 83,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#3",
+  "text": "## Your eligibility\n\nAll of the following must apply:\n\n- you’re 16 or over\n\n- you spend at least 35 hours a week caring for someone\n\n- you’ve been in England, Scotland or Wales for at least 2 of the last 3 years (this does not apply if you’re a refugee or have humanitarian protection status)\n\n- you normally live in England or Wales, or you live abroad as a member of the armed forces (you might still be eligible if you’re moving to or already living in an EEA country or Switzerland)\n\n- you’re not in full-time education\n\n- you’re not studying for 21 hours a week or more\n\n- you’re not subject to immigration control\n\n- your earnings are £204 or less a week after tax, National Insurance and expenses\n\nIf you live in Scotland, you need to apply for Carer Support Payment. You cannot apply for Carer’s Allowance.\n\nIf you’re from the EU, Switzerland, Norway, Iceland or Liechtenstein, you and your family usually also need settled or pre-settled status under the EU Settlement Scheme. You need this to get Carer’s Allowance. The deadline to apply to the scheme was 30 June 2021 for most people. You might still be able to apply. Check if you can still apply to the EU Settlement Scheme.\n\n### Calculating your earnings\n\nYour earnings are any income from employment and self-employment. This is after tax, National Insurance and expenses.\n\nExpenses can include:\n\n- 50% of your pension contributions\n\n- equipment you need to do your job, for example specialist clothing\n\n- travel costs between different workplaces. Your employer must not pay for these. For example, fuel or train fares\n\n- business costs if you’re self-employed, for example a computer you only use for work\n\nIf you pay a carer to look after the disabled person or your children while you work, you can treat some care costs as an expense. This works if the costs are less than or equal to 50% of your earnings. The carer must not be your spouse, partner, parent, child or sibling.\n\nExample\n\nYou earn £100 a week. This is after tax, National Insurance and other expenses. You spend £60 a week on care while you work. You can treat £50 of this as an expense.\n\nThese payments do not count as earnings:\n\n- money received from an occupational or private pension\n\n- contributions towards your living or accommodation costs from someone you live with. They cannot be a tenant or boarder.\n\n- the first £20 a week and 50% of the rest of any income you make from someone boarding in your home\n\n- a loan or advance payment from your employer",
+  "seconds": 2.92,
+  "tokens_out": 794,
+  "reader": "changed"
+ },
+ {
+  "id": "carers-allowance/eligibility#4",
+  "text": "## If you get State Pension\n\nYou cannot get the full amount of both Carer's Allowance and your State Pension at the same time.\n\nIf your pension is £86.45 a week or more, you will not get a Carer's Allowance payment.\n\nIf your pension is less than £86.45 a week, you will get a Carer's Allowance payment. It will make up the difference.",
+  "seconds": 0.69,
+  "tokens_out": 112,
+  "reader": "same"
+ },
+ {
+  "id": "carers-allowance/eligibility#5",
+  "text": "## If you get Pension Credit\n\nIf your State Pension is more than £86.45 a week, you will not get a Carer's Allowance payment. Your Pension Credit payments will go up instead.",
+  "seconds": 1.03,
+  "tokens_out": 62,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#0",
+  "text": "Pension Credit tops up:\n\n- your weekly income to £238 if you're single\n\n- your joint weekly income to £363.25 if you have a partner\n\nYou may get extra amounts if you have other responsibilities and costs.\n\nThe top up and extra amounts are known as 'Guarantee Credit'.",
+  "seconds": 1.12,
+  "tokens_out": 95,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#1",
+  "text": "## If you have a severe disability\n\nYou could get an extra £86.05 a week if you get any of the following:\n\n- Attendance Allowance\n- the middle or highest rate of the care component of Disability Living Allowance (DLA)\n- the daily living component of Personal Independence Payment (PIP)\n- Armed Forces Independence Payment\n- the daily living component of Adult Disability Payment\n- Pension Age Disability Payment\n- the middle or highest rate of the care component of Scottish Adult Disability Living Allowance",
+  "seconds": 1.25,
+  "tokens_out": 169,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#2",
+  "text": "## If you care for another adult\n\nYou could get an extra £48.15 a week if:\n\n- you get Carer's Allowance\n\n- you get Carer Support Payment\n\n- you've claimed Carer's Allowance but are not being paid because you already get another benefit paying a higher amount\n\nIf you and your partner have both claimed or are getting Carer's Allowance, you can both get this extra amount.",
+  "seconds": 0.94,
+  "tokens_out": 121,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#3",
+  "text": "## If you're responsible for children or young people\n\nYou could get an extra amount for each child or young person you're responsible for. They must live with you.\n\nYou'll get £69.98 a week for each child or young person. This goes up to £81.07 a week for the first child. This applies if they were born before 6 April 2017.\n\nYou will get the extra amount until 31 August after their:\n\n- 16th birthday\n\n- 19th birthday, if they're in eligible education or training. For example, they're studying for GCSEs, A levels, BTECs, Scottish Highers or SVQs or NVQs up to level 3.\n\nIf they're in education, it must be more than 12 hours a week on average.\n\n### If the child or young person is disabled\n\nYou could also get an extra amount if the child or young person is disabled.\n\nYou could get an extra £37.93 a week if the child or young person gets:\n\n- Disability Living Allowance (DLA) for children. They must get the lowest or middle rate of the care component, or any rate of the mobility component.\n\n- Child Disability Payment. They must get the lowest or middle rate of the care component, or any rate of the mobility component.\n\n- Scottish Adult Disability Living Allowance. They must get the lowest or middle rate of the care component, or any rate of the mobility component.\n\n- Personal Independence Payment (PIP). They must get the standard rate of the daily living component, or any rate of the mobility component.\n\n- Adult Disability Payment. They must get the standard rate of the daily living component, or any rate of the mobility component.\n\nYou could get an extra £118.46 a week if the child or young person gets:\n\n- Disability Living Allowance (DLA) for children. They must get the highest rate of the care component.\n\n- Child Disability Payment. They must get the highest rate of the care component.\n\n- Scottish Adult Disability Living Allowance. They must get the highest rate of the care component.\n\n- Personal Independence Payment (PIP). They must get the enhanced rate of the daily living component.\n\n- Adult Disability Payment. They must get the enhanced rate of the daily living component.\n\nYou might also be eligible if they're blind or severely sight impaired.",
+  "seconds": 3.32,
+  "tokens_out": 766,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#4",
+  "text": "## If you have housing costs\n\nYou could get an extra amount to cover your housing costs. These costs can include:\n\n- ground rent if your property is a leasehold\n\n- some service charges\n\n- charges for tents and site rents\n\nThe amount you could get depends on your housing costs.\n\nIf you get Pension Credit, you could also be eligible for:\n\n- Council Tax Reduction\n\n- Housing Benefit if you rent the property you live in\n\n- Support for Mortgage Interest if you own the property you live in",
+  "seconds": 1.17,
+  "tokens_out": 152,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#5",
+  "text": "## If you have savings or a second pension\n\nYou could get the 'Savings Credit' part of Pension Credit. This is true if both of these apply:\n\n- you reached State Pension age before 6 April 2016\n- you saved some money for retirement, for example in a personal or workplace pension\n\nYou'll get up to £17.96 Savings Credit a week if you're single. If you have a partner, you'll get up to £20.10 a week.\n\nYou might still get some Savings Credit. This can happen even if you do not get the Guarantee Credit part of Pension Credit.",
+  "seconds": 1.2,
+  "tokens_out": 175,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#6",
+  "text": "## Other help if you get Pension Credit\n\nIf you get Pension Credit, you will automatically get cold weather payments.\n\nYou can also:\n\n-\napply for a free TV licence if you are aged 75 or over\n\n-\nget help with NHS costs if you get the Guarantee Credit part of Pension Credit\n\nNHS costs can include things like prescriptions, dental treatment, glasses and transport costs for hospital appointments.",
+  "seconds": 1.16,
+  "tokens_out": 135,
+  "reader": "same"
+ },
+ {
+  "id": "pension-credit/what-youll-get#7",
+  "text": "## Get help with extra amounts\n\nCall the Pension Service helpline if you are not sure whether you can get extra amounts.\n\nPension Service helpline\n\nTelephone: 0800 99 1234\n\nRelay UK (if you cannot hear or speak on the phone): 18001 then 0800 99 1234\n\nBritish Sign Language (BSL) video relay service if you are on a computer. Find out how to use the service on a mobile or tablet.\n\nMonday to Friday, 8am to 6pm. Closed on public holidays.\n\nFind out about call charges.",
+  "seconds": 1.6,
+  "tokens_out": 177,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#0",
+  "text": "Statutory Maternity Pay (SMP) is paid for up to 39 weeks. You get:\n\n- 90% of your average weekly earnings (before tax) for the first 6 weeks.\n- £194.32 or 90% of your average weekly earnings, whichever is lower, for the next 33 weeks.\n\nSMP is paid the same way as your wages. For example, it may be paid monthly or weekly. Tax and National Insurance will be taken off.\n\nUse the maternity planner to help you work out how much maternity pay you could get.\n\nIf you take Shared Parental Leave, you'll get Statutory Shared Parental Pay (ShPP). ShPP is £194.32 a week. It is 90% of your average weekly earnings if that is lower.",
+  "seconds": 2.24,
+  "tokens_out": 356,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#1",
+  "text": "## Start date\n\nStatutory Maternity Pay (SMP) usually starts when you take your maternity leave.\n\nIt starts automatically if you are off work with a pregnancy-related illness in the 4 weeks before the week your baby is due. The week runs from Sunday to Saturday.",
+  "seconds": 1.07,
+  "tokens_out": 92,
+  "reader": "same"
+ },
+ {
+  "id": "maternity-pay-leave/pay#2",
+  "text": "## Problems and disputes\n\nAsk your employer to explain your SMP if you think it's not right. If you disagree about the amount, or your employer cannot pay, contact the Statutory Payment Disputes Team. Your employer might not be able to pay if they are insolvent.",
+  "seconds": 0.99,
+  "tokens_out": 88,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#0",
+  "text": "If you’re eligible, you can get £123.25 a week Statutory Sick Pay (SSP). You can also get 80% of your normal weekly earnings. You get whichever is lower. It’s paid for up to 28 weeks.\n\nYou’ll be paid SSP for all the full days you’re off sick. These are the days you would normally have worked.\n\nYour employer will use your average weekly earnings over an 8-week period. They use this to work out how much you get. You still qualify if you started your job recently. This is true even if you have not yet received 8 weeks’ pay. Ask your employer to find out more.",
+  "seconds": 1.16,
+  "tokens_out": 192,
+  "reader": "same"
+ },
+ {
+  "id": "statutory-sick-pay/what-youll-get#1",
+  "text": "## How you're paid\n\nYour employer pays SSP. They pay it the same way as your normal wages. For example, this might be weekly or monthly.\n\nIf you have more than one job, you may get SSP from each employer.\n\nTax and National Insurance will be taken off.\n\nIf you think you're not getting the right amount of SSP, talk to your employer. If you still think it's wrong, contact the HM Revenue and Customs (HMRC) enquiry line.",
+  "seconds": 1.25,
+  "tokens_out": 143,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#0",
+  "text": "The hourly rate depends on your age. It also depends on whether you are an apprentice.\n\nThis page is also available in Welsh (Cymraeg).\n\nYou must be at least:\n\n- school leaving age to get the National Minimum Wage\n- aged 21 to get the National Living Wage. The minimum wage still applies to workers aged 20 and under.",
+  "seconds": 2.35,
+  "tokens_out": 483,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#1",
+  "text": "## Current rates\n\nThe rates change on 1 April every year.\n\n| | 21 and over | 18 to 20 | Under 18 | Apprentice |\n|---|---|---|---|---|\n| April 2026 | £12.71 | £10.85 | £8 | £8 |\n| April 2027 | £13.21 | £11.27 | £8.31 | £8.31 |\n\n### Apprentices\n\nAn apprentice gets the apprentice rate if they are either:\n\n- under 19\n- 19 or over and in the first year of their apprenticeship\n\nExample\n\nAn apprentice aged 21 in the first year of their apprenticeship gets a minimum hourly rate of £8.\n\nAn apprentice gets the minimum wage for their age if they both:\n\n- are 19 or over\n- have finished the first year of their apprenticeship\n\nExample\n\nAn apprentice aged 21 who has finished the first year of their apprenticeship gets a minimum hourly rate of £12.71.",
+  "seconds": 3.93,
+  "tokens_out": 837,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#2",
+  "text": "## Previous rates\n\nThese rates were for the National Living Wage and the National Minimum Wage from April 2019.\n\n### Rates between 1 April 2024 and 31 March 2026\n\nThe National Living Wage has applied to people aged 21 and over since 1 April 2024.\n\n| | 21 and over | 18 to 20 | Under 18 | Apprentice |\n|---|---|---|---|---|\n| April 2025 to March 2026 | £12.21 | £10 | £7.55 | £7.55 |\n| April 2024 to March 2025 | £11.44 | £8.60 | £6.40 | £6.40 |\n\n### Rates between 1 April 2021 and 31 March 2024\n\nFrom 1 April 2021 to 31 March 2024, the National Living Wage applied to people aged 23 and over.\n\n| | 23 and over | 21 to 22 | 18 to 20 | Under 18 | Apprentice |\n|---|---|---|---|---|---|\n| April 2023 to March 2024 | £10.42 | £10.18 | £7.49 | £5.28 | £5.28 |\n| April 2022 to March 2023 | £9.50 | £9.18 | £6.83 | £4.81 | £4.81 |\n| April 2021 to March 2022 | £8.91 | £8.36 | £6.56 | £4.62 | £4.30 |\n\n### Rates before 1 April 2021\n\nBefore 1 April 2021, the National Living Wage applied to people aged 25 and over.\n\n| | 25 and over | 21 to 24 | 18 to 20 | Under 18 | Apprentice |\n|---|---|---|---|---|---|\n| April 2020 to March 2021 | £8.72 | £8.20 | £6.45 | £4.55 | £4.15 |\n| April 2019 to March 2020 | £8.21 | £7.70 | £6.15 | £4.35 | £3.90 |",
+  "seconds": 3.35,
+  "tokens_out": 880,
+  "reader": "same"
+ },
+ {
+  "id": "national-minimum-wage-rates#3",
+  "text": "## Who gets the minimum wage\n\nRead the information on who is entitled to the minimum wage.\n\nYou can use the minimum wage calculator to check whether the National Minimum Wage or National Living Wage is being paid.\n\nContact Acas if you are not getting the National Minimum Wage. Contact them if you think you should be.",
+  "seconds": 1.01,
+  "tokens_out": 104,
+  "reader": "changed"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#0",
+  "text": "You'll get a letter in October or November. It will tell you how much Winter Fuel Payment you'll get, if you're eligible.\n\nIf you don't get a letter but think you're eligible, check whether you need to make a claim.\n\nThe amount you get depends on two things. The first is when you were born. The second is your circumstances between 21 and 27 September 2026. This is called the 'qualifying week'.\n\nAny money you get will not affect your other benefits.",
+  "seconds": 1.29,
+  "tokens_out": 141,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#1",
+  "text": "## If your income is over £35,000\n\nHMRC will take your Winter Fuel Payment back. They will do this in one of two ways:\n\n- changing your tax code\n- adding the amount to your Self Assessment tax return\n\nYou can check two things. First, check if your total income is over the threshold. Second, check how HMRC will take the payment back.",
+  "seconds": 1.56,
+  "tokens_out": 106,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#2",
+  "text": "## If you live alone or no one you live with is eligible for the Winter Fuel Payment\n\nYou will get one of these amounts:\n\n- £200 if you were born between 28 September 1946 and 27 June 1960\n- £300 if you were born before 28 September 1946",
+  "seconds": 1.5,
+  "tokens_out": 84,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#3",
+  "text": "## If you live with someone else who’s eligible for the Winter Fuel Payment\n\nYour payment may be different if you get one of these benefits:\n\n- Pension Credit\n\n- Universal Credit\n\n- income-related Employment and Support Allowance (ESA)\n\n### If you do not get any of the benefits\n\nYou’ll get a payment of:\n\n- £100 if you and the person you live with were both born between 28 September 1946 and 27 June 1960\n\n- £100 if you were born between 28 September 1946 and 27 June 1960. The person you live with was born before 28 September 1946.\n\n- £200 if you were born before 28 September 1946. The person you live with was born between 28 September 1946 and 27 June 1960.\n\n- £150 if you and the person you live with were both born before 28 September 1946\n\n### If you and your partner jointly claim any of the benefits\n\nOne of you will get a payment of one of these amounts:\n\n- £200 if both of you were born between 28 September 1946 and 27 June 1960\n\n- £300 if one or both of you were born before 28 September 1946\n\nThe payment goes into the bank account your benefits are usually paid into.\n\n### If you get any of the benefits (not as part of a joint claim)\n\nYou’ll get a payment of one of these amounts:\n\n- £200 if you were born between 28 September 1946 and 27 June 1960\n\n- £300 if you were born before 28 September 1946",
+  "seconds": 3.99,
+  "tokens_out": 849,
+  "reader": "same"
+ },
+ {
+  "id": "winter-fuel-payment/how-much-youll-get#4",
+  "text": "## If you live in a care home\n\nYou may get one of these payments:\n\n- £100 if you were born between 28 September 1946 and 27 June 1960\n- £150 if you were born before 28 September 1946",
+  "seconds": 1.06,
+  "tokens_out": 63,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#0",
+  "text": "You may get Cold Weather Payments. This is if you get certain benefits. You may also get them if you get Support for Mortgage Interest.\n\nIf you can get them, you will be paid automatically. You do not need to apply. But you may need to report a change. This is if you have a baby. It is also if a child under 5 comes to live with you.\n\nThe payments do not affect your other benefits.\n\nThis guide is also available in Welsh (Cymraeg). It is also available in an easy read format.\n\nYou will get a payment if the average temperature in your area is recorded as zero degrees celsius or below. You will also get one if it is forecast to be that. This must be over 7 consecutive days.\n\nYou will get £25 for each 7-day period of very cold weather. This is between 1 November 2026 and 31 March 2027.\n\nFind out if the weather where you live means you may get a payment.\n\nCheck a postcode in England or Wales.\n\nCheck a postcode in Northern Ireland.\n\nCold Weather Payments are different to Winter Fuel Payments.",
+  "seconds": 3.23,
+  "tokens_out": 676,
+  "reader": "same"
+ },
+ {
+  "id": "cold-weather-payment#1",
+  "text": "## If you live in Scotland\n\nYou cannot get Cold Weather Payments.\n\nYou might get a yearly Winter Heating Payment instead. You will get this payment whatever the weather is like where you live.",
+  "seconds": 0.66,
+  "tokens_out": 65,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#0",
+  "text": "Attendance Allowance is paid weekly. It has 2 rates. The rate you get depends on how much help you need.\n\nAttendance Allowance is not means-tested. This means your earnings and your savings do not affect what you get.",
+  "seconds": 1.03,
+  "tokens_out": 73,
+  "reader": "same"
+ },
+ {
+  "id": "attendance-allowance/what-youll-get#1",
+  "text": "## Attendance Allowance rates\n\n| Rate | Level of help you need |\n|---|---|\n| Lower rate - £76.70 | Frequent help or constant supervision during the day, or supervision at night |\n| Higher rate - £114.60 | Help or supervision throughout both day and night, or a medical professional has said you're nearing the end of life |\n\nYour rate could change if your situation changes. You must tell us about any change in your circumstances.\n\nIf you get Attendance Allowance, you might also get more Pension Credit, Housing Benefit or Council Tax Reduction. Check with the helpline or office that deals with your benefit.\n\nYou may get Constant Attendance Allowance at the same time. If you do, your Attendance Allowance will go down. It goes down by the amount of Constant Attendance Allowance you get.",
+  "seconds": 4.26,
+  "tokens_out": 833,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#0",
+  "text": "How much Personal Independence Payment (PIP) you get depends on how hard you find:\n\n- everyday activities ('daily living' tasks)\n\n- getting around ('mobility' tasks)\n\nFind out which tasks count as daily living and mobility tasks.",
+  "seconds": 1.27,
+  "tokens_out": 82,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#1",
+  "text": "## PIP amounts\n\n| | Lower weekly rate | Higher weekly rate |\n|---|---|---|\n| Daily living part | £76.70 | £114.60 |\n| Mobility part | £30.30 | £80 |\n\nPIP is tax free. Your income does not affect the amount you get. Your savings do not affect it either.\n\nTell the Department for Work and Pensions (DWP) straight away if your personal circumstances change. Tell them too if your condition affects you in a different way.",
+  "seconds": 1.15,
+  "tokens_out": 159,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#2",
+  "text": "## How you’re paid\n\nPIP is usually paid every 4 weeks.\n\nYour decision letter tells you:\n\n- the date of your first payment\n- what day of the week you’ll usually be paid\n- how long you’ll get PIP for\n- when and if your claim will be reviewed\n\nIf your payment date is on a bank holiday, you’ll usually be paid before the bank holiday. After that, you’ll keep getting paid as normal.\n\nYour money is paid into your bank, building society or credit union account. This is the same for all benefits, pensions and allowances.",
+  "seconds": 1.26,
+  "tokens_out": 176,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#3",
+  "text": "## Other help you can get\n\nIf you get the mobility part of PIP, you might be able to get a:\n\n- Blue Badge\n- vehicle tax discount or exemption\n- Motability Scheme vehicle, if you get the higher mobility rate of PIP\n\nIf you get either the daily living or mobility part of PIP, you can get a Disabled Persons Railcard.\n\nYou may be able to get a discount on Council Tax and local bus travel. Contact your local council to check.\n\nIf someone helps to care for you, they may be able to get Carer's Allowance or Carer's Credit.\n\nFind out about other financial support for people with disabilities or health conditions.",
+  "seconds": 1.11,
+  "tokens_out": 205,
+  "reader": "same"
+ },
+ {
+  "id": "pip/how-much-youll-get#4",
+  "text": "## If you get other benefits and PIP\n\nYou may get a top-up. It is called a disability premium. You may get this if you get:\n\n- income-related Employment and Support Allowance (ESA)\n\n- Housing Benefit\n\nIf you get Constant Attendance Allowance, you will get less of the daily living part of PIP.\n\nIf you get War Pensioners' Mobility Supplement, you will not get the mobility part of PIP.",
+  "seconds": 0.96,
+  "tokens_out": 134,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#0",
+  "text": "Marriage Allowance lets you transfer £1,260 of your Personal Allowance to your husband, wife or civil partner. Your Personal Allowance is the amount you can earn before you pay tax.\n\nThis cuts their tax by up to £252 in the tax year. The tax year runs from 6 April to 5 April the next year.\n\nThis guide is also available in Welsh (Cymraeg).\n\nTo benefit as a couple, you must normally be the lower earner. Your income must be below your Personal Allowance. This is usually £12,570.\n\nYou can work out how much tax you could save as a couple.\n\nCall the Income Tax helpline instead if you get other income. This includes dividends, savings or benefits from your job. Also call if you do not know what your taxable income is.\n\nWhen you transfer some of your Personal Allowance, you might pay more tax yourself. But you could still pay less as a couple.\n\nExample\n\nYour income is £11,500. Your Personal Allowance is £12,570. So you do not pay tax.\n\nYour partner's income is £20,000. Their Personal Allowance is £12,570. So they pay tax on £7,430. This is their 'taxable income'. As a couple, you are paying Income Tax on £7,430.\n\nWhen you claim Marriage Allowance, you transfer £1,260 of your Personal Allowance to your partner. Your Personal Allowance becomes £11,310. Your partner gets a reduction of £1,260 on their taxable income.\n\nNow you will pay tax on £190. Your partner will only pay tax on £6,170. As a couple, you benefit. You are only paying Income Tax on £6,360, not £7,430. This saves you £214 in tax.",
+  "seconds": 5.15,
+  "tokens_out": 1438,
+  "reader": "changed"
+ },
+ {
+  "id": "marriage-allowance#1",
+  "text": "## Who can apply\n\nYou can get Marriage Allowance if all of these are true:\n\n- You are married or in a civil partnership.\n- You do not pay Income Tax. Or your income is below your Personal Allowance (usually £12,570).\n- Your partner pays Income Tax at the basic rate. This usually means their income is between £12,571 and £50,270 before they get Marriage Allowance.\n\nYou cannot claim Marriage Allowance if you live together but are not married or in a civil partnership.\n\nIf you live in Scotland, your partner must pay the starter, basic or intermediate rate. This usually means their income is between £12,571 and £43,662.\n\nThese things will not affect your application for Marriage Allowance if you or your partner:\n\n- are getting a pension\n- live abroad, as long as you get a Personal Allowance\n\nIf you or your partner were born before 6 April 1935, you might be better off as a couple if you apply for Married Couple’s Allowance instead.\n\nYou cannot get Marriage Allowance and Married Couple’s Allowance at the same time.",
+  "seconds": 6.17,
+  "tokens_out": 1139,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#2",
+  "text": "## Backdating your claim\n\nYou can backdate your claim to 6 April 2022. This is the 2022 to 2023 tax year. You can do this for any years you were eligible for Marriage Allowance.\n\nYour partner’s tax bill will go down. How much it goes down depends on the Personal Allowance rate for the years you are backdating.\n\nIf your partner has died since 5 April 2022, you can still claim. Phone the Income Tax helpline. If your partner was the lower earner, the person who manages their tax affairs needs to phone.",
+  "seconds": 1.3,
+  "tokens_out": 172,
+  "reader": "same"
+ },
+ {
+  "id": "marriage-allowance#3",
+  "text": "## Stopping Marriage Allowance\n\nMarriage Allowance moves to your partner each year. It keeps doing this until you cancel it.\n\nYou might want to cancel it if your income changes. You might also cancel it if your relationship ends.",
+  "seconds": 0.98,
+  "tokens_out": 77,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#0",
+  "text": "You'll normally get statutory redundancy pay if you're an employee. You also need to have worked for your current employer for 2 years or more.\n\nYou'll get:\n\n- half a week's pay for each full year you were under 22\n- one week's pay for each full year you were 22 or older but under 41\n- one and a half weeks' pay for each full year you were 41 or older\n\nYour length of service counts for 20 years at most.\n\nYour weekly pay is the average amount you earned each week in the 12 weeks before the day you got your redundancy notice.\n\nIf you were paid less than usual because you were 'on furlough' because of coronavirus, your statutory redundancy pay is based on what you would have earned normally.\n\nIf you were made redundant on or after 6 April 2026, your weekly pay is capped at £751. The most statutory redundancy pay you can get is £22,530. If you were made redundant before 6 April 2026, these amounts will be lower.\n\nCalculate your redundancy pay.\n\nYou have 6 months from the day your job ends to apply for statutory redundancy pay.",
+  "seconds": 5.16,
+  "tokens_out": 1198,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#1",
+  "text": "### Exceptions\n\nYou do not get statutory redundancy pay if:\n\n- your employer offers to keep you on\n\n- your employer offers you suitable alternative work and you turn it down without good reason\n\nBeing dismissed for misconduct is not redundancy. So you would not get statutory redundancy pay if this happened.\n\nYou do not get statutory redundancy pay if you fall into one or more of these groups:\n\n- former registered dock workers (covered by other arrangements) and share fishermen\n\n- crown servants, members of the armed forces or police services\n\n- apprentices who are not employees at the end of their training\n\n- a domestic servant who is a member of the employer's immediate family",
+  "seconds": 1.52,
+  "tokens_out": 206,
+  "reader": "same"
+ },
+ {
+  "id": "redundancy-your-rights/redundancy-pay#2",
+  "text": "## Short-term and temporary lay-offs\n\nYou can claim statutory redundancy pay if you are eligible. You also need to have been temporarily laid off. This means you had no pay, or less than half a week's pay, for either:\n\n- more than 4 weeks in a row\n- more than 6 weeks that were not in a row, within a 13 week period\n\nWrite to your employer. Tell them you plan to claim statutory redundancy pay. You must do this within 4 weeks of your last day off work in the 4 or 6 week period.\n\nIf your employer does not reject your claim within 7 days, write to them again. Give them your notice.\n\nYour claim could be rejected. This can happen if your normal work is likely to start within 4 weeks. It can also happen if that work will last at least 13 weeks.",
+  "seconds": 1.5,
+  "tokens_out": 248,
+  "reader": "changed"
+ },
+ {
+  "id": "income-tax-rates#0",
+  "text": "How much Income Tax you pay in each tax year depends on:\n\n- how much of your income is above your Personal Allowance\n\n- how much of your income falls within each tax band\n\nSome income is tax-free.\n\nThe current tax year runs from 6 April 2026 to 5 April 2027.\n\nThis guide is also available in Welsh (Cymraeg).",
+  "seconds": 1.48,
+  "tokens_out": 108,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#1",
+  "text": "## Your tax-free Personal Allowance\n\nThe standard Personal Allowance is £12,570. This is the amount of income you do not have to pay tax on.\n\n### If you earn more than £100,000\n\nYour Personal Allowance goes down. It drops by £1 for every £2 that your adjusted net income is above £100,000. Your allowance is zero if your income is £125,140 or more.\n\n### Blind Person's Allowance\n\nYou may be able to earn more before you start paying Income Tax. To do this, you claim Blind Person's Allowance. This tax-free allowance is added to your Personal Allowance.",
+  "seconds": 1.37,
+  "tokens_out": 194,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#2",
+  "text": "## Income Tax rates and bands\n\nThe table shows the tax rates you pay in each band. This is if you have a standard Personal Allowance of £12,570.\n\nIncome tax bands are different if you live in Scotland.\n\n| Band | Taxable income | Tax rate |\n\n| Personal Allowance | Up to £12,570 | 0% |\n\n| Basic rate | £12,571 to £50,270 | 20% |\n\n| Higher rate | £50,271 to £125,140 | 40% |\n\n| Additional rate | over £125,140 | 45% |\n\nYou can also see the rates and bands without the Personal Allowance. You do not get a Personal Allowance on taxable income over £125,140.\n\n### If you're employed or get a pension\n\nCheck your Income Tax to see:\n\n- your Personal Allowance and tax code\n- how much tax you've paid in the current tax year\n- how much you're likely to pay for the rest of the year",
+  "seconds": 1.37,
+  "tokens_out": 292,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#3",
+  "text": "## Other allowances\n\nYou have tax-free allowances for:\n\n- savings interest\n\n- dividend income, if you own shares in a company\n\nYou may also have tax-free allowances for:\n\n- your first £1,000 of income from self-employment. This is your ‘trading allowance’.\n\n- your first £1,000 of income from property you rent. This does not apply if you use the Rent a Room Scheme.\n\nFind out if you can get the trading and property allowances.\n\nYou pay tax on any interest, dividends or income over your allowances.",
+  "seconds": 1.45,
+  "tokens_out": 161,
+  "reader": "same"
+ },
+ {
+  "id": "income-tax-rates#4",
+  "text": "## Paying less Income Tax\n\nYou can also pay less tax through tax reliefs, if you qualify. For example:\n\n- charity donations\n- job expenses\n- private pension contributions\n- maintenance payments\n\n### If you're married or in a civil partnership\n\nYou may be able to claim Marriage Allowance. This can reduce your partner's tax. You can claim it if your income is less than the standard Personal Allowance.\n\nIf you do not claim Marriage Allowance, you may be able to claim Married Couple's Allowance. You may be able to claim it if you or your partner were born before 6 April 1935.",
+  "seconds": 1.37,
+  "tokens_out": 190,
+  "reader": "changed"
+ },
+ {
+  "id": "capital-gains-tax/rates#0",
+  "text": "You may pay a different rate of tax on gains from businesses than on other assets.\n\nYou do not usually pay tax when you sell your home.\n\nFrom 6 April 2026, you’ll pay Income Tax and National Insurance contributions on carried interest you receive instead.",
+  "seconds": 1.01,
+  "tokens_out": 84,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#1",
+  "text": "## If you pay higher rate Income Tax\n\nIf you pay higher or additional rate Income Tax, you pay 24% on your gains from 6 April 2026.\n\nYou can see the rates and allowance for earlier years.",
+  "seconds": 1.03,
+  "tokens_out": 70,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#2",
+  "text": "## If you pay basic rate Income Tax\n\nIf you are a basic rate taxpayer, the rate you pay on gains you receive from 6 April 2026 depends on two things.\n\n- The size of your gain.\n- Your taxable income.\n\nYou can see the rates and allowance for previous years.\n\nTo work out your rate:\n\n- Work out how much taxable income you have. This is your income minus your Personal Allowance. Then take away any other Income Tax reliefs you are entitled to.\n\n- Work out your total taxable gains.\n\n- Take your tax-free allowance away from your total taxable gains.\n\n- Add this amount to your taxable income.\n\n- If this amount is within the basic Income Tax band, you pay 18% on your gains made from 6 April 2026.\n\n- For any amount above the basic Income Tax band, you pay 24% on gains made from 6 April 2026.\n\n### Example 1\n\nYou make a gain on or after 6 April 2026. Your taxable income is £20,000. This is your income minus your Personal Allowance and any Income Tax reliefs. Your taxable gains are £12,600.\n\nFirst, take the Capital Gains tax-free allowance away from your taxable gain. For the 2026 to 2027 tax year, the allowance is £3,000. This leaves £9,600 to pay tax on.\n\nAdd this to your taxable income. The total is £29,600. This is less than £37,700, the basic rate band for the 2026 to 2027 tax year. So you pay Capital Gains Tax at 18%.\n\nThis means you pay £1,728 in Capital Gains Tax.\n\n### Example 2\n\nYou make a gain on or after 6 April 2026. Your taxable income is £20,000. This is your income minus your Personal Allowance and any Income Tax reliefs. Your taxable gains are £52,600.\n\nFirst, take the Capital Gains tax-free allowance away from your taxable gain. For the 2026 to 2027 tax year, the allowance is £3,000. This leaves £49,600 to pay tax on.\n\nAdd this to your taxable income. The total is £69,600. This is more than £37,700, the basic rate band for the 2026 to 2027 tax year. So you pay Capital Gains Tax at 18% on £17,700. Then you pay 24% on £31,900.\n\nThis means you will pay £10,842.",
+  "seconds": 6.79,
+  "tokens_out": 1983,
+  "reader": "same"
+ },
+ {
+  "id": "capital-gains-tax/rates#3",
+  "text": "## If you’re a trustee, personal representative or business\n\nTrustees or personal representatives pay tax on someone’s gains after they have died. The rate is 24% from 6 April 2026.\n\nYou can see the rates and allowance for previous years.\n\n### If you qualify for Business Asset Disposal Relief\n\nFrom 6 April 2026, the rate is 18% if you are a sole trader, partnership or trustee. This applies if your gains qualify for Business Asset Disposal Relief.\n\nYou can see the rates and allowance for previous years.\n\n### If you have gains charged at more than one rate\n\nYou can use your tax-free allowance against the gains taxed at the highest rates. For example, you might pay 24% on some gains and 18% on others.\n\nYou can see the rates and allowance for previous years.",
+  "seconds": 2.0,
+  "tokens_out": 379,
+  "reader": "changed"
+ },
+ {
+  "id": "inheritance-tax#0",
+  "text": "Inheritance Tax is a tax on the estate of someone who has died. The estate is the property, money and possessions they leave behind.\n\nYou normally do not have to pay Inheritance Tax if either of these is true:\n\n- Your estate is worth less than the £325,000 threshold.\n- You leave everything above the £325,000 threshold to your spouse, civil partner, a charity or a community amateur sports club.\n\nYou may still have to report the value of the estate. This is true even if it is below the threshold.\n\nIf you give your home to your children or grandchildren, your threshold can go up to £500,000. Children include adopted, foster and stepchildren.\n\nIf you are married or in a civil partnership, and your estate is worth less than your threshold, your partner's threshold can go up. It goes up by any part of your threshold that you did not use. This happens when you die.\n\nThis guide is also available in Welsh (Cymraeg).",
+  "seconds": 4.58,
+  "tokens_out": 1117,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#1",
+  "text": "## Inheritance Tax rates\n\nThe standard Inheritance Tax rate is 40%. You only pay it on the part of your estate above the threshold.\n\n### Example\n\nYour estate is worth £500,000. Your tax-free threshold is £325,000. The part above the threshold is £175,000. That is £500,000 minus £325,000. Inheritance Tax is 40% of £175,000.\n\nThe estate can pay a lower rate of 36% on some assets. This applies if you leave 10% or more of the 'net value' to charity in your will. The net value is the estate's total value minus any debts.\n\n### Reliefs and exemptions\n\nSome gifts you give while you are alive may be taxed after you die. 'Taper relief' may lower the tax on a gift. It depends on when you gave the gift. The tax may then be less than 40%.\n\nOther reliefs exist. Business Relief and Agricultural Relief are two examples. They let some assets pass on with no Inheritance Tax. They also let some assets pass on with a smaller bill.",
+  "seconds": 4.11,
+  "tokens_out": 1003,
+  "reader": "same"
+ },
+ {
+  "id": "inheritance-tax#2",
+  "text": "## Who pays the tax to HMRC\n\nMoney from your estate pays Inheritance Tax to HM Revenue and Customs (HMRC). The person dealing with the estate does this. This person is called the ‘executor’ if there is a will.\n\nYour beneficiaries are the people who inherit your estate. They do not normally pay tax on what they inherit. They may have other taxes to pay. For example, this can happen if they get rent from a house left to them in a will.\n\nPeople you give gifts to might have to pay Inheritance Tax. This only happens if you give away more than £325,000 and die within 7 years.",
+  "seconds": 1.29,
+  "tokens_out": 193,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#0",
+  "text": "The fee depends on what you want to do:\n\n- Get your first full or provisional GB licence\n\n- Get a replacement if yours has been lost, stolen, damaged or destroyed\n\n- Change your name, address or photo\n\n- Renew a driving licence\n\n- Add, renew or remove an entitlement\n\n- Exchange a driving licence. For example, exchange a paper licence for a photocard.\n\n- Get your licence back after it has been taken away. For example, if you have been disqualified.\n\nThis service is also available in Welsh (Cymraeg).\n\nIf you apply by post, make cheques and postal orders payable to DVLA. The address depends on what you are applying for.\n\nWe will not accept cheques that are damaged or altered.\n\nDriving licence fees are different in Northern Ireland.",
+  "seconds": 3.48,
+  "tokens_out": 663,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#1",
+  "text": "### Get your first GB driving licence\n\n| | Apply online | Apply by post |\n|---|---|---|\n| First provisional licence for a car, motorcycle or moped | £34 | £43 |\n| First full driving licence after you pass your driving test | N/A | Free. It costs £17 to use a different photo from your provisional licence. |\n| First full GB licence if you swap a full licence from the European Community, the European Economic Area or another designated foreign country | N/A | £43 |",
+  "seconds": 3.01,
+  "tokens_out": 614,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#3",
+  "text": "## Change the name, address or photo on your photocard driving licence\n\nThe fee depends on what you are changing and how you do it.\n\n| What you are changing | Change online | Change by post |\n|---|---|---|\n| Address | Free | Free |\n| Name | N/A | Free |\n| Photo | £14 | £17 |\n| Photo and name at the same time | N/A | £17 |\n| Photo and address at the same time | £14 | £17 |",
+  "seconds": 0.85,
+  "tokens_out": 141,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#4",
+  "text": "## Renew a driving licence\n\nPhotocard licences last for 10 years, unless it says otherwise. You will get a reminder to renew your photo before your current licence ends.\n\n| | Apply online | Apply by post |\n\n| Renewing an expired driving licence | £14 | £17 |\n\n| Renewing because you’re 70 or over | Free | Free |\n\nYou can also renew your expired licence at a Post Office. It costs £21.50.",
+  "seconds": 1.03,
+  "tokens_out": 139,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#5",
+  "text": "## Renew a short-term medical driving licence\n\nYou can renew your short-term medical driving licence for free.\n\nYou can renew online if you have:\n\n- diabetes\n- epilepsy\n- Parkinson's disease\n- a visual impairment\n- a sleep condition\n- a heart condition",
+  "seconds": 1.28,
+  "tokens_out": 90,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#6",
+  "text": "## Add, renew or remove an entitlement\n\n| | Apply online | Apply by post |\n\n| Adding entitlement to full or provisional licence - for example, to drive a bus or lorry | N/A | Free |\n\n| Renewing entitlement to drive a bus or lorry | N/A | Free |\n\n| Giving up entitlement to drive bus or lorry | N/A | Free |\n\nYou can also change your photo at the same time. The cost is £17.",
+  "seconds": 1.21,
+  "tokens_out": 144,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#7",
+  "text": "## Exchange a paper or non-GB driving licence\n\n| What you’re exchanging | Apply online | Apply by post |\n|---|---|---|\n| Paper licence for a photocard. You have moved home. | Free | Free |\n| Paper licence for a photocard. You have changed your name. | N/A | Free |\n| Paper licence for a photocard. Nothing has changed. | £20 | £20 |\n| Full Northern Ireland licence, to swap for a GB licence | N/A | Free |\n| Full European Community, European Economic Area or other designated foreign licence. You have a previous GB licence. | N/A | Free |\n| Full European Community, European Economic Area or other designated foreign licence. You do not have a previous GB licence. | N/A | £43 |",
+  "seconds": 5.01,
+  "tokens_out": 1028,
+  "reader": "same"
+ },
+ {
+  "id": "driving-licence-fees#8",
+  "text": "## Get your licence back after it's been taken away\n\nThe fee depends on two things. One is why your licence was taken away. The other is how you got it back.\n\n| How you got your licence back | Apply online | Apply by post |\n|---|---|---|\n| You were banned from driving for any reason except drink driving | N/A | £65 |\n| You were banned for drink driving and you must pass a medical test with a DVLA doctor | N/A | £90 |\n| You were banned for drink driving and you do not need to pass a medical test | N/A | £65 |\n| Your licence was cancelled under the New Drivers Act and you have got it back | N/A | £50 |\n| Your licence was cancelled because you did not hand it in to DVLA or at court, and you have got it back | N/A | Free |",
+  "seconds": 3.78,
+  "tokens_out": 847,
+  "reader": "same"
+ }
+]
