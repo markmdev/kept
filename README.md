@@ -1,8 +1,8 @@
-# kept
+# Kept
 
 A guard for pages that let an AI model rewrite official text: the rewrite goes onto the page only if it keeps every figure of the original and the limit words beside them. With it comes a labelled set to measure rewrites with.
 
-A working name. Made for the Open Agentic Web Challenge.
+Made for the Open Agentic Web Challenge.
 
 ## Why
 
