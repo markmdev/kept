@@ -6,7 +6,7 @@
 // duty(), which needs the two texts in one language.
 import { B, E, MON, NUM, PERIOD, UNITS, WORDS, counted } from "./facts.js";
 
-const SIGN = "(?:(?<![^\\s(])[-−])?";
+const SIGN = "(?:(?<![^\\s(|])[-−])?";
 const UNIT = "(?:" + Object.keys(UNITS).sort((a, b) => b.length - a.length).join("|") + ")";
 const WORDNUM = "(?:" + Object.keys(WORDS).join("|") + ")";
 const FIGURE = new RegExp([
@@ -18,8 +18,8 @@ const FIGURE = new RegExp([
   "\\d{1,2}(?:[:.]\\d{2})?\\s?(?:am|pm|a\\.\\s?m\\.|p\\.\\s?m\\.)",
   "(?:[01]?\\d|2[0-3]):[0-5]\\d" + E + "(?:\\s?(?:h|horas)" + E + ")?",
   B + "(?:midnight|medianoche|midday|noon|mediodía)" + E,
-  NUM + "\\s(?:or more|or less|or fewer|o más|o menos)\\s" + UNIT + E,
-  "(?:" + NUM + "|" + WORDNUM + ")[\\s-](?:[a-záéíóúñ-]+\\s)?" + UNIT + E,
+  SIGN + "(?:" + NUM + "|" + WORDNUM + ")\\s(?:or more|or less|or fewer|o más|o menos)\\s" + UNIT + E,
+  SIGN + "(?:" + NUM + "|" + WORDNUM + ")[\\s-](?:[a-záéíóúñ-]+\\s)?" + UNIT + E,
   SIGN + NUM,
 ].join("|"), "giu");
 const INNER = [["at least", /\s(?:or more|o más)\s/iu], ["up to", /\s(?:or less|or fewer|o menos)\s/iu]];

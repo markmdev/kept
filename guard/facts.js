@@ -19,7 +19,8 @@ export const WORDS = {
   dos: 2, tres: 3, cuatro: 4, cinco: 5, seis: 6, siete: 7, ocho: 8, nueve: 9, diez: 10, once: 11, doce: 12,
 };
 export const NUM = "\\d+(?:[.,]\\d+)*";
-const SIGN = "(?:(?<![^\\s(])([-−]))?";
+const SIGN = "(?:(?<![^\\s(|])([-−]))?";
+const TAKEN = "\u0000";
 const signed = (sign) => (sign ? "-" : "");
 // Month names that stand alone, and one word allowed between a figure and its unit ("2 more weeks").
 const FULL = Object.fromEntries(Object.entries(MONTHS).filter(([name]) => name.length > 4 || ["june", "july", "mayo"].includes(name)));
@@ -46,7 +47,7 @@ export function counted(text) {
   let t = " " + text.toLowerCase().replaceAll(" ", " ").replaceAll("’", "'").replaceAll("*", "") + " ";
   const out = new Map();
   const take = (pattern, make) => {
-    t = t.replace(new RegExp(pattern, "gu"), (...m) => { const f = make(m); if (f) out.set(f, (out.get(f) ?? 0) + 1); return " "; });
+    t = t.replace(new RegExp(pattern, "gu"), (...m) => { const f = make(m); if (f) out.set(f, (out.get(f) ?? 0) + 1); return TAKEN; });
   };
   // dates: 6 April 2026, 6 de abril de 2026, 6 April, April 6, 2026, April 2026, April 6
   take(B + "(\\d{1,2})(?:st|nd|rd|th)?\\s+(?:de\\s+)?" + MON + E + "\\.?(?:\\s+(?:de\\s+)?((?:19|20)\\d{2}))?",
@@ -60,16 +61,17 @@ export function counted(text) {
     (m) => signed(m[1]) + m[2] + num(m[3]) + ({ million: "m", millones: "m", "millón": "m", billion: "bn" }[m[4]] ?? m[4] ?? ""));
   take(SIGN + B + "(" + NUM + ")\\s?(?:libras|pounds)" + E, (m) => signed(m[1]) + "£" + num(m[2]));
   take(SIGN + B + "(" + NUM + ")\\s?(?:dollars|dólares)" + E, (m) => signed(m[1]) + "$" + num(m[2]));
-  take(B + "(\\d+)p" + E, (m) => "p" + m[1]);
+  take(SIGN + B + "(\\d+)p" + E, (m) => signed(m[1]) + "p" + m[2]);
   take(SIGN + B + "(" + NUM + ")\\s?(?:%|per cent|percent|por ciento)", (m) => signed(m[1]) + num(m[2]) + "%");
   // times of day
   take(B + "(\\d{1,2})(?:[:.](\\d{2}))?\\s?(am|pm|a\\.\\s?m\\.|p\\.\\s?m\\.)", (m) => `time:${pad(Number(m[1]) % 12 + (m[3][0] === "p" ? 12 : 0))}:${m[2] || "00"}`);
   take(B + "([01]?\\d|2[0-3]):([0-5]\\d)" + E + "(?:\\s?(?:h|horas)" + E + ")?", (m) => `time:${pad(Number(m[1]))}:${m[2]}`);
   take(B + "(midnight|medianoche|midday|noon|mediodía)" + E, (m) => "time:" + ({ medianoche: "midnight", noon: "midday", "mediodía": "midday" }[m[1]] ?? m[1]));
   // counted periods, in figures or in words
-  take(B + "(" + NUM + ")[\\s-]" + UNIT + E, (m) => num(m[1]) + UNITS[m[2]]);
-  take(B + "(" + NUM + ")\\s(?:or more|or less|or fewer|o más|o menos)\\s" + UNIT + E, (m) => num(m[1]) + UNITS[m[2]]);      // "63 or more days"
-  take(B + "(?!(?:19|20)\\d{2}" + E + ")(" + NUM + ")[\\s-]" + BETWEEN + UNIT + E, (m) => num(m[1]) + UNITS[m[2]]);
+  take(SIGN + B + "(" + NUM + ")[\\s-]" + UNIT + E, (m) => signed(m[1]) + num(m[2]) + UNITS[m[3]]);
+  take(SIGN + B + "(" + NUM + "|" + Object.keys(WORDS).join("|") + ")\\s(?:or more|or less|or fewer|o más|o menos)\\s" + UNIT + E,
+    (m) => signed(m[1]) + (WORDS[m[2]] ?? num(m[2])) + UNITS[m[3]]);
+  take(SIGN + B + "(?!(?:19|20)\\d{2}" + E + ")(" + NUM + ")[\\s-]" + BETWEEN + UNIT + E, (m) => signed(m[1]) + num(m[2]) + UNITS[m[3]]);
   take(B + "(" + Object.keys(WORDS).join("|") + ")[\\s-]" + BETWEEN + UNIT + E, (m) => WORDS[m[1]] + UNITS[m[2]]);
   take(B + "(" + Object.keys(FULL).join("|") + ")" + E, (m) => "month:" + pad(FULL[m[1]]));
   // ordinals: 16th, 16.º

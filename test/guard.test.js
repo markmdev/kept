@@ -41,6 +41,9 @@ test("a refused rewrite never reaches the page, and says why", () => {
     ["The first job needs at least 35 hours. The second job needs at least 35 hours.", "The first job needs 35 hours. The second job needs at least 35 hours.", /'at least' beside 35h is kept 1 of 2 times/],
     ["Your balance is -£100.", "Your balance is £100.", /missing from the rewrite: -£100/],
     ["Your balance is -100.", "Your balance is 100.", /missing from the rewrite: -100/],
+    ["|A|-£100|", "|A|£100|", /missing from the rewrite: -£100/],
+    ["The adjustment is -5 hours.", "The adjustment is 5 hours.", /missing from the rewrite: -5h/],
+    ["You need two or more hours.", "You need two or fewer hours.", /'at least' beside 2h became 'up to'/],
   ];
   for (const [original, rewrite, why] of refused) {
     const said = replace(original, rewrite, "s1");
@@ -52,6 +55,15 @@ test("a refused rewrite never reaches the page, and says why", () => {
   const said = replace("You need to spend at least 35 hours a week caring.", "You must care for someone at least 35 hours each week.", "s1");
   assert.deepEqual([said.ok, said.reasons, said.result], [true, [], "replaced"]);
   assert.deepEqual(page, [["s1", "You must care for someone at least 35 hours each week."]]);
+});
+
+test("the same figures and limits in other words are accepted", () => {
+  for (const [original, rewrite] of [
+    ["You need at least 35 hours.", "You need 35 or more hours."],
+    ["Pay by 5pm.", "Pay by 17:00."],
+    ["The fee is £100-200.", "The fee is £100 to 200."],
+    ["Your balance is −£100.", "You have a balance of -£100."],
+  ]) assert.equal(check(original, rewrite).ok, true, rewrite);
 });
 
 test("a translation is not held to the duty words of another language", () => {
