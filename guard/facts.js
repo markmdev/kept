@@ -57,7 +57,7 @@ export function counted(text) {
   take(B + MON + E + "\\.?\\s+(\\d{1,2})(?:st|nd|rd|th)?" + E + "(?![.,]?\\d|\\s?(?:%|" + Object.keys(UNITS).join("|") + ")" + E + ")",
     (m) => `date:${pad(MONTHS[m[1]])}-${pad(m[2])}`);
   // money and pence
-  take(SIGN + "([£$])\\s?(" + NUM + ")\\s?(million|billion|millones|millón|m" + E + "|bn" + E + "|k" + E + ")?",
+  take(SIGN + "([£$])\\s?(" + NUM + ")(?:\\s?(million|billion|millones|millón|m" + E + "|bn" + E + "|k" + E + "))?",
     (m) => signed(m[1]) + m[2] + num(m[3]) + ({ million: "m", millones: "m", "millón": "m", billion: "bn" }[m[4]] ?? m[4] ?? ""));
   take(SIGN + B + "(" + NUM + ")\\s?(?:libras|pounds)" + E, (m) => signed(m[1]) + "£" + num(m[2]));
   take(SIGN + B + "(" + NUM + ")\\s?(?:dollars|dólares)" + E, (m) => signed(m[1]) + "$" + num(m[2]));

@@ -44,6 +44,7 @@ test("a refused rewrite never reaches the page, and says why", () => {
     ["|A|-£100|", "|A|£100|", /missing from the rewrite: -£100/],
     ["The adjustment is -5 hours.", "The adjustment is 5 hours.", /missing from the rewrite: -5h/],
     ["You need two or more hours.", "You need two or fewer hours.", /'at least' beside 2h became 'up to'/],
+    ["£100\n-5%", "£100\n5%", /missing from the rewrite: -5%/],
   ];
   for (const [original, rewrite, why] of refused) {
     const said = replace(original, rewrite, "s1");
