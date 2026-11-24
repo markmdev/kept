@@ -1,8 +1,8 @@
-# kept
+# Kept
 
 A guard for pages that let an AI model rewrite official text: the rewrite goes onto the page only if it keeps every figure of the original and the limit words beside them. With it comes a labelled set to measure rewrites with.
 
-A working name. Made for the Open Agentic Web Challenge.
+Made for the Open Agentic Web Challenge.
 
 ## Why
 
@@ -31,9 +31,9 @@ if (!said.ok) console.log(said.reasons);
 
 English and Spanish.
 
-- **Figures.** Every date, time, amount of money, percentage, counted period ("39 weeks") and other number of the original must be in the rewrite, and the rewrite may add none. Each is read into one fixed form first, so "6 April 2026", "April 6, 2026" and "6 de abril de 2026" are the same date, and "£1,000" is "1.000 libras". A period keeps its unit: 3 months can't become 3 weeks.
+- **Figures.** Every date, time, amount of money, percentage, counted period ("39 weeks") and other number of the original must be in the rewrite, and the rewrite may add none. Each is read into one fixed form first, so "6 April 2026", "April 6, 2026" and "6 de abril de 2026" are the same date, and "£1,000" is "1.000 libras". A period keeps its unit: 3 months can't become 3 weeks. A minus sign is part of its figure: -£100 can't become £100.
 - **How often.** No figure may appear fewer times than in the original. A rewrite may repeat one when it cuts a sentence in two.
-- **Limit words beside a figure.** "At least", "up to", "more than", "less than", "by", "before", "after", "within", "from" and their Spanish forms. A figure that has one keeps it, in any wording of the same kind: "no more than" may stand for "up to", "before" may not stand for "by".
+- **Limit words beside a figure.** "At least", "up to", "more than", "less than", "by", "before", "after", "within", "from" and their Spanish forms. A figure that has one keeps it in every place it had it, in any wording of the same kind: "no more than" and "35 or fewer hours" may stand for "up to", "before" may not stand for "by".
 - **Duty words.** In a rewrite in the same language, "you'll get" and "you must" can't become "you may", and a "may", "usually" or "in most cases" can't vanish.
 - **Lists under "both" or "all of".** A list that must hold together can't be turned into separate sentences that each read as enough.
 
@@ -41,20 +41,20 @@ English and Spanish.
 
 `node benchmark/score.js` prints this for every run in the labelled set. On the seven runs in English that the limit-words check was not built on, 1,028 rewrites:
 
-- 97 hold a real change of meaning, by the marks in the set. The guard refuses 30 of them.
+- 97 hold a real change of meaning, by the marks in the set. The guard refuses 31 of them.
 - Of the other 931 it refuses 26: 18 for a figure that is missing, added or given fewer times, which anyone can check against the page, and 8 for words alone, under 1 in 100.
 
 So it stops about 3 in 10 of the changes that matter, and it does not replace a second reader. It sees a limit word lost, a duty word weakened and a list pulled apart. It does not see a condition turned into a statement, a person dropped from a rule, or an example turned into the rule. Use it before a second model that reads the rewrite against the original, not instead of one.
 
-Planted damage, `node damage/plant.js`: each of the 1,444 rewrites the guard accepts is damaged in three ways, and the guard is asked again.
+Planted damage, `node damage/plant.js`: each of the 1,440 rewrites the guard accepts is damaged in three ways, and the guard is asked again.
 
 | Damage | Refused |
 |---|---|
-| One digit changed | 1,432 of 1,432 |
-| A unit, month or sign beside a figure swapped | 734 of 734 |
-| A line that holds a figure dropped | 1,349 of 1,434 |
+| One digit changed | 1,430 of 1,430 |
+| A unit, month or sign beside a figure swapped | 733 of 733 |
+| A line that holds a figure dropped | 1,349 of 1,429 |
 
-The 85 dropped lines it lets through each held figures that the rewrite also gives elsewhere, most of them a heading that the text under it repeats.
+The 80 dropped lines it lets through each held figures that the rewrite also gives elsewhere, most of them a heading that the text under it repeats.
 
 ## Measure your own rewrites
 
