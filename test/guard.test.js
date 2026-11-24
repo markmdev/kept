@@ -6,7 +6,7 @@ import { compare, recount } from "../guard/facts.js";
 import { check, guard } from "../guard/index.js";
 import { beside, duty, lists } from "../guard/limits.js";
 
-// measured.json is what the checks said of each rewrite when they were measured, on 15 November 2026, in the Python
+// measured.json is what the checks said of each rewrite when they were last measured, on 24 November 2026, in the Python
 // they were first written in. The numbers the README gives were counted from those verdicts.
 test("every rewrite of the labelled set gets the verdict it got when the checks were measured", () => {
   const measured = JSON.parse(readFileSync(new URL("measured.json", import.meta.url), "utf8"));
@@ -35,6 +35,12 @@ test("a refused rewrite never reaches the page, and says why", () => {
     ["Pay by 11:59pm on 31 January 2027.", "Pay by 11:59pm on 31 January 2028.", /missing from the rewrite: 2027-01-31/],
     ["It is paid for up to 39 weeks.", "It is paid for up to 39 months.", /missing from the rewrite: 39w/],
     ["The rate is £194.32 a week. You get £194.32 for each week you are off.", "You get £194.32 for each week you are off.", /given fewer times than in the original: £194.32/],
+    ["You need at least 35 hours.", "You need 35 or fewer hours.", /'at least' beside 35h became 'up to'/],
+    ["Pay by 5pm.", "Pay before 17:00.", /'by' beside 17:00 became 'before'/],
+    ["Pay by midnight.", "Pay after midnight.", /'by' beside midnight became 'after'/],
+    ["The first job needs at least 35 hours. The second job needs at least 35 hours.", "The first job needs 35 hours. The second job needs at least 35 hours.", /'at least' beside 35h is kept 1 of 2 times/],
+    ["Your balance is -£100.", "Your balance is £100.", /missing from the rewrite: -£100/],
+    ["Your balance is -100.", "Your balance is 100.", /missing from the rewrite: -100/],
   ];
   for (const [original, rewrite, why] of refused) {
     const said = replace(original, rewrite, "s1");

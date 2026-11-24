@@ -19,6 +19,8 @@ export const WORDS = {
   dos: 2, tres: 3, cuatro: 4, cinco: 5, seis: 6, siete: 7, ocho: 8, nueve: 9, diez: 10, once: 11, doce: 12,
 };
 export const NUM = "\\d+(?:[.,]\\d+)*";
+const SIGN = "(?:(?<![^\\s(])([-−]))?";
+const signed = (sign) => (sign ? "-" : "");
 // Month names that stand alone, and one word allowed between a figure and its unit ("2 more weeks").
 const FULL = Object.fromEntries(Object.entries(MONTHS).filter(([name]) => name.length > 4 || ["june", "july", "mayo"].includes(name)));
 const BETWEEN = "(?:(?!(?:or|to|and|in|of|for|a|the|per|than|is|are|o|y|de|en|por|que|a)\\s)[a-záéíóúñ-]+\\s)?";
@@ -54,12 +56,12 @@ export function counted(text) {
   take(B + MON + E + "\\.?\\s+(\\d{1,2})(?:st|nd|rd|th)?" + E + "(?![.,]?\\d|\\s?(?:%|" + Object.keys(UNITS).join("|") + ")" + E + ")",
     (m) => `date:${pad(MONTHS[m[1]])}-${pad(m[2])}`);
   // money and pence
-  take("([£$])\\s?(" + NUM + ")\\s?(million|billion|millones|millón|m" + E + "|bn" + E + "|k" + E + ")?",
-    (m) => m[1] + num(m[2]) + ({ million: "m", millones: "m", "millón": "m", billion: "bn" }[m[3]] ?? m[3] ?? ""));
-  take(B + "(" + NUM + ")\\s?(?:libras|pounds)" + E, (m) => "£" + num(m[1]));
-  take(B + "(" + NUM + ")\\s?(?:dollars|dólares)" + E, (m) => "$" + num(m[1]));
+  take(SIGN + "([£$])\\s?(" + NUM + ")\\s?(million|billion|millones|millón|m" + E + "|bn" + E + "|k" + E + ")?",
+    (m) => signed(m[1]) + m[2] + num(m[3]) + ({ million: "m", millones: "m", "millón": "m", billion: "bn" }[m[4]] ?? m[4] ?? ""));
+  take(SIGN + B + "(" + NUM + ")\\s?(?:libras|pounds)" + E, (m) => signed(m[1]) + "£" + num(m[2]));
+  take(SIGN + B + "(" + NUM + ")\\s?(?:dollars|dólares)" + E, (m) => signed(m[1]) + "$" + num(m[2]));
   take(B + "(\\d+)p" + E, (m) => "p" + m[1]);
-  take(B + "(" + NUM + ")\\s?(?:%|per cent|percent|por ciento)", (m) => num(m[1]) + "%");
+  take(SIGN + B + "(" + NUM + ")\\s?(?:%|per cent|percent|por ciento)", (m) => signed(m[1]) + num(m[2]) + "%");
   // times of day
   take(B + "(\\d{1,2})(?:[:.](\\d{2}))?\\s?(am|pm|a\\.\\s?m\\.|p\\.\\s?m\\.)", (m) => `time:${pad(Number(m[1]) % 12 + (m[3][0] === "p" ? 12 : 0))}:${m[2] || "00"}`);
   take(B + "([01]?\\d|2[0-3]):([0-5]\\d)" + E + "(?:\\s?(?:h|horas)" + E + ")?", (m) => `time:${pad(Number(m[1]))}:${m[2]}`);
@@ -73,7 +75,7 @@ export function counted(text) {
   // ordinals: 16th, 16.º
   take("(?<![a-z0-9])(\\d+)(?:st|nd|rd|th|\\.?[ºª]|\\.?er)(?![a-z0-9])", (m) => "n:" + m[1]);
   // every other figure: years, ages, counts, form numbers, phone numbers
-  take("(?<![a-z])(" + NUM + ")(?![a-z])", (m) => "n:" + num(m[1]));
+  take(SIGN + "(?<![a-z])(" + NUM + ")(?![a-z])", (m) => "n:" + signed(m[1]) + num(m[2]));
   take(B + "([a-z]+\\d+[a-z0-9]*)" + E, (m) => "code:" + m[1]);
   return out;
 }

@@ -6,18 +6,23 @@
 // duty(), which needs the two texts in one language.
 import { B, E, MON, NUM, PERIOD, UNITS, WORDS, counted } from "./facts.js";
 
+const SIGN = "(?:(?<![^\\s(])[-−])?";
 const UNIT = "(?:" + Object.keys(UNITS).sort((a, b) => b.length - a.length).join("|") + ")";
 const WORDNUM = "(?:" + Object.keys(WORDS).join("|") + ")";
 const FIGURE = new RegExp([
   "\\d{1,2}(?:st|nd|rd|th)?\\s+(?:de\\s+)?" + MON + E + "\\.?(?:\\s+(?:de\\s+)?(?:19|20)\\d{2})?",
   MON + E + "\\.?\\s+\\d{1,2}(?:st|nd|rd|th)?(?:,?\\s+(?:19|20)\\d{2})?" + E,
   MON + E + "\\.?\\s+(?:de\\s+)?(?:19|20)\\d{2}" + E,
-  "[£$]\\s?" + NUM + "(?:\\s?(?:million|billion|millones|millón))?",
-  NUM + "\\s?(?:%|per cent|percent|por ciento|pounds|libras|dollars|dólares)",
+  SIGN + "[£$]\\s?" + NUM + "(?:\\s?(?:million|billion|millones|millón))?",
+  SIGN + NUM + "\\s?(?:%|per cent|percent|por ciento|pounds|libras|dollars|dólares)",
   "\\d{1,2}(?:[:.]\\d{2})?\\s?(?:am|pm|a\\.\\s?m\\.|p\\.\\s?m\\.)",
+  "(?:[01]?\\d|2[0-3]):[0-5]\\d" + E + "(?:\\s?(?:h|horas)" + E + ")?",
+  B + "(?:midnight|medianoche|midday|noon|mediodía)" + E,
+  NUM + "\\s(?:or more|or less|or fewer|o más|o menos)\\s" + UNIT + E,
   "(?:" + NUM + "|" + WORDNUM + ")[\\s-](?:[a-záéíóúñ-]+\\s)?" + UNIT + E,
-  NUM,
+  SIGN + NUM,
 ].join("|"), "giu");
+const INNER = [["at least", /\s(?:or more|o más)\s/iu], ["up to", /\s(?:or less|or fewer|o menos)\s/iu]];
 
 // Each limit word's class. A class is what must survive; any word of the class may stand for another.
 const BEFORE_FIGURE = [
@@ -28,13 +33,13 @@ const BEFORE_FIGURE = [
   ["by", "by|no later than|not later than|on or before|deadline is|deadline of|deadline on|a más tardar|fecha límite es"],
   ["until", "until|up until|till"],
   ["hasta", "hasta"],
-  ["before", "before|earlier than|prior to|antes de"],
+  ["before", "before|earlier than|prior to|antes de|anterior(?:es)? a"],
   ["after", "after|later than|después de|tras|pasado"],
   ["within", "within|dentro de|en un plazo de|en el plazo de"],
   ["from", "from|since|starting(?: on)?|starts on|start on|started on|begins on|on or after|beginning|desde|a partir de|comenzó el|empezó el|comienza el|empieza el|inició el|inicia el"],
 ];
 const AFTER_FIGURE = [
-  ["at least", "or (?:more|over|above|older|higher)|and (?:over|above|older)|at least|minimum|o más|o mayor(?:es)?|o superior(?:es)?|en adelante|como mínimo"],
+  ["at least", "or (?:more|over|above|older|higher)|and (?:over|above|older)|at least|minimum|o más|y más|o mayor(?:es)?|o superior(?:es)?|en adelante|como mínimo"],
   ["up to", "or (?:less|under|below|younger|lower|fewer)|and (?:under|below|younger)|at (?:the )?most|maximum|o menos|o menor(?:es)?|o inferior(?:es)?|como máximo"],
   ["from", "or (?:after|later)|o después|o posterior(?:mente)?"],
 ];
@@ -46,7 +51,7 @@ const AL = new RegExp(B + "al" + E + "(?! menos)", "gu"), DEL = new RegExp(B + "
 const SPAN = new RegExp(B + "(?:over|under)" + GAP + "$", "iu");
 const clean = (text) => text.replaceAll(" ", " ").replaceAll("’", "'");
 
-/** For each figure, the limit words the text puts beside it: Map of figure to a Set of classes. */
+/** For each figure, how many times the text puts each limit word's class beside it: Map of figure to a Map of class to count. */
 export function limited(text) {
   const out = new Map();
   text = clean(text).replaceAll("*", "");
@@ -56,7 +61,7 @@ export function limited(text) {
     const end = m.index + m[0].length;
     const before = text.slice(Math.max(0, m.index - 60), m.index).split(BREAK).at(-1).replace(DEL, "de el").replace(AL, "a el") + " ";
     const after = text.slice(end, end + 30).split(BREAK)[0];
-    const found = new Set([...PRE.filter(([, rx]) => rx.test(before)), ...POST.filter(([, rx]) => rx.test(after))].map(([name]) => name));
+    const found = new Set([...PRE.filter(([, rx]) => rx.test(before)), ...POST.filter(([, rx]) => rx.test(after)), ...INNER.filter(([, rx]) => rx.test(m[0]))].map(([name]) => name));
     const day = figures.some((f) => /^(?:date|time|month):/.test(f));
     const period = figures.some((f) => PERIOD.test(f));
     // "until" and "hasta" set a deadline before a date and a ceiling before an amount; "by £1" is no limit at all
@@ -71,8 +76,8 @@ export function limited(text) {
     // "aged 16" and "16 años" are one figure
     for (const f of figures) {
       const key = f.replace(/^([\d.]+)y$/, "n:$1");
-      if (!out.has(key)) out.set(key, new Set());
-      for (const name of found) out.get(key).add(name);
+      if (!out.has(key)) out.set(key, new Map());
+      for (const name of found) out.get(key).set(name, (out.get(key).get(name) ?? 0) + 1);
     }
   }
   return out;
@@ -87,8 +92,11 @@ export function beside(original, rewrite) {
     if (!b.has(f)) continue;      // a missing figure is the figures check's to refuse
     // A limit word the rewrite adds where the original had none is left to a second reader: a rewrite that turns a
     // list under "after:" into sentences adds one honestly.
-    const lost = [...a.get(f)].filter((name) => !b.get(f).has(name)).sort(), added = [...b.get(f)].filter((name) => !a.get(f).has(name)).sort();
-    if (lost.length) why.push(`'${lost.join(" and ")}' beside ${shown(f)} ` + (added.length ? `became '${added.join(" and ")}'` : "is gone"));
+    const was = a.get(f), now = b.get(f);
+    const gone = [...was.keys()].filter((name) => !now.has(name)).sort(), added = [...now.keys()].filter((name) => !was.has(name)).sort();
+    if (gone.length) why.push(`'${gone.join(" and ")}' beside ${shown(f)} ` + (added.length ? `became '${added.join(" and ")}'` : "is gone"));
+    for (const name of [...was.keys()].filter((c) => now.has(c) && now.get(c) < was.get(c)).sort())
+      why.push(`'${name}' beside ${shown(f)} is kept ${now.get(name)} of ${was.get(name)} times`);
   }
   return why;
 }
